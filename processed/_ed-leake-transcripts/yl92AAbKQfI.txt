@@ -1,0 +1,174 @@
+[0] Hi there, I'm Ed Leak and today we're
+[2] going to discuss the four audiences you
+[4] should always use in your Facebook ad
+[6] campaigns.
+[8] However, before I rattle through the
+[9] audiences, let's cover off the most
+[11] important part of any advertising
+[13] campaign, measuring the results. Uh, if
+[16] you can't measure your marketing, you're
+[18] burning time and wasting money. That's a
+[20] fact. I know it might seem like the
+[22] boring bit, but in all honesty, if you
+[24] haven't already, get your tracking
+[25] sorted. Now, when that comes to
+[27] Facebook, that means implementing your
+[29] tracking pixel. The pixel is a sliver of
+[32] code you'll find in your ad manager. Get
+[34] that installed on every page of your
+[36] website. So, setting up your Facebook
+[39] conversion pixel and custom audiences
+[41] are essential to tracking performance.
+[44] It'll enable you to tap into Facebook's
+[46] deep targeting capabilities and perhaps
+[49] more importantly, leverage the automated
+[51] optimized conversion-based bidding. So I
+[54] guess you could say the pixel has three
+[56] key purposes. One being to track your
+[58] your goals, your conversions. The second
+[61] to be optimizing your ads against and
+[63] thirdly to build your retargeting
+[65] audience. So Facebook's ad algorithms
+[69] are very clever. They go deep and you
+[71] really want to use them. So when you're
+[74] optimizing for conversions in
+[75] particular, having the pixel present on
+[78] your website enables those algorithms to
+[80] prioritize showing your ad to the right
+[82] people that will convert. uh and that
+[84] whole process uh improves over time and
+[86] it's automated as I've said before. So
+[88] that's the tracking bit done. Let's talk
+[90] about the audiences. Always start with
+[93] these four audiences. It can be tempting
+[96] to craft your own audience at the start.
+[98] You know, the demographic and behavioral
+[100] targeting is quite compelling and also
+[102] exciting and interesting to to dive
+[104] into. But for new advertisers in
+[106] particular, uh it can be often quite
+[108] difficult to beat the system. So, let's
+[110] use the tools at our disposal here and
+[112] start with the following four audiences.
+[115] So, number one is the obvious choice,
+[117] your current page fans. It's the obvious
+[120] starting point. You've earned them, so
+[122] why not push your stuff to them?
+[124] Obviously, if you've got a smaller
+[125] audience at this stage, then ad reach
+[127] will be limited, but engagement rates
+[130] should be higher. Secondly, is your
+[132] current customers 1% lookalike audience?
+[135] So lookalike audiences are a good way to
+[138] widen the net on an otherwise small but
+[140] relevant audience. Facebook looks at
+[143] around 1,500 data points to build a
+[146] lookalike audience from your own. That
+[149] deep data means the bigger your
+[150] audience, you know, the bigger the
+[152] starting audience that you upload, the
+[154] more powerful look alikes become. Your
+[156] current customers can be divided up into
+[159] actual sales leads that you may have
+[161] captured uh and email subscribers. So
+[163] depending on your goal, you can split
+[165] them out and upload them to Facebook and
+[167] then you can create a 1% lookalike off
+[170] the back of those.
+[172] Thirdly is your website visitors. So
+[174] this is known as remarketing or
+[176] retargeting. Essentially showing ads to
+[178] people who have already visited your
+[180] website. Gives you an edge in in the
+[182] attention race. You know, people's news
+[184] feeds are busy. So if they're familiar
+[186] with you, these people will be
+[188] consciously or or subconsciously aware
+[190] of you. Therefore, there will be bias
+[192] towards your brand. Um, of course, be
+[195] sure to exclude current customers or
+[197] sales from this list. And you do that by
+[199] setting up a custom audience of your
+[202] existing sales, your existing customers.
+[204] So, you can both target a list of people
+[206] and also exclude a list of people.
+[209] Fourth on the list is a 1% lookalike of
+[212] your website visitors. So, this extends
+[214] your your remarketing reach even
+[216] further. So, not only do you target
+[218] people that visited your website, but
+[220] you can use Facebook's data to find
+[222] similar people uh again based on those
+[225] 1500 or so data points, behavior,
+[228] demographic, and all sorts of
+[229] information uh including browsing habits
+[231] that Facebook has on people. The 1%
+[234] lookalike of your website visitors is a
+[237] great audience to create. It works
+[238] really well. So, here's a quick rule of
+[241] thumb for target audience sizes. Uh, you
+[243] can expand audience sizes in the future,
+[245] but for now, I'd always advocate
+[248] starting between 300,000 and a million.
+[250] The exception to this rule is your own
+[252] page fans, of course, because you may
+[254] not have 300,000 to a million people. Do
+[256] pay very close attention to your
+[258] frequency, uh, the number of times that
+[260] your advert is shown on average to an
+[263] individual. This is a metric that I
+[265] discussed in my previous video entitled,
+[267] "Cut the crap. Focus on these three
+[269] Facebook ad metrics." So, have a look at
+[271] that. it supports this this video
+[273] nicely. So, when it comes to uh
+[276] targeting as well, if you've only got
+[278] 5,000 email addresses to upload, you
+[280] might think, well, how do I get to to
+[283] 300,000 as a minimum? Well, no problem.
+[286] You build a lookalike audience from it.
+[287] So, use the 1% rule to build an audience
+[289] of 300 and something thousand. Same goes
+[292] for when you only have 10,000 visitors
+[294] to your website and your retargeting
+[296] list. No problem. You build a 1%
+[298] lookalike. They work really well. They
+[300] grow your your audience, your existing
+[303] uh user base literally in the click of a
+[305] button. Really clever. A quick word on
+[307] ad images. I know this video is not
+[309] about campaign structure, it's about
+[310] audience structure, but again, quick
+[312] rule of thumb, always test at the very
+[313] least three different images per ad set.
+[316] So, Facebook audiences are very
+[318] sensitive to imagery. An image will have
+[321] the the biggest impact of all your ads
+[323] performance to test them. We try and
+[326] test a dozen images and see considerable
+[328] differences in clicks and conversions
+[330] even if the advert text and headline
+[331] remains the same. So images have search
+[334] and impact. And this is what the final
+[337] setup looks like with uh one campaign.
+[340] This might be a an engagement campaign,
+[342] a conversionbased campaign, a lead gen,
+[344] whatever it may be. So we have one
+[346] campaign with four ad sets. Each set has
+[349] its own audience as described in this
+[351] video and its own ads within. keep
+[353] things simple. You could use the same
+[355] ads across all four um audiences there,
+[358] each, you know, all four ad sets as it
+[359] were because the campaign has one
+[361] specific goal. So, the assumption being
+[364] that the ads should all sort of fall
+[366] into favor with each other. And that's
+[368] it. The four audiences that you should
+[371] always start with when you're doing your
+[372] Facebook advertising. So, if you've got
+[373] any questions, please leave a comment
+[375] below. And now, go forth and advertise.
+[377] And remember, always be measuring,
+[379] always be testing. Until next time,
+[381] thanks for listening.

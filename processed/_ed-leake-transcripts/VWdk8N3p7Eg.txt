@@ -1,0 +1,65 @@
+[0] hi guys ed leak here today I'm going to
+[2] show you quickly and simply how to
+[4] refine your Facebook audience with
+[6] Google Analytics data so when you start
+[9] advertising on Facebook one of the first
+[10] things you see is your audience profile
+[13] and gender and unfortunately this is
+[15] where a lot of people come unstuck so do
+[17] you ever stare these options and either
+[19] select the default or worse do you just
+[21] guess let me show you how using your
+[24] actual visitor data you can hone your
+[26] audience targeting to get in front of
+[28] the right people who are more likely to
+[30] buy from you let's jump into google
+[32] analytics and selecting the past three
+[35] months date range navigate your way down
+[38] to audience demographics and then age so
+[43] this is an online store this example
+[45] we'll look at the e-commerce data
+[46] immediately several things become
+[48] apparent here so driving the most
+[50] traffic or sessions are the 25 to 44
+[54] year old however the 25 to 34 segment is
+[58] not only converting more they are
+[59] spending nearly twice as much also note
+[63] whilst the younger audience of 1824
+[65] spending on average more they also
+[67] unfortunately convert quite poorly you
+[70] can dig a little deeper by clicking the
+[71] age range so let's let's have a look at
+[73] our best performing group here of 25 to
+[76] 34 now this is telling so whilst women
+[79] account for eleven percent of traffic
+[81] they actually account for twenty percent
+[83] of the revenue in this range and look at
+[85] that per session value that's nice if
+[88] you weren't aware the per session value
+[90] simply a divisible some so total revenue
+[92] divided by total sessions it's for wrong
+[96] online stores in particular it's a good
+[97] indicator of sales performance you can
+[99] use it on any traffic channel or a
+[101] demographic and so on so let's take a
+[104] step back now using the comparison
+[106] visualization tool which is really handy
+[108] we use the sessions as a baseline but
+[111] now you can assess the age range is
+[113] based on conversion rate and order value
+[115] so this will highlight how above or
+[118] below the average each range is for
+[120] example hey we need to show some love to
+[123] the 55 to 64 year olds they convert the
+[125] best here you can do the same for gender
+[128] too of course so we know that women
+[131] spend more that tells me that the
+[133] there needs to be more female orientated
+[135] ads and copy to drive up those female
+[137] visitor sessions but in addition there
+[140] there needs to be more focused on the 25
+[141] to 30 year olds full stop as they
+[144] convert and spend really well and that
+[146] is it so now you know use your own data
+[148] stop guessing and improve your ad
+[150] targeting good look

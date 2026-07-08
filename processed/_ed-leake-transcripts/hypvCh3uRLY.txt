@@ -1,0 +1,152 @@
+[0] hi guys I'm edley today we're going to
+[2] discuss cutting the crap and focusing on
+[4] the three Facebook ad matrics that
+[6] actually matter are you advertising on
+[9] Facebook or looking to get started then
+[11] you're probably staring at a wall of AD
+[13] performance numbers uh so let's cut
+[15] through the noise in this video I'll
+[17] show you the three metrics that matter
+[18] the most but first here's a really quick
+[20] rundown of the Facebook ad metrics so
+[23] firstly we have Impressions this is
+[25] literally how many times someone sees
+[27] your ad Reach This is the unique
+[30] Impressions hence that will be lower
+[31] than your total Impressions next is
+[34] social Impressions that are add
+[35] Impressions that include social context
+[39] by that I mean if you target friends of
+[41] people who like your page then those
+[42] people will see their friend's name in
+[44] the advert now depending on what you do
+[46] and sell this can trigger heightened
+[49] engagement uh but it certainly won't
+[51] work for all markets and industries next
+[53] we have frequency this is how many times
+[56] a person on average has seen your advert
+[59] and cost of course should go about
+[61] saying your total spend for this period
+[64] clicks all is the total number of clicks
+[67] on your ad so these could be likes
+[69] shares link clicks uh or mere clicks on
+[72] the actual advert itself there's also uh
+[75] click through eight uh CTR which is
+[77] split between all and Link so Facebook
+[80] has a uh CTR all CTR link there's an
+[84] important difference here if your goal
+[85] is to get engagement then the all
+[87] measurement uh for CTR is is relevant if
+[90] you're looking for link clicks then
+[92] ignore the CTR all as it's uh it's going
+[94] to overread and skew what you're
+[96] actually gunning for then CPC or cost
+[99] per click is how much you spend per
+[102] interaction with your ad uh again this
+[105] might not be a link click sometimes
+[107] people just like your ad and move on I
+[109] don't know why but they do uh there's
+[111] also uh a CPC measurement for link
+[114] clicks which is probably more useful to
+[115] be honest CPM which is cost per me is
+[119] your cost per 1,000 add Impressions so
+[123] link clicks is next and that represents
+[125] the total clicks that take people off
+[128] Facebook and then there's engagement
+[130] metrics which again these are pretty
+[132] self-explanatory so they come in the
+[134] form of post likes comments and shares
+[136] in the addition you will get page likes
+[138] off the back of ads which you can
+[139] measure too here uh in your in your
+[142] Facebook ad manager now people taking
+[145] action is the number of unique actions
+[148] per person so for example a single
+[151] person liking a post and clicking the
+[153] link is considered one person taking
+[156] action and finally relevancy a simple
+[160] metric it's a bit like the Google
+[161] AdWords quality score uh that signifies
+[164] from 1 to 10 how engaged your audiences
+[167] with your ad now it might be last on
+[169] this list of metrics but it's important
+[171] to remember an above average relevancy
+[174] score directly correlates to spending
+[176] Less on ads so consider that when
+[179] Facebook ads has to decide which ad to
+[182] display to a specific user the algorithm
+[185] will have a preference to the more
+[186] relevant ad being shown first if that ad
+[189] isn't yours it quickly becomes more
+[191] expensive to advertise and this this
+[194] effect unfortunately snowballs over time
+[197] so relevance is the most important
+[199] metric then well actually no let me
+[202] explain you said a goal for your ad so
+[205] let's say you want to capture a lead for
+[207] your offer you're an online retailer you
+[209] will hopefully know your conversion rate
+[211] and therefore how much that lead is
+[212] worth to your business therefore you can
+[215] calculate C your CPA your cost per
+[217] acquisition so it doesn't matter if you
+[219] spend $100 or 10,000 if your ad delivers
+[222] leads for or less than your target CPA
+[227] then you're winning so that's in an
+[229] ideal world but there are two other
+[231] priority metrics I'd use to hone and
+[233] fine-tune your ads and these are
+[235] click-through rate and frequency so
+[237] firstly why CTR why clickthrough rate
+[240] because clickthrough rate tells you how
+[242] well your ad is performing and how many
+[244] people care to click so consider that
+[247] under 2% click-through is poor
+[250] particularly 1% or less which is
+[251] diabolical if you got a clickthrough
+[253] rate of 1% or less you need to change
+[256] your ad your copy or probably the the
+[259] audience you're targeting so therefore
+[261] if 2% is considered average it's okay I
+[264] mean if it's falling within your cost
+[265] parameters then it's okay but you should
+[267] really be aiming for three to four % or
+[270] more uh and to be honest if you start
+[272] hitting 5 to 10% and Beyond you know
+[274] your message to your audience match is
+[277] really strong that in turn will drive
+[278] down your cost per click and engagement
+[280] over time so clickthrough rate really is
+[283] important and frequency which I
+[285] mentioned earlier this is the third
+[287] important metric so frequency is the
+[289] gauge for understanding if you're about
+[291] to burn your Bridges and piss people off
+[293] for that simple reason it's a really
+[295] good performance metric so if your
+[298] frequency is under five which which
+[299] means on average people have seen your
+[301] ad five times then you're in the safe
+[303] Zone you're still in the friend zone so
+[306] a frequency of sort of five to 10 is
+[308] acceptable but less than optimal and
+[310] will typically mean your click-through
+[312] rate drops with time over 10 on the
+[315] frequency metric and you're in the
+[317] danger zone uh you're starting to hit
+[319] saturation which isn't attractive to
+[321] people they potentially will tune out or
+[323] Worse Mark your ads as as junk and
+[326] you'll be lost to them forever well on
+[328] Facebook at least which is 1.6 billion
+[330] potential people that's significant so
+[333] cutting through all the noise the three
+[335] critical metrics that I pay attention to
+[338] is cost per acquisition your CPA your
+[341] clickthrough rate your CTR and the
+[343] frequency that people see your ads
+[345] that's been really helpful if you have
+[347] any questions please leave them in in
+[348] the comments below and keep an eye out
+[350] for my next video which is uh discussing
+[353] Facebook ad audiences cheers

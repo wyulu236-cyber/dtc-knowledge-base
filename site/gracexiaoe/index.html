@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gracexiaoe · 效果投放学习库 · DTC × Amazon</title>
+  <meta name="description" content="效果投放学习库 · DTC × Amazon · YouTube 博主精读 + Google/Meta 官方动态,带 ▶ 时间戳的 takeaway。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@500;600;700&family=Noto+Sans+SC:wght@400;500&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="#/" class="brand">
+      <span class="brand__seal">墨</span>
+      <span class="brand__wordmark">
+        <span class="brand__name">Gracexiaoe</span>
+        <span class="brand__sub">效果投放 · DTC × Amazon</span>
+      </span>
+    </a>
+    <nav>
+      <a href="#/" data-nav="home">主页</a>
+      <a href="#/playbook" data-nav="playbook">📘 PLAYBOOK</a>
+      <a href="#/updates" data-nav="updates">📋 官方动态</a>
+      <a href="#/topics/" data-nav="topics">主题</a>
+      <a href="#/channels/" data-nav="channels">博主</a>
+      <a href="#/about" data-nav="about">关于</a>
+    </nav>
+    <div class="search-wrap">
+      <input id="search-box" type="search" placeholder="搜 takeaway / 博主 / 术语..." autocomplete="off">
+      <kbd>/</kbd>
+    </div>
+  </div>
+</header>
+
+<main id="app">
+  <div class="loading">加载数据中…</div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span class="foot-brand">Gracexiaoe · 效果投放学习库 · v1</span>
+    <span id="meta-stats"></span>
+    <span class="foot-stack">纯静态站 · 数据 = JSON · 五行属水</span>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="assets/search.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/assistant.js"></script>
+</body>
+</html>

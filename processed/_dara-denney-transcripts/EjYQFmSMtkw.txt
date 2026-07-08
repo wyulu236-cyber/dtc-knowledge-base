@@ -1,0 +1,107 @@
+[0] hey guys welcome to my channel my name
+[2] is Dora and today's video is going to
+[5] show you the easiest way to connect a
+[8] Google Analytics account to your Shopify
+[11] store now the first step that you'll
+[14] have to do is actually create your
+[16] Google Analytics account you will need a
+[19] gmail account before starting this
+[22] process but to begin you're gonna go
+[24] right ahead to analytics.google.com and
+[28] and when we get to this screen you're
+[30] gonna see that we're gonna set up our
+[32] account for free so yes Google Analytics
+[34] is totally free it's a very powerful
+[36] tool you'll definitely want it on your
+[38] Shopify account now the first step is
+[40] just account setup so here you're gonna
+[42] be putting in your account name this can
+[44] just be the name of your Shopify store
+[46] and go ahead and leave all these little
+[48] checkmark boxes checked off next we're
+[51] gonna be determining what we're going to
+[53] be measuring data from so you have two
+[56] choices pretty much website or an app or
+[58] both and if you're just doing it for
+[61] your Shopify account or your Shopify
+[63] store then you just want it for web next
+[66] we're gonna be putting in details about
+[68] the property so again this is just gonna
+[71] be your website name or your Shopify
+[73] name and then you're going to also put
+[76] in your website URL next thing you're
+[78] gonna do is you're going to put in your
+[80] industry category now there's a ton of
+[83] options to choose from just choose the
+[85] industry that's most closely related to
+[87] your store and then you're gonna select
+[89] your reporting time zone and I'm in New
+[93] York time zone create go ahead and
+[97] accept the Terms of Service and then you
+[102] have to select your email communications
+[106] I or I went ahead and selected the first
+[108] three and not offers from Google click
+[111] Save so that's how you create your
+[114] Google Analytics account but you're not
+[117] done yet next you're going to open up a
+[120] tab and go to the admin section of your
+[123] Shopify store once you're here you're
+[126] gonna go ahead and click online store
+[129] and preferences now here you're going to
+[133] see
+[133] you know a few different sections and
+[136] what you do is you'll go back to the
+[138] analytics tab and copy the global site
+[142] tag and then come back and paste it
+[150] right underneath Google Analytics
+[152] account go ahead and click Save and to
+[158] make sure that your Google Analytics
+[160] account and your Shopify store synced
+[163] properly you want to make sure that the
+[166] code you entered turned into the
+[168] tracking ID and it looks like this one
+[171] did so we're all good there but the next
+[174] step is we want to test it to make sure
+[176] that data is actually being properly
+[179] synced between your Shopify store and
+[182] Google Analytics so go ahead and go back
+[185] to the analytics tab and hit the home
+[192] icon now here is the home dashboard for
+[198] your Shopify store you can see that it
+[201] shows how many users are currently on
+[204] and what the current bounce rate and
+[206] certain session durations are now these
+[209] are live statistics so if you have a
+[211] brand new store it's probably gonna look
+[213] like 0 just like mine but if you have a
+[216] pretty popular store and there are tons
+[219] of people on your website at any given
+[220] time your numbers are going to look a
+[222] lot different the next thing we want to
+[224] do is to test and make sure that Google
+[226] Analytics is running properly so what
+[229] we're gonna do is you're gonna open up
+[230] another tab and go directly to your
+[233] website and what you want to do is make
+[237] sure that a user pops up and yep active
+[241] users so this is how you know that
+[243] Google Analytics is running properly on
+[246] your site and really guys
+[249] that's it once you've created your
+[252] Google Analytics account installed it on
+[254] your Shopify account
+[256] and then tested it you're ready to go so
+[259] that was super easy if you guys need
+[263] more information about how to you know
+[266] really easily do some of the techie
+[270] admin things behind the scenes on
+[272] Shopify and on Facebook ads click in the
+[275] description below I also have videos to
+[278] easily set up your Facebook pixel and
+[281] how to easily set up your Facebook ads
+[284] product catalog and all of those things
+[286] take under five minutes so please hit
+[289] subscribe if this video was helpful for
+[291] you and be sure to leave a comment below
+[293] if you have any questions okay thanks
+[295] guys bye

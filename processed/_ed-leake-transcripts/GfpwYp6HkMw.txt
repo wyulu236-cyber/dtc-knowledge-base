@@ -1,0 +1,140 @@
+[1] hi guys I'm Ed leak from Midas media
+[3] today we're going to run through Store
+[5] homepage optimization using your site
+[8] search and your best performing products
+[11] so it's really easy for store owners to
+[13] take abroad or Worse throw the kitchen
+[16] syn edit mentality for their website
+[18] homepage so just cram everything on
+[20] there and people will find the the right
+[23] thing wrong seeing more options does
+[25] indeed attract attention and it makes
+[28] people excited but often results in
+[30] failure to actually make a choice here's
+[32] a little case study using Jam yep jars
+[36] of jam so this Behavior was demonstrated
+[39] in the jam experiment by Sheena irar and
+[42] Mark leop back in year 2000 uh in which
+[45] a tasting booth for exotic jams was set
+[48] up at a grocery store as customers
+[50] passed by the tasting Booth they
+[51] encountered a display of either six or
+[54] 24 different flavored jams so what did
+[58] irar and Lepa find they discovered that
+[60] 3% of people purchased from the 24 Jam
+[63] display which is okay whereas 30%
+[66] purchased from the six Jam display
+[69] that's a 10-fold increase in sales so
+[72] what's my point well you need to remove
+[74] excessive Jam from your store's homepage
+[77] pun intended how do we do this we start
+[80] with the website's search facility so
+[83] let's dive into Google analytics and
+[84] quickly find out which product should
+[87] populate the homepage I'm now in the
+[89] behavior report and we need to click on
+[91] the site search dropdown and then usage
+[94] uh and let's refine this with e-commerce
+[96] data this report identifies the power of
+[99] site search note the conversion rate of
+[101] those people searching being over double
+[104] that of people who don't search also
+[107] their session value is over twice the
+[109] value of non- searches so now we can see
+[111] the importance of site search let's take
+[113] a look at the overview tab this gives us
+[115] a quick health check on how well our
+[117] search is performing pay close attention
+[120] to search exits this number should be as
+[122] low as possible so if people search and
+[124] don't find what they're looking for
+[126] they'll leave and you just missed a an
+[128] opportunity to convert the 17% exits in
+[131] this example is really low so that's
+[132] good uh but still there's there's always
+[134] room to improve uh secondly understand
+[137] how many people refine their search if
+[139] this number is high it could suggest
+[141] your search facility isn't performing or
+[144] isn't optimized you know for example
+[145] does it understand misspellings and
+[147] related terms now only 21% of people
+[151] refine their search so that's not too
+[153] shabby but then again there's room to
+[155] improve here adding filters to the
+[157] search results page could help reduce
+[159] this somewhat because at the end of the
+[161] day the search results is another
+[163] shopping page so there should be
+[164] filtering and categorization on there
+[167] time after search is telling uh did they
+[169] find the thing they were looking for uh
+[171] a good few minutes or more would suggest
+[173] that they did you've kept them kept them
+[175] on the site uh and this example has 3
+[177] minutes and 32 seconds on average which
+[179] is you know it's a good job so site
+[182] search tells you what your customers
+[184] want so if people who search convert
+[186] really well the logic would suggest that
+[190] uh get more people to search right
+[193] that's not entirely true what we
+[194] actually want to do is make the products
+[196] that people search for easier to find in
+[198] the first place that's the logical
+[199] conclusion and considering your homepage
+[202] is typically the most frequented page on
+[204] your website then it makes sense to
+[206] optimize your homepage to display your
+[208] most popular products and not just your
+[210] sale items and special offers therefore
+[213] let's combine your site search data with
+[216] top performing product data this can be
+[219] found in your conversion data which is
+[220] under the shopping analysis dropdown and
+[223] product performance now depending on
+[225] what you sell you can use product
+[227] revenue or perhaps unique purchases to
+[230] sort this data unique purchase numbers
+[232] work well for tightly price product
+[234] ranges whereas Revenue well it's pretty
+[237] self-explanatory when you have a low
+[239] unique purchase number keep a close eye
+[241] on your conversions on this View and
+[244] that's described as buy to detail rate
+[246] in other words how many or what
+[248] percentage of people purchased after
+[250] looking at the product page so this
+[253] again this can highlight high demand
+[255] products that could convert potentially
+[258] better if the product page was better so
+[261] you don't have to stuff your top 10
+[262] products on your homepage the top three
+[264] to five could be more than enough to
+[265] start with and of course complement
+[267] these with the site search data
+[270] so the key Store homepage optimization
+[273] takeaways are that's a bit of a mouthful
+[275] optimize your site search in other words
+[278] make sure it works well ensure that it
+[280] matches misspelled and related terms and
+[284] that you offer sorting and filtering on
+[286] search results this is a a shopping page
+[288] after all so aim for a low exit rate
+[291] after search and you know the results
+[293] should keep them on the site it should
+[295] convert them to of course and use the
+[298] site search information to showcase the
+[300] most popular products on your homepage
+[302] and of course you can show them
+[304] throughout the website in promotional
+[306] areas if you if you have that facility
+[308] and that's it I mean that will help you
+[310] improve your homepage drastically put
+[313] stuff in front of people that they want
+[315] but don't overdo it hope you enjoyed the
+[317] video if you did I'd appreciate your
+[319] like and any shares and of course if you
+[322] have any questions please leave them in
+[323] the comments below and until next time
+[326] good luck and cheers

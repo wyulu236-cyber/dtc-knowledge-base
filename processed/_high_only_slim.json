@@ -1,0 +1,2013 @@
+[
+  {
+    "id": "aaron-young-1k2_-rY-4AQ-1",
+    "channel": "aaron-young",
+    "video_id": "1k2_-rY-4AQ",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 25,
+    "title": "投放前先做关键词研究: keywords 必须拆到 ad group 维度",
+    "summary": "Aaron 强调跑 Google Ads 前必须先完成 keyword research, 而且要把关键词拆到不同 campaign 和 ad group 里。原理: 一个 ad group 只放一个 keyword theme, 这样后续优化、预算分配、报表都能基于明确维度做决策, 而不是混在一起一团乱。Amazon 启示: SP keyword campaign 同样要按 keyword theme 分组而不是把 broad/phrase/exact 混在一个 campaign。",
+    "quote": "before you even dive in and set up and start your google ads campaign you need to do your keyword research first and so much so that you need to have all of your keywords broken into different campaigns and ad groups"
+  },
+  {
+    "id": "aaron-young-1k2_-rY-4AQ-2",
+    "channel": "aaron-young",
+    "video_id": "1k2_-rY-4AQ",
+    "topics": [
+      "niche",
+      "campaign-structure"
+    ],
+    "ts": 121,
+    "title": "关键词研究先用 Google Doc 手写真实搜索词, 再进 Keyword Planner",
+    "summary": "Aaron 不直接打开 Keyword Planner, 而是先在 Google Doc 里手写自己作为消费者会搜的词 (e.g. pest control + 地区修饰词), 把这批种子词复制粘贴进 Keyword Planner discover new keywords 里。原理: 真实消费者搜索习惯比第三方算法更接近实际意图, 起手用真人语料能避免被工具误导扩到无关词。Amazon 启示: 做 SP keyword 调研时, listing copy 不该是唯一种子, 自己以买家身份搜一遍补全 long-tail。",
+    "quote": "the way that I actually start this process and the way that I've always found I've had the most success in google ads campaigns is when I've actually completed before I've even gone into google ads and used the google search keyword tool"
+  },
+  {
+    "id": "aaron-young-1k2_-rY-4AQ-3",
+    "channel": "aaron-young",
+    "video_id": "1k2_-rY-4AQ",
+    "topics": [
+      "bidding",
+      "niche",
+      "budget"
+    ],
+    "ts": 484,
+    "title": "选词只看 trend 不看绝对值, 高竞争 + 高 CPC 直接砍",
+    "summary": "Keyword Planner 给的 monthly search / competition / top of page bid 都只反映过去趋势, 不是未来确定值。Aaron 决策方法: 高 search volume + low/medium competition + 可承受 CPC 的留下; 像 pest control 这种泛词竞争和单价都极高就主动放弃, 用 pest control + 地区 这种 mid-tail 词更划算。Amazon 启示: SP keyword 选词同理, head term 像 'water bottle' 卷不过大牌, 加品类/材质修饰的 long-tail ACoS 更友好。",
+    "quote": "we look here some of these more targeted keywords like pest control sunshine coast and brisbane we've got some really good search volumes but the the the clicks are a little bit more a little bit cheaper as well"
+  },
+  {
+    "id": "aaron-young-1k2_-rY-4AQ-4",
+    "channel": "aaron-young",
+    "video_id": "1k2_-rY-4AQ",
+    "topics": [
+      "campaign-structure",
+      "budget",
+      "reporting"
+    ],
+    "ts": 952,
+    "title": "One Keyword Theme 拆分: 同一类目按地区/属性独立 campaign",
+    "summary": "Aaron 把 keyword 导出成 csv 后, 加两列 (campaign / ad group), 把 'pest control brisbane' 和 'pest control gold coast' 拆到独立 campaign。原理: 不同地区可独立设预算; 报表能立刻看出哪个区域好哪个区域差; 写 ad copy 时 headline 可直接写 'pest control brisbane' 而不是泛词, 提高 CTR。Amazon 启示: 不同 ASIN/品类/受众应拆 campaign 而不是塞一个 campaign 多 ad group, 才能独立调预算和单价。",
+    "quote": "by breaking it down and only having one keyword theme one single keyword theme in each of your ad groups it means that when you come to actually write your ad copy you you can become really really specific and really really targeted"
+  },
+  {
+    "id": "aaron-young-8tQJ120QPiI-1",
+    "channel": "aaron-young",
+    "video_id": "8tQJ120QPiI",
+    "topics": [
+      "campaign-structure",
+      "optimization",
+      "reporting"
+    ],
+    "ts": 269,
+    "title": "Keyword Theme 越细越好, 一个 ad group 只放一个主题",
+    "summary": "Aaron 反复强调 one keyword theme method: 单个 ad group 内只放一个关键词主题。好处四点: ad copy 可写得更精准提升 quality score; 能看清哪个 theme 出转化; 表现差的 theme 一键暂停而不会牵连其他词; 报表清晰。原理: ad group 是 Google Ads 的最小优化单元, 只有保持单一性才能做出基于数据的决策。Amazon 启示: SP keyword campaign 不要把 head + long-tail 混在一个 ad group, 拆开能精确停掉烧钱的词。",
+    "quote": "for this method we only put one keyword theme into each ad group and this is very important for a number of reasons including that it makes it easier to write keyword focused ad copy for high quality keyword scores it allows you to very easily see which keyword themes are more successful in generati"
+  },
+  {
+    "id": "aaron-young-SMofEIj5Gug-2",
+    "channel": "aaron-young",
+    "video_id": "SMofEIj5Gug",
+    "topics": [
+      "bidding",
+      "negative-keywords",
+      "budget"
+    ],
+    "ts": 369,
+    "title": "选词三筛标准: 相关性 + 竞争度 + CPC 三关一起看",
+    "summary": "在 Keyword Planner 里选词时 Aaron 三步过滤: (1) 相关性 e.g. 'free business cards' 对收费业务无意义直接砍; (2) 竞争度 high 单看不够; (3) competition high + top-of-page bid 双高的词砍掉, 否则烧不起。原理: 单一指标会误导, 三关同时通过的才进 plan。Amazon 启示: SP 选词同样要 ASIN 相关性 + suggested bid + impression share 三看, 高竞争词不一定要全部铺开。",
+    "quote": "we are looking at is not only is this competition too high but if the competition is high and then also the top of page bid is too high we can leave that out of our campaign"
+  },
+  {
+    "id": "aaron-young-SMofEIj5Gug-3",
+    "channel": "aaron-young",
+    "video_id": "SMofEIj5Gug",
+    "topics": [
+      "campaign-structure",
+      "negative-keywords",
+      "optimization"
+    ],
+    "ts": 549,
+    "title": "导出 csv 后再次细拆主题: 一组拆成 4-5 个 ad group",
+    "summary": "Aaron 把 Keyword Planner 选好的 'signage' 一类导出 csv 后, 再用人工眼力拆成 'business signage / custom signs / outdoor signage / sign company near me' 等 4 个 ad group。原 'signage near me' 太宽直接删掉。原理: 工具导出的初步分组依然不够细, 必须人工二次拆分到极简主题, 每个 ad group 才能配高度匹配的 ad copy。Amazon 启示: SP 自动跑出来的 search term 报表也要人工二次拆主题再迁回 manual 精准词。",
+    "quote": "now I'm actually now deciding that this keyword is actually too broad so I'm going to remove that keyword and just work on these four main keyword themes of business signage custom signs outdoor signage and sign company near me"
+  },
+  {
+    "id": "aaron-young-z2HkdsYo6B8-2",
+    "channel": "aaron-young",
+    "video_id": "z2HkdsYo6B8",
+    "topics": [
+      "negative-keywords",
+      "optimization",
+      "reporting"
+    ],
+    "ts": 215,
+    "title": "Exact Match 已变 'same meaning', 必须每周做 search term audit",
+    "summary": "Google 把 exact match 升级成语义匹配: 'lawn mowing service' 会触发 'grass cutting service'; 案例里 'all blacks headphones' 居然触发 'all blacks rugby jacket'。所以现在每 7 天必须查 search term 报告, 把无关词加成 negative keyword。原理: 语义匹配会引入 Google 自以为相关但实际无关的流量, 不主动屏蔽就持续烧预算。Amazon 启示: SP 同样要每周拉 search term 报表把无关 customer search 加进 negative keyword/ASIN, 这是 Amazon 投放最高 ROI 的优化动作之一。",
+    "quote": "if you've got a highly specific product and a highly specific target market where you want to only be targeting search terms such as all blacks headphones what you need to do is you actually need to go through and do a search term audit every seven days"
+  },
+  {
+    "id": "aaron-young-_JcpmtdbW9w-2",
+    "channel": "aaron-young",
+    "video_id": "_JcpmtdbW9w",
+    "topics": [
+      "copy",
+      "brand",
+      "creative-testing"
+    ],
+    "ts": 327,
+    "title": "Headline 必须含 4 要素: keyword + brand + CTA + emotion",
+    "summary": "Aaron 经过多次 split test 沉淀的 headline 公式: (1) keyword focus (e.g. 'one bedroom seminyak villa'); (2) brand mention (花了广告费别浪费曝光机会); (3) strong CTA (call now / book now / save 45%); (4) emotional trigger (curiosity / humor / fear)。原理: keyword 是 Google quality score 喜欢的, 后三项是 user 喜欢的, 两边都满足才能做出高 CTR + 高 CVR 的 ad。Amazon 启示: SB/SD 创意文案也是这个逻辑, 单纯堆 keyword 太机械, 加品牌名 + 促销 hook 才会被点。",
+    "quote": "the four things you need in your headlines is firstly you need to have keyword focus... the second thing is a brand mention... the other one is a strong call to action... and the last one is use emotional triggers"
+  },
+  {
+    "id": "aaron-young-_JcpmtdbW9w-3",
+    "channel": "aaron-young",
+    "video_id": "_JcpmtdbW9w",
+    "topics": [
+      "copy",
+      "creative-testing"
+    ],
+    "ts": 245,
+    "title": "Title Case 大写每个单词首字母, 提升 CTR 实测有效",
+    "summary": "ad copy 把每个单词首字母大写 (e.g. 'Book Your Appointment Now') 而不是 sentence case ('Book your appointment now')。WordStream 和 Periscopic 实测 title case 比 sentence case CTR 更高, 不违反 AdWords 政策。原理: 视觉上更突出, 在一堆小写竞品广告里更醒目。Amazon 启示: SB headline / brand store 标题用 title case 是免费的 CTR 优化, 几乎零成本可执行。",
+    "quote": "two companies wordstream and periscopic have conducted studies into the effects of using title case on the click-through ratio ctr and found that ad copy with title case outperform sentence case"
+  },
+  {
+    "id": "aaron-young-jWnwfDcSELA-1",
+    "channel": "aaron-young",
+    "video_id": "jWnwfDcSELA",
+    "topics": [
+      "copy",
+      "creative-testing",
+      "optimization"
+    ],
+    "ts": 158,
+    "title": "ad copy 双重达标: Google 喜欢 + User 喜欢",
+    "summary": "Aaron 把 ad copy 评判拆成两个维度: Google likes (keyword focus 进 quality score, 影响排位) + User likes (CTA + emotional trigger, 影响 CTR)。两个都过关才有高 ROAS。常见失败案例是 ad copy 太机械, 只堆 keyword 通过审核, 但用户根本不点。原理: 算法和人是两个客户, 都得伺候好。Amazon 启示: SP/SB 创意要既包含买家搜索词 (relevance score), 又有点击欲望钩子 (折扣 / 痛点)。",
+    "quote": "you don't only need to focus on what google likes because you also need to focus on what the user likes... most ads fail down is that they're too robotic and there's no point getting an ad that gets shown all the time if people actually don't click on it"
+  },
+  {
+    "id": "aaron-young-v3njBtzuu3o-2",
+    "channel": "aaron-young",
+    "video_id": "v3njBtzuu3o",
+    "topics": [
+      "creative-testing",
+      "analytics",
+      "optimization"
+    ],
+    "ts": 619,
+    "title": "RSA split test 双 ad 法: 一个全开 + 一个 pin 固定",
+    "summary": "Aaron 推荐 RSA split test 路径: 在同 ad group 里建两个 RSA, 一个完全不 pin (让 Google 自由组合), 另一个 pin 死特定 headline/description。对比两者的 CTR/CVR, 找出真正赢家后, 把 winner 元素回填到第一个 ad。原理: 同时利用 AI 探索 + 人工固化, 数据闭环可控。Amazon 启示: SP 创意 split test 也是这逻辑, 同 ad group 跑 2-3 个素材竞争, 表现最好的留下并扩增预算。",
+    "quote": "the second option to complete split testing with the response of search ads would be to have one responsive search ad which has no pinned headlines and no pin descriptions and then you would have a secondary response to search ad which would have some pinned headlines and pin descriptions"
+  },
+  {
+    "id": "aaron-young-gbc9sXYdvaY-1",
+    "channel": "aaron-young",
+    "video_id": "gbc9sXYdvaY",
+    "topics": [
+      "analytics",
+      "bidding",
+      "optimization"
+    ],
+    "ts": 35,
+    "title": "Google AI 学习需 5000 月曝光, 中小账号根本喂不饱",
+    "summary": "RSA learning phase 需要 5000 impressions / 30 天才能给出 performance 评级。中小广告主单 ad group 远达不到, 所以 RSA 永远卡在学习状态, AI 给不出靠谱组合, CPC/CPA 失控。Aaron 实测案例: 某 RSA cost-per-conversion 181 USD vs ETA 50 USD。原理: AI 缺数据 = 瞎决策。Amazon 启示: SP 自动定向同样需要数据冷启动, 中小预算账号别全押 auto, 应该 manual 锁定已验证的关键词。",
+    "quote": "in order for google to finish its learning phase so that it's ai can actually know which headlines and descriptions to show it actually needs 5,000 impressions in a 30-day period the problem for most small and medium businesses is that individual ad groups get nowhere near 5000 impressions"
+  },
+  {
+    "id": "aaron-young-eLFouaQgFA4-1",
+    "channel": "aaron-young",
+    "video_id": "eLFouaQgFA4",
+    "topics": [
+      "campaign-structure",
+      "landing-page",
+      "optimization"
+    ],
+    "ts": 161,
+    "title": "Google 目标: 把单一 search query 匹配到唯一 landing page",
+    "summary": "Aaron 解释 Google 的核心目标: 在 500 亿网页里把用户搜索匹配到最佳页面。所以你的账号结构应该镜像这个目标: account → campaign → ad group (单 keyword theme) → 独立 ad copy + 独立 landing page。原理: 你的结构越贴合 Google 的撮合逻辑, quality score 越高, CPC 越低。Amazon 启示: SP 的 ad group 也要按 ASIN 关联词分组, 让搜索 → 创意 → 落地 ASIN 形成 1:1 映射。",
+    "quote": "google wants to match what the person searches with the best web page on the internet... so to give your google ads campaign the best chance for success making sure that your ads are matching those individual search enquiries your campaign structure needs to look like this"
+  },
+  {
+    "id": "aaron-young-eLFouaQgFA4-2",
+    "channel": "aaron-young",
+    "video_id": "eLFouaQgFA4",
+    "topics": [
+      "optimization",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 463,
+    "title": "Optimization 必须有 schedule, 不同动作不同频率",
+    "summary": "Aaron 把 Google Ads 优化类比健身: 健身教练不会让你天天 bench press, 同样优化也不能每天瞎调。他的节奏: search term audit / keyword 每周 1-2 次; audience 和 bid optimization 每 45-60 天才动一次。原理: 不同维度需要不同样本积累周期, 高频盯短期数据反而会被噪声误导。Amazon 启示: SP 调价不要每天调, 每周看趋势再动手, ASIN target / audience 这种长周期动作 30-45 天看一次足够。",
+    "quote": "you need to know what you need to optimize in google every 72 hours every week every month every 90 days and even every year... for some items like search term audits and checking your keywords they need to be checked and optimized once or twice every week versus when you're checking your audiences "
+  },
+  {
+    "id": "aaron-young-6GUzKfSZO4Q-1",
+    "channel": "aaron-young",
+    "video_id": "6GUzKfSZO4Q",
+    "topics": [
+      "audience",
+      "bidding",
+      "optimization"
+    ],
+    "ts": 90,
+    "title": "Audiences in observation mode + bid adjustment 把 ROAS 从 1.5 拉到 8",
+    "summary": "Aaron 接手一个 Shopping campaign, 14 天内把 ROAS 从 1.5 提到 8 的关键动作: 在 ad group 加 audiences 但用 observation mode (不是 targeting), 这样不会限缩流量, 只是给 Google 多一个数据维度报表; 14 天后看哪些 audience 转化好, 用正向 bid adjustment 加价。原理: observation 模式下 audience 只是观察口, 不会过早收窄流量, 等数据足够再用 bid 加权才不浪费学习期。Amazon 启示: SD/SP 的 audience targeting 也建议先广撒后用 bid 加权, 不要一上来就排他锁定。",
+    "quote": "we added these audiences to the campaign as observations and not actually as targeting... what this allowed us to do is to actually understand which one of these audiences was converting really well and then to be able to put a positive bid adjustment on those audiences"
+  },
+  {
+    "id": "aaron-young-6GUzKfSZO4Q-2",
+    "channel": "aaron-young",
+    "video_id": "6GUzKfSZO4Q",
+    "topics": [
+      "audience",
+      "analytics"
+    ],
+    "ts": 230,
+    "title": "受众别只锁 niche, 出乎意料的 audience 反而是赢家",
+    "summary": "Aaron 在某美发产品 Shopping campaign 里加了一堆 audience, 结果转化最好的不是 'hair care enthusiasts' 这类 niche audience, 而是 'luxury shoppers' 和 'family film fans' 这类看起来无关的兴趣群。原理: 用户的实际购买路径常常和品牌假设的不一样, 只锁 niche 会漏掉真实买家画像。Amazon 启示: SD audience targeting 不要只选 'in-market for X' 这种最直接的细分, 应该铺一些跨品类兴趣 audience 用 observation 模式跑数据。",
+    "quote": "we don't only just want to add audiences within your niche because you just don't know how some of those other audiences are going to perform... we found that some of the more successful audiences were actually luxury shoppers and family film fans"
+  },
+  {
+    "id": "aaron-young-6zSzqLgdSnM-2",
+    "channel": "aaron-young",
+    "video_id": "6zSzqLgdSnM",
+    "topics": [
+      "bidding",
+      "audience",
+      "optimization"
+    ],
+    "ts": 290,
+    "title": "Audience bid 调整决策: cost/conv vs 账号均值 + impression share 双重判断",
+    "summary": "Aaron 决定给某 audience 加 bid 的两道闸门: (1) 该 audience 的 cost/conversion 是否低于账号整体均值 (好于均值才值得加价); (2) search impression share 是否还有上升空间 (已经 100% 就没必要加价烧钱)。两条都满足才上调 bid 10-20%。原理: 单看转化好不够, 必须同时确认还有流量可以拿, 否则只是空烧 CPC。Amazon 启示: SP keyword 调价同理, 高 ROAS + impression share 还低的词才值得加价, 已经 top of search 100% 的不用动。",
+    "quote": "we want to look at our search impression share to see if there's any further opportunity to grow the impressions we're getting from this audience as well... if we're already at 100 percent search impression share with this audience there's no point of putting on a positive bid adjustment because we'"
+  },
+  {
+    "id": "aaron-young-Ab1S69GKhls-1",
+    "channel": "aaron-young",
+    "video_id": "Ab1S69GKhls",
+    "topics": [
+      "audience",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 140,
+    "title": "投放前先把 detailed demographics 和 audience 加上, 喂算法快速冷启动",
+    "summary": "Aaron 强调一个反直觉做法: 不要等开始投放后再加 audience 和 detailed demographics, 而是 launch 前就在 ad group 里把这些都加上 observation 模式。婴儿奶粉案例: 提前加 'parents of infants/toddlers/preschoolers' demographics, 让 Google 算法第一天就能知道往哪些群体去优化。原理: 算法冷启动期是最缺数据的, 提前给画像信号能加速 learning phase。Amazon 启示: SD/SB 创建时就要把品类相关的 lifestyle / in-market audience 都铺上 observation, 不要等跑了几周再补。",
+    "quote": "what most google advertisers don't do but they should be doing is they should be adding their detailed demographics and audiences to their ad groups before they actually start running their campaigns... if you're selling baby formula you would want to add things such as detailed demographic of paren"
+  },
+  {
+    "id": "aaron-young-Ab1S69GKhls-2",
+    "channel": "aaron-young",
+    "video_id": "Ab1S69GKhls",
+    "topics": [
+      "bidding",
+      "creative-testing",
+      "optimization"
+    ],
+    "ts": 380,
+    "title": "提升 CTR 直接压低 CPC: Google 只在被点击时赚钱",
+    "summary": "Aaron 揭穿底层逻辑: Google 只有用户点击 ad 才能赚到钱, 所以高 CTR 的广告对 Google 更值钱, 系统会用更低 CPC 优先展示。反之 CTR 低的广告 Google 会要求更高 CPC 来弥补。所以盯紧 CTR 优化 (改 headline / 加 CTA / 测 emotional hook) 等于在直接降 CPC。原理: 拍卖系统的 quality score 里 expected CTR 是核心权重之一。Amazon 启示: SP/SB 的 CPC 也跟 CTR 挂钩, 提升点击率不光是省广告费, 还能直接拿到更便宜的位置。",
+    "quote": "the higher the click-through rate of your ad the lower the cost per click is going to be for that ad and the reason for that is google only gets paid when someone actually clicks on the ad so they want to show ads which actually generate clicks"
+  },
+  {
+    "id": "aaron-young-q2aeJqDs-ho-1",
+    "channel": "aaron-young",
+    "video_id": "q2aeJqDs-ho",
+    "topics": [
+      "budget",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 180,
+    "title": "小预算策略: 地理范围收窄到 1-4 个区域, 避免铺得太广",
+    "summary": "Aaron 反复强调, 小预算 (如每天 $20-30) 最大的错误就是把投放范围设成整个城市。建议只锁定 1-4 个最赚钱的郊区/邮编。同理迁移到 Amazon SP/SD: 低预算时不要勾选 'auto-targeting + 全美', 应集中预算在 1-3 个最匹配的关键词组 (exact / phrase) 或一个高 ROAS 的 ASIN-target, 让有限的展示量都花在最相关的位置上, 而不是被算法稀释到泛流量里。",
+    "quote": "if you've got a small budget the worst thing you can do is target the entire city pick one to four suburbs and own them"
+  },
+  {
+    "id": "aaron-young-q2aeJqDs-ho-2",
+    "channel": "aaron-young",
+    "video_id": "q2aeJqDs-ho",
+    "topics": [
+      "budget",
+      "bidding",
+      "negative-keywords",
+      "campaign-structure"
+    ],
+    "ts": 360,
+    "title": "选搜索量更低、CPC 更便宜的关键词主题, 避开烧钱大词",
+    "summary": "案例: 水管工小预算客户不要碰 'emergency plumbing' (CPC $15-20, 预算秒烧光), 而是去做 'drainage installation' / 'gas fitting' 这类长尾低 CPC 词, 单价低、转化意图明确、竞争小。Amazon 类比: 新品 / 小预算不要去打 BSR Top 10 大词 (CPC $3+), 而是先打 long-tail exact 关键词或竞品 ASIN-target (CPC $0.5-1), 同样预算能拿到 5-10 倍展示量, 并积累更干净的转化数据喂给 A9。",
+    "quote": "don't go after the high volume keyword themes find the lower volume cheaper ones where you can actually win"
+  },
+  {
+    "id": "aaron-young-sRvkVKHUzuc-1",
+    "channel": "aaron-young",
+    "video_id": "sRvkVKHUzuc",
+    "topics": [
+      "bidding",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 240,
+    "title": "Ad Rank = Max CPC × Quality Score: CTR 高的低出价者反而排名更前",
+    "summary": "Aaron 用具体数字打脸 'bid 越高越好' 的迷思: 竞争对手出价 $5、CTR 3%、QS 5/10 → Ad Rank 15; 你出价 $2、CTR 12%、QS 9/10 → Ad Rank 18, 你赢且 CPC 更低。Amazon SP 的 Impression Share 逻辑高度类似: A9 优先给 CVR/CTR 高的广告位, 提升 listing 主图 CTR + ASIN CVR 比单纯加 bid 更有效降低 ACOS。",
+    "quote": "you can pay two dollars and beat the guy paying five if your click-through rate and quality score are higher ad rank wins not raw bid"
+  },
+  {
+    "id": "aaron-young-sRvkVKHUzuc-2",
+    "channel": "aaron-young",
+    "video_id": "sRvkVKHUzuc",
+    "topics": [
+      "copy",
+      "landing-page",
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 480,
+    "title": "Quality Score 至少 8/10: 关键词必须同时出现在标题、描述、落地页",
+    "summary": "QS 低于 7 就放弃这个关键词。提升 QS 三要素: (1) 关键词写进 RSA headline 至少 1-2 条; (2) 关键词写进 description; (3) 落地页 H1 + 首屏 copy 含该关键词。Amazon 类比: listing relevance score 同样靠关键词在 title / bullets / A+ / backend 多处一致出现, 不要为了 SEO 堆砌无关词, A9 会扣关联度分。",
+    "quote": "aim for eight to ten on quality score the keyword needs to be in your headline in your description and on your landing page all three"
+  },
+  {
+    "id": "aaron-young-sRvkVKHUzuc-3",
+    "channel": "aaron-young",
+    "video_id": "sRvkVKHUzuc",
+    "topics": [
+      "campaign-structure",
+      "negative-keywords",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 720,
+    "title": "前 30-60 天用 broad match 收数据, 再每 3-4 天 audit search terms 升级到 phrase/exact",
+    "summary": "新账号或新词组前 30-60 天先用 broad (纯 broad, 不是 broad modifier) 让 Google 喂搜索词数据, 每 3-4 天去 Search Terms Report, 高 CVR 的词加进 phrase/exact campaign 加价, 烂词加 negative。Amazon SP 完全可复刻: 自动广告 14-30 天收 search term → 高转化词搬到手动 exact 加价、烂词加 exact negative, 形成 auto → manual exact 双层漏斗。",
+    "quote": "run broad for the first thirty to sixty days then every three to four days audit your search terms promote the winners to phrase or exact kill the rest with negatives"
+  },
+  {
+    "id": "aaron-young-uazShlo-7JQ-1",
+    "channel": "aaron-young",
+    "video_id": "uazShlo-7JQ",
+    "topics": [
+      "copy",
+      "campaign-structure",
+      "creative-testing"
+    ],
+    "ts": 360,
+    "title": "每个 ad group 至少 3 条 RSA: 1 条不 pin + 2 条战略性 pin, 小账号别等 Google 自动测试",
+    "summary": "ETA 在 2022/06/30 退场后, Aaron 强制每个 ad group 上 3 条 RSA: 第 1 条 headline 全开放让 Google 自由组合; 第 2-3 条把品牌词 / 主关键词 pin 到 H1+H2 锁定结构。原因是 Google 'Optimize' 的自动测试要每月 ~5000 impression 才能产出胜出 ad, 小账号根本跑不到, 只能靠人工多版本同时上去抢曝光。Amazon SB 类比: 一个 SB campaign 上 3-4 条 creative variant (不同 headline / lifestyle 主图), 别等 Amazon 自动选优, 主动跑 14 天看 CTR 自己淘汰。",
+    "quote": "you need at least three rsas per ad group one with no pinned headlines and two with your brand and main keyword pinned because small accounts never hit the five thousand impressions google needs to finish testing"
+  },
+  {
+    "id": "aaron-young-x5uRaJl8CGM-1",
+    "channel": "aaron-young",
+    "video_id": "x5uRaJl8CGM",
+    "topics": [
+      "optimization",
+      "analytics",
+      "campaign-structure",
+      "bidding"
+    ],
+    "ts": 180,
+    "title": "5 大优化板块的不同节奏: search term 72h / ad weekly+monthly / QS monthly / bid+audience 90 天",
+    "summary": "Aaron 的核心反直觉观点: 不同优化项要按 Google AI 学习速度匹配节奏, 频繁改 bid 反而拖累机器学习。完整 cadence: (1) Search terms 每 72 小时 (烧钱最快); (2) Ad copy review 每周 + 月度深度; (3) Quality Score 每月扫一次低分词; (4) Bid / audience / demographics 每 90 天才能动 (AI 需要时间 relearn); (5) Conversion / location / goal 每季度复核。Amazon 同理: SP bid 频繁改会重置 placement 学习, 建议 7 天观察 + 14 天微调; ASIN 主图 / A+ 改完后给 28 天 attribution window。",
+    "quote": "search terms every seventy-two hours ads weekly quality score monthly but bids and audiences only every ninety days because google's ai needs time to learn"
+  },
+  {
+    "id": "aaron-young-x5uRaJl8CGM-2",
+    "channel": "aaron-young",
+    "video_id": "x5uRaJl8CGM",
+    "topics": [
+      "analytics",
+      "negative-keywords",
+      "optimization",
+      "reporting"
+    ],
+    "ts": 540,
+    "title": "Search term audit 在 ad group 级别用 7 天窗口看 ~100 行, keyword audit 用 30 天窗口找 outlier",
+    "summary": "粒度选择决定信噪比: search term 必须在 ad group 级别拉 (campaign 级别会混入不同主题词), 用 7 天窗口扫 ~100 行(高 cost / 0 conv 的直接 negative); 而 keyword 自身的表现要拉 30 天 (样本太小 CPA 会失真), 重点看高 CPC 或高 cost-per-conversion 的 outlier 决定降价或暂停。Amazon SP search term report 同样建议: auto / broad campaign 用 7 天扫无关 ASIN/ 词加 negative, 关键词 ACoS 表现用 30 天加 placement modifier。",
+    "quote": "pull search terms at the ad group level over seven days about a hundred rows but for keywords use thirty days you need a bigger sample for cpa to be reliable"
+  },
+  {
+    "id": "aaron-young-x5uRaJl8CGM-3",
+    "channel": "aaron-young",
+    "video_id": "x5uRaJl8CGM",
+    "topics": [
+      "optimization",
+      "scaling",
+      "analytics",
+      "bidding"
+    ],
+    "ts": 1200,
+    "title": "纪律性 cadence 实战: 6 个月 23 → 135 conv/月 (4.5x), CPC 从 $4.20 → $1.75",
+    "summary": "Aaron 展示的真实账号: 没有改预算, 没有上新 campaign, 只是按 cadence 表执行 6 个月 — search term audit 每 72h, ad copy 每周, 大改动每 90 天 — 月转化 23 → 135 (4.5x), CPC 从 $4.20 降到 $1.75 (-58%)。结论: 大多数账号不是缺新策略, 是缺纪律和正确节奏。Amazon 同样: 大量卖家每天手动改 bid / 关广告, 反而打乱 placement 学习; 改成固定每周一次的 audit cadence + 90 天战略性调整 ACoS / TACoS 通常能跑赢 '勤奋型' 操盘。",
+    "quote": "no new campaigns no new budget just disciplined cadence took this account from twenty-three to one hundred thirty-five conversions and dropped cpc from four twenty to one seventy-five in six months"
+  },
+  {
+    "id": "aaron-young-JviWHpejamg-1",
+    "channel": "aaron-young",
+    "video_id": "JviWHpejamg",
+    "topics": [
+      "campaign-structure",
+      "copy",
+      "optimization"
+    ],
+    "ts": 660,
+    "title": "Ad group 必须按 keyword theme 切分: 'men's shoes' / 'women's shoes' / 'kids shoes' 各自独立 copy",
+    "summary": "Aaron 把一个 'shoes' campaign 拆成 3 个 ad group, 每个 ad group 只放一个主题的关键词 + 该主题的 headline / description。原因: RSA 的 Quality Score 来自关键词与 ad copy 的相关性, 把男鞋 / 女鞋 / 童鞋混进同一个 ad group, copy 必然泛化, QS 全线下滑。Amazon SP 完全适用: 不要把 'yoga mat'+'foam roller'+'resistance band' 放进同一手动 campaign, 应按 product variation / use case 拆 ad group, 每组 keyword 独立, 这样自动出价 / placement 学习更精准, ASIN 关联度也更高。",
+    "quote": "you don't want everything crammed into one campaign or one ad group structure them into different keyword themes so the ad copy actually matches what the searcher typed"
+  },
+  {
+    "id": "aaron-young-JviWHpejamg-2",
+    "channel": "aaron-young",
+    "video_id": "JviWHpejamg",
+    "topics": [
+      "bidding",
+      "campaign-structure",
+      "optimization",
+      "scaling"
+    ],
+    "ts": 900,
+    "title": "新 campaign 头 30-60 天先用 'Maximize Clicks', 拿到转化数据后才切 'Maximize Conversions'",
+    "summary": "Aaron 反对新账号一开始就用 conversion-based bidding (Maximize Conversions / tCPA / tROAS): Google 算法需要历史转化样本才能学习, 没数据就上 conversion bidding 会导致曝光骤降 + 成本失控。正确路径: 头 30-60 天用 Manual CPC 或 Maximize Clicks 收集 50+ 转化样本, 再切 Maximize Conversions。Amazon SP 同理: 新 ASIN / 新 campaign 头 14-30 天用 Dynamic bid down only 或 Fixed bid 收集转化数据, 等 ACoS 稳定后再切 'Dynamic bid up and down' 让算法激进出价, 否则 Amazon 算法会把预算烧在 placement 学习上。",
+    "quote": "don't start with maximize conversions you need at least thirty to sixty days of data first start with clicks then switch when google has enough conversions to learn from"
+  },
+  {
+    "id": "aaron-young-JviWHpejamg-3",
+    "channel": "aaron-young",
+    "video_id": "JviWHpejamg",
+    "topics": [
+      "audience",
+      "bidding",
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 1080,
+    "title": "Audience segments 设为 'Observation' 不是 'Targeting': 先观察哪个受众转化好再加价",
+    "summary": "Aaron 强烈反对一开始就用 'Targeting' 模式锁死受众 (会大幅压缩流量), 推荐用 'Observation' 模式: 受众层只是观察标签, 不限制谁能看到广告, 跑 30-60 天后看哪个 in-market / affinity 受众 CVR 最高, 再对该层加 bid modifier (+20~+50%)。Amazon SP/SD 类比: 'Audiences' targeting 在 SD 里同样可以先用 broad reach + observation 视角看哪些 lifestyle / interest 受众转化好, 再单独 build 一个 high-bid SD audience campaign 加价收割, 不要一上来就锁死单一 audience segment。",
+    "quote": "set audience segments to observation not targeting at the start you don't know yet who's converting let google show you then bid up the winners"
+  },
+  {
+    "id": "andrew-lolk-9IQDWXfU-lY-1",
+    "channel": "andrew-lolk",
+    "video_id": "9IQDWXfU-lY",
+    "topics": [
+      "negative-keywords",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 1596,
+    "title": "接手老账户先批量删 negative keywords,5/8 案例后表现反而提升",
+    "summary": "很多 agency 留下的老账户里堆了大量 negative keywords(尤其是 keyword sculpting / cannibalization 那一套互相排斥的列表)。Andrew 的 Savvy Revenue 过去一年接手的 8 个账户里有 5 个直接清光所有 negative,全部表现优于以往;有家从某 agency 拿过来的客户连续多次复现同一结论,year-over-year 涨 50%。逻辑:keyword 之所以走到 DSA/别的 campaign 是因为 ad rank/quality score 不够,你强行加 negative 等于把它彻底压没。删除时配合略高 budget(+20%) 和 max CPC limits 防止失控,或一周删 10-20% 慢慢释放。",
+    "quote": "The amount of accounts that we've taken in the last year maybe five and again we don't take more than eight accounts in a year maybe five five of those eight have all had all negative negative keywords removed and all have outperformed after."
+  },
+  {
+    "id": "andrew-lolk-9IQDWXfU-lY-2",
+    "channel": "andrew-lolk",
+    "video_id": "9IQDWXfU-lY",
+    "topics": [
+      "reporting",
+      "campaign-structure",
+      "analytics"
+    ],
+    "ts": 2178,
+    "title": "看 search term match type 报告,而不是 keyword match type",
+    "summary": "大部分人看 broad/phrase/exact 表现是按 keyword match type 来汇总,会得出 broad 花了 30-40% 预算 ROAS 还可以的结论。但同样数据切成 search term match type(用户实际搜索词跟你的 keyword 是 exact / close variant / broad 哪种关系)往往会发现 60-80% 的 broad keyword 花费实际命中的还是 exact 搜索词——也就是说就算关掉 broad,你也能拿到同样的搜索量。要判断 broad 到底带没带新增量,必须再下钻到 campaign 级,看哪些 campaign 的 broad ROAS 是 1x 这种级别。",
+    "quote": "When you actually look at, okay, if you didn't have broad match you would have hit 90% of the same search terms anyways. In this case, it's performing like we want. Some campaigns the ROAS was like 1x on broad match. So really removing it in those cases made sense."
+  },
+  {
+    "id": "andrew-lolk-9IQDWXfU-lY-3",
+    "channel": "andrew-lolk",
+    "video_id": "9IQDWXfU-lY",
+    "topics": [
+      "scaling",
+      "reporting",
+      "analytics"
+    ],
+    "ts": 2851,
+    "title": "搜索量饱和后再加预算只会推高 CPC,要承认天花板",
+    "summary": "客户老说要 grow,加预算却只换来 CPC 上涨没新增 conversion——先去看 search impression share 这一列。如果非品牌词都已经 90% 了,意味着真实世界搜你这个东西的人你已经覆盖完了,smart bidding exploration / broad match / AI Max 都救不了你,因为没有新搜索可以挖。这时不是去乱开自动化,而是要承认天花板,告诉客户:要么扩 SKU/品类、要么换渠道(Demand Gen / 站外),或者进入 maintenance 模式降 fee 等下一波增长机会。这是顾问最被低估的能力——如实说话。",
+    "quote": "We added the search impression share column. It was 90% search impression share for non-brand search. You have reached all the people searching. There are real people in the real world who are typing things into Google and you're reaching them all. There is no money to spend here."
+  },
+  {
+    "id": "andrew-lolk-Bh3ISooCSjM-1",
+    "channel": "andrew-lolk",
+    "video_id": "Bh3ISooCSjM",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 213,
+    "title": "shopping feed 用 item_group_id 把变体聚合,不要瞎删 variant",
+    "summary": "网上很多人说 shopping feed 要砍 variant 简化数据,Andrew 反对:多数情况砍 variant 反而伤覆盖,因为只留一个尺码/颜色的话只要那个 SKU 缺货整个 product 在 Google 就不展示了。基础动作只有一个——给所有同款变体打 item_group_id,Google 自然会聚合数据。只有当一个产品超过 15 个 variant、且 smart bidding 数据被打散到没法分析时,才考虑去重。即便去重也要保留有人搜的差异维度(颜色/材质),并且写好 fallback 规则:首选 variant 缺货时自动切到有货的同组变体,否则会被判 disapproved。",
+    "quote": "If you're only advertising for the black size large t-shirt and it goes out of stock even though all other sizes are available then Google will not show anything. The simple thing whenever you work with product variants, this is not rocket science, you add the item group ID to group similar variants"
+  },
+  {
+    "id": "andrew-lolk-Bh3ISooCSjM-2",
+    "channel": "andrew-lolk",
+    "video_id": "Bh3ISooCSjM",
+    "topics": [
+      "analytics",
+      "optimization"
+    ],
+    "ts": 398,
+    "title": "测试 feed 改动只看 traffic 是否稳,不要纠结 ROAS / impression share",
+    "summary": "做 feed 层面的改动(去重 variant、改 title、调 attribute)时,大量人盯着 ROAS 和 conversion rate 慌着回滚——这是错的,smart bidding 还没学过来这些指标没意义。Andrew 的判断标准只有一个:traffic 是否稳定。流量没掉就继续,流量明显掉立即回滚。先在 20% 的 SKU 上小范围跑,traffic 没异常再扩到全量。impression share 这种指标在多 SKU 跨产品比对里噪音太大,不要看。",
+    "quote": "If you got a big catalog test for goodness sakes test this on 20% of products first. Don't obsess over conversion rates or ROAS during testing because it will not have that big of an impact on smart bidding's algorithms initially. The goal is if traffic stays the same because we can track that reall"
+  },
+  {
+    "id": "andrew-lolk-EKYX43i_Mv4-1",
+    "channel": "andrew-lolk",
+    "video_id": "EKYX43i_Mv4",
+    "topics": [
+      "P-Max",
+      "campaign-structure",
+      "bidding"
+    ],
+    "ts": 156,
+    "title": "全部塞 PMax 那一套是把 search/shopping 用同一个 ROAS 目标喂",
+    "summary": "Google rep 一直推 consolidate 到一个 PMax 让 AI 分配预算,Andrew 拉数据直接打脸:同一个账户 search 和 shopping 的最优 ROAS 目标本就不同——shopping 通常能撑更高 ROAS,search 给同样目标会被压到只占 5% 预算(健康水位是 20-28%)。这意味着 PMax 一刀切的 ROAS 让 search 永远跑不出量。要 grow 必须拆开:search 用自己的目标和 max CPC,shopping 用自己的;其次 bestseller / 不盈利 / longtail 三档产品也不该共用 ROAS。",
+    "quote": "Some accounts run search and shopping where 5% of the spend goes into search where others are at a much more healthy 28%, 20%, 22%. Shopping will routinely be able to produce a higher ROAS than search. So setting the same ROAS target is insufficient for growth."
+  },
+  {
+    "id": "andrew-lolk-I6dHBkLo73E-1",
+    "channel": "andrew-lolk",
+    "video_id": "I6dHBkLo73E",
+    "topics": [
+      "negative-keywords",
+      "bidding",
+      "optimization"
+    ],
+    "ts": 93,
+    "title": "smart bidding 时代 negative keyword 是按 search-term 自动压价不是死刑",
+    "summary": "5 年前 negative keyword 的逻辑是 keyword 级别一刀切,但 smart bidding 已经在 search-term 级别按 device / 价格区间 / 不同 product 单独调价了——同一个搜索词在 desktop 不赚钱可能 mobile 赚,在 $1 CPC 不赚但 $0.25 赚。你提前手动 negate 等于把这个细颗粒度优化的能力锁死。Andrew 的判断:除了明显无关词(竞品名、完全错产品)和 6-12 个月持续表现差的低量词,其余别动,让算法自己降价。新建账户初期或没数据时再加。",
+    "quote": "It already acts like a negative keyword system, but with more data and faster action time and more actions than we will have. A search term might lose money at a $1 cost per click, but it will kill it. It will perform excellently at 25 cents. Smart bidding handles that nuance."
+  },
+  {
+    "id": "andrew-lolk-I6dHBkLo73E-2",
+    "channel": "andrew-lolk",
+    "video_id": "I6dHBkLo73E",
+    "topics": [
+      "negative-keywords",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 337,
+    "title": "用 click bucket 分箱再加 negative,而不是一刀切 ROAS<200%",
+    "summary": "Andrew 的标准 negative keyword 工作流:把所有 search term 拉出来按 click 数分箱(0-10 / 10-20 / 20-30 / 30-50 / 50+),自己手算 ROAS(不要用 Google 给的聚合 ROAS,均值的均值会骗你)。0-10 click 的低量段不能动——因为里面同时有未来高 ROAS 和低 ROAS 的种子,只要再多一个 click 转化它就跳到高 ROAS bucket。真正能 negate 的只是 20+ click 还低 ROAS 的部分,实操中能砍掉的浪费 spend 通常是 4-8%——别指望靠 negative 大幅省钱,主要价值是清干净不该出的词。",
+    "quote": "If I take out these three buckets, meaning everything over 20 clicks, then I find 24,000 in spend that I can remove. That's very little. It's like 3 and a half % of the total spend. We find out that roughly between four to 8% is the actual spend we can remove by adding negative keywords."
+  },
+  {
+    "id": "andrew-lolk-I6dHBkLo73E-3",
+    "channel": "andrew-lolk",
+    "video_id": "I6dHBkLo73E",
+    "topics": [
+      "negative-keywords",
+      "optimization"
+    ],
+    "ts": 461,
+    "title": "维护两个 negative 列表:evergreen 和 low-season,大促前清掉 low-season",
+    "summary": "negative keyword 不要堆在一个列表里。分两份:evergreen(永远不想出现的烂词)和 low-season(本季度不行但旺季可能爆)。比如卖泳衣在二月加 negative 的某些词,到 5-7 月旺季会反过来转化,旺季前要主动从 list 里移除。Andrew 还建议:每年至少一次完全清空 negative keyword 让 smart bidding 重新跑 4 周,因为 SKU/品类/价格/竞争都在变,去年烂词今年可能赚——别让 2018 年的 negative 列表把你账户卡死。",
+    "quote": "Have two negative keyword lists. Evergreen is the horribly performing. Low season is if you're selling swimsuits and then in February some search terms might not work, but in May, June, July they're going to perform exceptionally well. Put them on a low season negative keyword list that you can remo"
+  },
+  {
+    "id": "andrew-lolk-I_lONwEx8eo-1",
+    "channel": "andrew-lolk",
+    "video_id": "I_lONwEx8eo",
+    "topics": [
+      "analytics",
+      "reporting",
+      "brand"
+    ],
+    "ts": 213,
+    "title": "看 hidden vs visible search term 必须先剔除 brand,否则结论是假的",
+    "summary": "有篇 viral 文章说 Google 通过 hidden search term 偷广告主钱:visible 5.6x ROAS,hidden 才 2.59x。Andrew 拆原文数据:差距全来自 brand——brand 词天然不涉及隐私所以 100% 可见、ROAS 也高;hidden 那一坨里非品牌占比远高于 visible,把品牌这块差距摊到 hidden 头上,看起来就像 hidden 在亏钱。一旦把数据切成 'non-brand only',visible 和 hidden ROAS 几乎一致。教训:任何按 visible/hidden、search-partner、device 分组的报表都得先拆 brand 和 non-brand,否则品牌的极端 ROAS 会污染所有结论。",
+    "quote": "When non-brand, this is where it starts being interesting. There's no difference whatsoever. Branded terms are more visible because there's no privacy issues with that. So we're having a bigger portion of the branded search terms that are visible versus non-brand where there's a bigger portion that "
+  },
+  {
+    "id": "andrew-lolk-LGy4LaDZfA8-1",
+    "channel": "andrew-lolk",
+    "video_id": "LGy4LaDZfA8",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 216,
+    "title": "粒度切太细会饿死 smart bidding,简单结构反而跑得更好",
+    "summary": "DTC 账户最常见错误是把 campaign 拆得太细——按 category、按 brand vs non-brand、按 phrase vs broad,搞出 18+ 个 campaign。这种粒度等于把数据切碎,smart bidding 没有足够样本就学不会:出价不准、RSA 选不出最优 headline、product-keyword 匹配也乱。Andrew 实操偏好的 baseline 结构:bestseller campaign + main campaign + push campaign(给新品/新品类喂量),最多再加一两个迁就客户的特殊 campaign。复杂度迟早会自己长出来——别一开始就搭复杂结构,'感觉略简单'就停手。",
+    "quote": "Granularity can kill automation. The more you split up the campaigns, the more you split up the data. The more you split up the data, the longer it takes to use the data. Every setup should have a feeling of being this is a little bit too simple. Not overly simple, but just on the verge of I could t"
+  },
+  {
+    "id": "andrew-lolk-LGy4LaDZfA8-3",
+    "channel": "andrew-lolk",
+    "video_id": "LGy4LaDZfA8",
+    "topics": [
+      "landing-page",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 890,
+    "title": "上限突破靠 off-platform:价格、产品页、AOV 比 broad-vs-PMax 重要",
+    "summary": "PPC specialist 的真正价值不是切 broad/exact,而是看出 off-platform 的瓶颈帮客户提天花板。三个真实案例:(1) 客户改对价格策略,Q1 conversion rate 从 1.32% 涨到 3.34%,profit 直接起飞;(2) 'member price' ROAS 一直差,根因是 product page 没说清如何成为会员、客户不信折扣是真的——改文案就能修;(3) 频繁促销让 AOV 大幅波动,smart bidding 学不会出价节奏,建议直接减促销次数。能跟客户讲清楚这些价值,比讲 'PMax vs standard' 之类账户内话题更值钱。",
+    "quote": "Off-platform optimization more or less drove the entire conversion rate increase. We saw that example before where we just got way higher 3x the conversion rate by working on the prices. It doesn't all have to be broad match. It doesn't all have to be a PMax versus standard shopping conversation. Th"
+  },
+  {
+    "id": "andrew-lolk-_SDa2Ah6yQk-1",
+    "channel": "andrew-lolk",
+    "video_id": "_SDa2Ah6yQk",
+    "topics": [
+      "campaign-structure",
+      "scaling",
+      "optimization"
+    ],
+    "ts": 151,
+    "title": "拆 campaign 看 conversion 数不看 spend,门槛 300 单/月",
+    "summary": "看到一份 case study 说月花 5,000 美金就开始拆 top performing categories 进独立 campaign,Andrew 直接打 1/10 分。拆分的判断标准从来不是 ad spend,是 conversion 数。低于 300 单/月就拆,smart bidding 没有足够数据,每个新 campaign 都会 underperform。一个允许的例外:把表现差但吃量的 SKU 从主 campaign 抽出来扔到次级 campaign 限制其 spend,这才叫 segmentation,不是简单按品类切。Amazon 上同理:Sponsored Display/Brand 单独 campaign 之前先看每个 ASIN 的转化体量。",
+    "quote": "I like doing segmentation, anybody who follow me know that that's one of the core things is to split up. But not until you get over what I call 300 conversions a month, and these guys had 395 conversions in total. This overall segmentation used in this particular case I will give it a 1 out of 10."
+  },
+  {
+    "id": "andrew-lolk-_SDa2Ah6yQk-3",
+    "channel": "andrew-lolk",
+    "video_id": "_SDa2Ah6yQk",
+    "topics": [
+      "attribution",
+      "reporting",
+      "analytics"
+    ],
+    "ts": 488,
+    "title": "判定 case study 真假先验 platform ROAS 与总 revenue 的相关性",
+    "summary": "看别人晒的增长 case 时,Andrew 的第一道筛子是查 platform 内 ROAS 与总营收的相关性。一份案例显示 Google Ads ROAS 从 5x 跳到 10x 但同期 blended revenue 没动,另一段 ROAS 翻倍而 blended 反而走平,这种背离说明数字编了或漏掉了其他渠道变化没说。真增长的特征:platform ROAS 和 blended 同方向同幅度变动。Amazon 投放复盘也一样——Sponsored ads 报表里的 sales 涨了,但店铺总销售没涨,要么是 cannibalization 自然单,要么是数据错位,绝不是真正的增量。",
+    "quote": "In order to verify that, you need to make sure that the relationship between Google Ads revenue and the total revenue is there. In this case, we're seeing that the ROAS in Google Ads is one and then it's 18 and here is 40 and here's 50. Then in October, Google Ads ROAS goes down to 5x. Blended is up"
+  },
+  {
+    "id": "andrew-lolk-aGRNHANO7X0-2",
+    "channel": "andrew-lolk",
+    "video_id": "aGRNHANO7X0",
+    "topics": [
+      "P-Max",
+      "campaign-structure",
+      "brand"
+    ],
+    "ts": 398,
+    "title": "切到 standard shopping 前先排除品牌词解锁真实非品牌 ROAS",
+    "summary": "PMax 里混着品牌词的 ROAS 是假象——总账漂亮的 400% ROAS 拆开看可能 brand 是 900%、非品牌只有 300%。直接照抄 PMax 的 ROAS 目标到 standard shopping 必死。正确做法:先在 PMax 里 exclude brand 跑一段,brand 流量自然落进新建的 brand standard shopping 和 brand search,这时 PMax 的 ROAS 会从 400 掉到 300,这个 300 才是非品牌真实水平,拿它当新 standard shopping 的目标。Amazon 上同理:Sponsored Brand 把品牌词单拎出来,Sponsored Display 看 non-brand 的真实 ROAS。",
+    "quote": "By excluding the brand we now get a clearer idea of what is our PMax actual ROAS. So when we're setting up standard shopping now, we know okay, standard shopping shouldn't be at 400% ROAS target, it should be at 300%. By this part, we actually know exactly how much our non-brand shopping is supposed"
+  },
+  {
+    "id": "andrew-lolk-cDusyCwrR-Y-1",
+    "channel": "andrew-lolk",
+    "video_id": "cDusyCwrR-Y",
+    "topics": [
+      "brand",
+      "campaign-structure",
+      "reporting"
+    ],
+    "ts": 93,
+    "title": "branded campaign 是品牌防御不是 funnel 阶段,别叫 prospecting",
+    "summary": "把账户结构命名为 branded search / prospecting search 听起来对称,但底层逻辑错了。branded 不是 funnel 的某一层(top/mid/bottom),它是品牌防御位——你必须在,因为竞争对手会买你的词。它不参与拉新转化漏斗,也不是 mid/bottom funnel keyword(除非你像 Nike 那样品牌词流量已经成了大众类目搜索)。把 brand 和 prospecting 并列报表会污染你看 non-brand ROAS 的判断。Amazon 上同理:Sponsored Brand 投自己品牌词主要是防御 ASIN 抢位,不该跟 Sponsored Display 拉新混在一起算 ROAS。",
+    "quote": "Saying you have a campaign that's called prospecting and then you have prospecting search indicates to me that you're looking at branded search as something that is a part of your funnel when it's not. It's just you have to be there. You have to defend the position. It's just a brand defense. So tha"
+  },
+  {
+    "id": "andrew-lolk-cDusyCwrR-Y-2",
+    "channel": "andrew-lolk",
+    "video_id": "cDusyCwrR-Y",
+    "topics": [
+      "negative-keywords",
+      "campaign-structure",
+      "brand"
+    ],
+    "ts": 398,
+    "title": "branded shopping 出现非品牌词,根因是 campaign 优先级设错不是缺 script",
+    "summary": "很多 in-house 跑脚本往 branded shopping campaign 里塞非品牌 negative,这是治标。真原因要么是 brand campaign 出价太高,要么是 brand campaign 里的 SKU 没同时出现在 non-brand campaign 里——这时 priority 设置失效,brand 反而吃了非品牌流量。Andrew 跑千万级账户从不用脚本,只调 priority 和确保产品在 non-brand 里都有。一个例外:PMax + standard shopping 同时存在时,优先级会被 PMax 打乱,这时也别加 negative,改架构。Amazon SD 投 ASIN-defense 时同理:看 placement 报表别看到 non-brand 流量就乱加 negative ASIN,先查投放结构。",
+    "quote": "When non-branded terms appear in your branded shopping, it's typically because of one or two reasons. Either your bids are way too high in your branded campaigns, or B, the products in your branded campaigns aren't in the non-branded campaigns. We run multi-million dollar campaigns without them. Usi"
+  },
+  {
+    "id": "andrew-lolk-cDusyCwrR-Y-3",
+    "channel": "andrew-lolk",
+    "video_id": "cDusyCwrR-Y",
+    "topics": [
+      "campaign-structure",
+      "optimization",
+      "bidding"
+    ],
+    "ts": 1009,
+    "title": "category-based campaign segmentation 是错的,只有季节品类才拆",
+    "summary": "把 shopping 按 category 拆成 tops vs bottoms 这种 arbitrary split 没有任何性能差异——搜的人不分,不同 category 的 conversion rate 也没差。这种拆法只会减少 smart bidding 的数据量。唯一合理的 category 拆分:有明显季节区分的 apparel(冬季 coat vs 夏季 short),且确实季节切换时整组商品停跑。其他场景一律不拆 category。同样,margin-based segmentation 也是错的,因为 click 不等于购买,改用 profit-based bidding(把 conversion value 换成 gross profit)。Amazon 上 SD/SB 按品类拆 campaign 也要克制——除非品类间转化漏斗真的不同。",
+    "quote": "Product category segmentation, particularly effective for what? I have never in my life seen that work. So this in my opinion is a huge mistake. You should avoid any of these arbitrary category splits like a top versus a bottom. There's no performance difference whatsoever between the two. It just r"
+  },
+  {
+    "id": "andrew-lolk-eiAOgIqLE6w-1",
+    "channel": "andrew-lolk",
+    "video_id": "eiAOgIqLE6w",
+    "topics": [
+      "campaign-structure",
+      "bidding",
+      "attribution"
+    ],
+    "ts": 62,
+    "title": "margin-based campaign 失效是因为点击不等于购买",
+    "summary": "把 shopping/PMax 按 margin 拆成高/中/低三档 ROAS 目标(300/500/700%) 听起来很对,实际三处全错:(1) 至少 30-50% 消费者最终买的不是他们点的那个 ASIN/category——bidding 是按点击出价的,可购买行为对不上;(2) Google 的 conversion 报表只追溯到点击的 product id 不是真正卖出的 product id,自己看了个假象;(3) 数据被切到三个 campaign,low margin 那条只剩 150 单/月,smart bidding 直接学不会。结论:不要按 margin 拆 campaign。Amazon 上同样:不要按 ACoS target 把同类目 SKU 拆到不同 campaign,会饿死数据。",
+    "quote": "It assumes the consumers buy what they click on, which isn't the case. I've done this analysis in many, many accounts and every single time I review it, at least 30 to 50% of consumers buy a completely different brand or completely different category than the product that they clicked on."
+  },
+  {
+    "id": "andrew-lolk-L_i0PqGIXco-1",
+    "channel": "andrew-lolk",
+    "video_id": "L_i0PqGIXco",
+    "topics": [
+      "optimization",
+      "reporting"
+    ],
+    "ts": 165,
+    "title": "每次改 bid/budget 必在 graph 上打 note,3 秒省未来几小时复盘",
+    "summary": "Andrew 15 年最大习惯之一:任何 bidding/budget/暂停/大改都要在 Google Ads graph 里加一条 3 秒的小注释,同时把决策思路存到 Notion 数据库。日后看到某天 spend 断崖、ROAS 异常就能秒查到原因,而不是凭记忆瞎猜。Amazon SP/SB/SD 同理——后台没有 graph annotation,但可以在飞书表格 / Notion 里建 change log,每次改 bid、target ACoS、加 negative、暂停 ASIN 都记一行。复盘和向老板解释波动时这就是救命数据。",
+    "quote": "When you make a bidding change, when you make a budget change, when you make a bigger change to campaigns, new pausing, a lot of stuff, just put in a small note. It takes you 3 seconds to do. And you can then in the future see, hey, we saw lower spend on this day or after this day, what happened?"
+  },
+  {
+    "id": "andrew-lolk-L_i0PqGIXco-2",
+    "channel": "andrew-lolk",
+    "video_id": "L_i0PqGIXco",
+    "topics": [
+      "reporting"
+    ],
+    "ts": 245,
+    "title": "主动周报 30 分钟换走 80% 临时打断",
+    "summary": "in-house 投手最大问题是被动响应——老板/品类经理/品牌部随时插队问数据。Andrew 解法:每周固定花 30 分钟(或 10 分钟 Loom)主动发一封周报,覆盖正在跑的 sale、push 的产品、两周前定的事进展、关键指标变化。看似多花 30 分钟,实际把全周零碎打断削掉 80%。Amazon 投手对接老板/电商运营/品牌方时同理:周一固定时间发周报压住所有'你看到 ACoS 涨了吗'的随机骚扰,把自己的 deep work 时段保护下来。",
+    "quote": "Proactive communication lower all other communication tasks by 80%. Just making sure that you every week you send a report or an update out to your manager. Take those 30 minutes and give them an update on everything. It stops people from asking you a thousand questions randomly throughout the week."
+  },
+  {
+    "id": "andrew-lolk-Qh4zoW2ugj0-1",
+    "channel": "andrew-lolk",
+    "video_id": "Qh4zoW2ugj0",
+    "topics": [
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 12,
+    "title": "feed/listing 拆成 hygiene + optimization 两阶段,90% 工作量是首次 buildout",
+    "summary": "Andrew 10 年管 Google Shopping feed 的核心方法:把 feed 优化拆成两个独立任务。第一阶段 hygiene 是 pass/fail 黑白题——GTIN/brand/availability/condition 是否填对、是否齐全,一次做完几乎不再碰;第二阶段 optimization 才是 title/image/product type/custom label 这些有判断的活。多数人卡死是因为把两件事混在一起做就崩了。Amazon 上 SP/SB 投放对应的是 listing buildout(GTIN/UPC、品牌、属性是否齐全) vs listing optimization(title 关键词、A+、Main Image),先把 hygiene 100% 补齐再投预算优化转化,不要一上来就调 bid。",
+    "quote": "The key isn't to try to optimize everything. It is to split the work into two distinct jobs. One is the feed hygiene and the other one is what I call the true feed optimization. Hygiene is your foundation. It's a pass or fail. Things like your GTIN and availability, brand color, etc. Your only job h"
+  },
+  {
+    "id": "andrew-lolk-Qh4zoW2ugj0-2",
+    "channel": "andrew-lolk",
+    "video_id": "Qh4zoW2ugj0",
+    "topics": [
+      "copy",
+      "optimization"
+    ],
+    "ts": 740,
+    "title": "title 关键词宁愿堆多别堆少,过度优化的 CTR 损失远小于不优化的 visibility 损失",
+    "summary": "Andrew 见过两种 title 错误:overdoing(brand+title+gender+model+color+size+material 全堆,90% 没人搜) 和 not doing at all。结论是——如果只能选一种错就 overdo,因为堆多了 CTR 顶多掉一点,不优化直接丢整盘 visibility。同时要 frontload 最重要的关键词(reseller 把 brand 放最前,DC 自有品牌放最后或不放),不同行业 model number 关键性也不同(电子/配件搜得多,服饰几乎没人搜)。Amazon SP listing title 同理:堆够核心关键词(品牌 + 品类 + 关键属性 + 使用场景),frontload 高搜索量词,SKU 少时直接用 AI 重写一轮 + 人工 QA。",
+    "quote": "I see two types of mistakes when it comes to optimizing product titles. Number one is overdoing it, and the second mistake is not doing it at all. If you need to make a mistake, if you're worried about overdoing it or underdoing it, overdo it. It has a minimal impact on your CTR if you overdo it, an"
+  },
+  {
+    "id": "andrew-lolk-Qh4zoW2ugj0-3",
+    "channel": "andrew-lolk",
+    "video_id": "Qh4zoW2ugj0",
+    "topics": [
+      "campaign-structure",
+      "analytics",
+      "bidding"
+    ],
+    "ts": 1148,
+    "title": "custom label 用来打 bestseller / saboteur / on-sale 标记后再分组出价",
+    "summary": "Google Shopping 的 custom labels 跟 visibility/排名零关系——加关键词无意义。Andrew 真正用法:打业务标签做分析和分组出价。最常用三个:(1) bestseller:类目顶尖单品,可以单独提 bid;(2) saboteur:不管怎么调 smart bidding 都亏的产品,直接低出价或排除;(3) on-sale:大促/seasonal 期临时标,方便统一调出价。其他可选:price range(高 AOV 单独看)、margin、delivery time、是否新品。Amazon 上对应的是 portfolio + ASIN-level 标签思路:把 SKU 按 bestseller/dog/促销/新品分组,用不同 ACoS 目标和预算,而不是一刀切跑。",
+    "quote": "Custom labels have nothing to do with visibility. My favorite custom labels are bestseller like categorizing if a product is a bestseller or not and also the opposite if it's what we call a saboteur where it's just it's an unprofitable product no matter what we do from a smart bidding perspective. M"
+  },
+  {
+    "id": "andrew-lolk-R5quB1geanc-2",
+    "channel": "andrew-lolk",
+    "video_id": "R5quB1geanc",
+    "topics": [
+      "attribution",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 646,
+    "title": "想看 profit 不一定要切 bid 模式,secondary conversion + 自定义列即可",
+    "summary": "想用 profit 数据有三种用途:(1) 不同 margin SKU 出价分层、(2) 让 Google 端 KPI 对齐业务利润 KPI、(3) 找最高 profit 的 ROAS 甜点。只有 (1) 必须切 profit-based bidding,(2)(3) 完全可以保留 revenue 主转化,把 profit 上传成 secondary conversion,然后用自定义列 (all conversion value - cost) 看 net profit / POAS。这样既不破坏 smart bidding 稳定性又拿到 profit 视角。Amazon 同理:别把 ACoS 改成 net ACoS 模型搞自己,做个外部 PoAS 报表辅助看,主出价目标继续按 ACoS。",
+    "quote": "Just because you want to track your profit, it doesn't mean you have to change your entire account to be bidding for profit. If you're just trying to align Google Ads KPIs with business KPIs or just discover what ROAS target drives the highest profit volume, then you can basically just set the profi"
+  },
+  {
+    "id": "andrew-lolk-R5quB1geanc-3",
+    "channel": "andrew-lolk",
+    "video_id": "R5quB1geanc",
+    "topics": [
+      "bidding",
+      "optimization"
+    ],
+    "ts": 260,
+    "title": "smart bidding 三个稳定支柱:数据量 + conversion rate 稳定 + AOV 稳定",
+    "summary": "Andrew 多年研究 smart bidding 何时高效,得出三个支柱:(1) 大数据量;(2) conversion rate 稳定;(3) AOV 稳定。算法靠这三个量预测某个 bid 下能拿到的 ROAS/CPA,任意一个剧烈波动算法就拍不准。所以频繁促销、SKU 价差极大、AOV 突变的账户 smart bidding 都会变糟。Amazon SP/SD 出价算法本质类似:大促前后、新品冷启动期都属于 conversion rate / AOV 不稳定阶段,这时候不要把出价权全交算法,应该手动稳出价、控预算,等数据稳定后再放手。",
+    "quote": "We found it comes back to three things. Number one is lots of data. The second thing is stability in the conversion rate. And the third thing is stability in your AOV. Smart bidding uses all three to predict what your ROAS or CPA can will be with a specific bid. When one of the three factors are off"
+  },
+  {
+    "id": "andrew-lolk-WEGjqnz0VWY-1",
+    "channel": "andrew-lolk",
+    "video_id": "WEGjqnz0VWY",
+    "topics": [
+      "campaign-structure",
+      "negative-keywords",
+      "bidding"
+    ],
+    "ts": 553,
+    "title": "AI Max 会让高 ROAS campaign 偷偷扩到差词,strict 边界控制必须保留",
+    "summary": "AI Max 是升级版 DSA,会扫 landing page + 现有 keyword + ad copy 自动扩词。问题:一个原本聚焦 Nike running shoe 的高 ROAS campaign,开了 AI Max 后会扩到 CrossFit shoe / 健身包等历史就不转化的词,而你拦不住——smart bidding 会用高 ROAS 数据给低质词加价,污染整个 campaign 结构。Andrew 的解法:开 AI Max 但关掉 final URL expansion,等于只做关键词扩展不做新着陆页扩展。Amazon 上 SP auto/Sponsored Display 自动定向同理:开就要给清晰的 ASIN/category 边界,定期扫 search term 报表把跑偏的词加 negative,不能信全自动。",
+    "quote": "There's no way for me to say that AI Max will not expand the campaign to show for CrossFit shoes or shoes for weightlifting if those keywords can be found in the URLs that are in the campaign. A high ROAS campaign like Nike will then allow AI Max to bid higher for lower performing search terms that "
+  },
+  {
+    "id": "andrew-lolk-yWi8K3rq7cc-1",
+    "channel": "andrew-lolk",
+    "video_id": "yWi8K3rq7cc",
+    "topics": [
+      "bidding",
+      "scaling",
+      "budget"
+    ],
+    "ts": 250,
+    "title": "用 wartime/peacetime 框架决定要不要冒险买不可追踪流量",
+    "summary": "smart bidding 看不见的流量也有价值——top-funnel 词、不直接转化但带后续访问的 click 都不会被算法奖励,所以 smart bidding 会主动放弃。决定要不要补这部分流量看账户阶段:wartime(利润紧张、无容错空间)只买能直接看到回报的流量,smart bidding 默认设置就好;peacetime(利润有 buffer、要扩规模)允许浪费一部分预算去买上层漏斗流量。绝大多数账户实测从 smart bidding 切到完全 manual bidding 反而更差,90% 的实验都不划算。Amazon 上同理——不要在 ACoS 紧张的时候开 SD 上层 audience,只在利润 buffer 够时拿来扩增量。",
+    "quote": "I categorize them into wartime and peacetime. Wartime means that our profitability is key and with no margin of error. Solely spending your budget where it's evident we get a return. Peacetime means that we have headroom in our profitability. We are looking to grow and we can handle some waste. In 9"
+  },
+  {
+    "id": "andrew-lolk-yWi8K3rq7cc-2",
+    "channel": "andrew-lolk",
+    "video_id": "yWi8K3rq7cc",
+    "topics": [
+      "bidding",
+      "optimization",
+      "scaling"
+    ],
+    "ts": 402,
+    "title": "minimum bid 在 portfolio 里强制 smart bidding 买它学不到价值的流量",
+    "summary": "smart bidding 只在自己看得见 conversion 的地方加价,看不见的它就放弃出价,你会丢一批本来有价值但无法归因的 click。解法:portfolio bid strategy 里设 minimum bid。一个真实账户实验把 min bid 移除当天 click 量直接腰斩(从 3000+ 跌到一千多),CPC 飙升,但 conversion 数几乎不变——证明那批被压掉的 click 算法无法估值。重新加回 min bid 流量回来。可以只对 bestseller / top campaign 用,搭配 negative keyword 把不相关词剔掉。Amazon 端口对应:bid floor / placement modifier 别一味跟 ACoS 跑,某些有真实增量的展位需要硬出价兜底。",
+    "quote": "Minimum bids basically tell smart bidding to always bid at least X amount. We removed the minimum bid limit just to see what would happen. Literally from one day to another, we actually just dropped massively in amount of clicks. Not that much in the amount of conversions. It basically can't tell th"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-1",
+    "channel": "andy-stauring",
+    "video_id": "fbYrIezehKo",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 3,
+    "title": "广告账户结构错误每天烧掉数千美元",
+    "summary": "Andy 开篇直接抛出警告：广告账户结构错误是吃利润的隐形杀手，每天可能让你损失数千美元而不自知。投手要先把账户骨架搭对（campaign 目标、adset 切分、CBO/ABO 选择），再谈创意和受众优化。背景是 Shopify dropshipping，但同样适用于 Amazon 投手——campaign 命名混乱、目标错配、预算分配粗放都会放大损耗。原理是 Meta/Amazon 算法都依赖结构来分配学习预算，结构错误会让算法在错的层级上做错的优化。",
+    "quote": "you could be losing thousands of dollars every single day with a simple structural error when running Facebook ads"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-2",
+    "channel": "andy-stauring",
+    "video_id": "fbYrIezehKo",
+    "topics": [
+      "creative-testing",
+      "audience",
+      "campaign-structure",
+      "budget"
+    ],
+    "ts": 586,
+    "title": "单兴趣 ABO 测试每个广告组 5 美元",
+    "summary": "测试新品时 Andy 用 cold single interest ABO 结构：每个 adset 只放一个兴趣词，预算固定 5 美元/天，10 个兴趣同时跑就是 50 美元/天的测试预算。这套方法的核心是把变量隔离到只有受众一个维度，3-5 天后看哪些 adset 出 ROAS、哪些直接关掉。Amazon 投手的同构做法：一个 SP/SB campaign 只测一个 keyword cluster 或 ASIN target，固定低预算跑 single-variable test，避免多变量混在一起无法归因。",
+    "quote": "we're going cold single interest single interest meaning that we're going to be testing one interest per ad set five dollar ad set daily budget"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-4",
+    "channel": "andy-stauring",
+    "video_id": "fbYrIezehKo",
+    "topics": [
+      "copy",
+      "creative-testing"
+    ],
+    "ts": 850,
+    "title": "广告文案钩子用统计数字加幽默",
+    "summary": "Andy 写广告文案的开头公式：抛一个反直觉的统计数字，紧跟一句轻松调侃，再自然过渡到产品卖点。例子是手机消毒灯——'你知道美国人平均每 12 分钟看一次手机吗？想象一下手机上累积的脏东西。' 数字制造可信度和注意力，幽默降低戒备并把痛点具象化。Amazon 投手用在 SB 视频广告或 listing A+ 文案的开头同样有效：先抛行业数据吸引点击，再用一句生活化语言把痛点放大。",
+    "quote": "did you know Americans on average check their phones every 12 minutes now just imagine all the gunk that gets clustered onto it let's fix that with our new and improved UV phone sanitizer"
+  },
+  {
+    "id": "andy-stauring-dDpZWkesL5A-1",
+    "channel": "andy-stauring",
+    "video_id": "dDpZWkesL5A",
+    "topics": [
+      "optimization",
+      "reporting",
+      "analytics"
+    ],
+    "ts": 27,
+    "title": "看利润率不看营收 3000 美元 45 利润胜过 1 万低利润",
+    "summary": "Andy 反复强调投手该盯利润率而不是 GMV。一个 3000 美元/天 45% 利润率的店，净利 1350 美元；一个 10000 美元/天 8% 利润率的店，净利只有 800 美元，还要承担 3 倍的运营复杂度和退货风险。原理是 paid ads 的 BE-ROAS 决定盈利门槛，提利润率比拉营收更省力。Amazon 投手的直接应用：评估 campaign 不能只看 sales attributed，要算回 ACoS、TACoS 和 net margin，低利润高 GMV 的 SKU 烧广告反而失血。",
+    "quote": "I'd much rather do a 3k day at 45 profit margin than do a 10k day at like an 8 profit margin"
+  },
+  {
+    "id": "andy-stauring-dDpZWkesL5A-2",
+    "channel": "andy-stauring",
+    "video_id": "dDpZWkesL5A",
+    "topics": [
+      "optimization",
+      "analytics",
+      "landing-page"
+    ],
+    "ts": 92,
+    "title": "免运费门槛要 AB 测试不要拍脑袋",
+    "summary": "Andy 拒绝凭感觉设免运费门槛，全部 A/B 测：50 美元 vs 75 美元 vs 无门槛跑 6-7 天 50/50 流量分配，比 AOV 和 conversion rate 综合得出最优解。原理是免运费门槛是 AOV 杠杆，门槛过低吃运费成本，过高拖垮转化。Amazon 投手类比：listing 的 bundle 组合、coupon 阈值、Subscribe & Save 折扣比例都该用 split test 验证，而不是抄竞品或拍脑袋定。",
+    "quote": "instead of just guessing what works best i'd actually a b test this and see what shipping minimum gets you the highest average order value while still maintaining a high conversion rate"
+  },
+  {
+    "id": "andy-stauring-JsAfA99wp-0-1",
+    "channel": "andy-stauring",
+    "video_id": "JsAfA99wp-0",
+    "topics": [
+      "optimization",
+      "analytics"
+    ],
+    "ts": 285,
+    "title": "AB 测试用 50 50 流量分配跑足 6 到 7 天",
+    "summary": "Andy 用 Ship Scout 这类 split test app 做 AOV 测试的标准流程：50/50 流量切分、最少 6-7 天观察窗口（覆盖工作日和周末两个完整周期），样本量够才下结论。短于 6 天的测试会被周末/工作日转化率差异污染，大概率得出错误结论。Amazon 投手的对应工具：Manage Your Experiments（A+ 内容、main image、title 测试），同样要跑满官方推荐的 8-10 周或至少有统计显著样本，禁止 3 天就改结论。",
+    "quote": "i highly recommend doing a 50 50 split test for at least six to seven days that way you cover both weekdays and weekends"
+  },
+  {
+    "id": "ben-heath-HtErJfrRNcY-1",
+    "channel": "ben-heath",
+    "video_id": "HtErJfrRNcY",
+    "topics": [
+      "audience",
+      "negative-keywords",
+      "optimization"
+    ],
+    "ts": 141,
+    "title": "Exclusion Marketing: 已转化人群必须排除避免烧无效预算",
+    "summary": "Heath 用 \"exclusion marketing\" 把 cost per lead 从 £1.59 降到 £0.70 (-56%)。原理: Facebook 算法会持续把广告推给已点过的人, 但其中很多已转化, 继续投是浪费。做法: 装 pixel 跟踪转化, 在受众里把已购/已留资人群 exclude 掉。Amazon 类比: SD 受众投放时排除已购买 ASIN 的人群, 避免广告费打在 repeat 自然流量上。",
+    "quote": "a lot of the people that have clicked on your Facebook ad will have converted into a lead or sell and continuing to advertise to those people is a waste of money you need to distinguish between those people that have clicked and converted"
+  },
+  {
+    "id": "ben-heath-HtErJfrRNcY-2",
+    "channel": "ben-heath",
+    "video_id": "HtErJfrRNcY",
+    "topics": [
+      "campaign-structure",
+      "bidding",
+      "optimization"
+    ],
+    "ts": 47,
+    "title": "campaign objective 决定算法优化方向, 选错从源头偏",
+    "summary": "选 campaign type 等于选 objective, Facebook 会按这个目标去优化投递。比如 traffic campaign Facebook 就只优化点击, 不会管转化质量; 选 PPE (post engagement) 就只优化互动。原理: 算法的优化目标是黑盒里的 \"最低成本动作\", 你选什么它就给你什么, 选错 objective 等于让算法去做不直接产生收入的动作。Amazon 类比: SD 选 reach vs page visits vs purchases, 出价基准完全不同。",
+    "quote": "by selecting a campaign type you are selecting an objective for your campaign this is very important because Facebook will optimize your campaign for that objective for example if you create a traffic campaign then Facebook will try to generate as much traffic as possible"
+  },
+  {
+    "id": "ben-heath-95mS4VBkamQ-1",
+    "channel": "ben-heath",
+    "video_id": "95mS4VBkamQ",
+    "topics": [
+      "scaling",
+      "audience",
+      "budget"
+    ],
+    "ts": 13,
+    "title": "暴力加预算扩量会烧穿目标人群, 必须切到新池子",
+    "summary": "Heath 警告: profitable campaign 想扩量, 直接加预算只能撑一段时间, 之后绝大多数目标人群已经看过广告, ROI 会快速崩盘。解法是创建 lookalike audience 切到新人群池继续扩。Amazon 启示: 单一 SP 关键词或 SD ASIN target 的人群有限, 长期加预算 ACOS 必涨, 真正的扩量是横向开新关键词组/新 ASIN target/新人群分组, 而不是堆 budget。",
+    "quote": "what happens when you've burnt out your target audience at some point the majority of your target audience would have seen what you're advertising if you keep advertising to the same group of people then your profitable Facebook ad campaign will very quickly become not so profitable"
+  },
+  {
+    "id": "ben-heath-VlxEodZkyko-1",
+    "channel": "ben-heath",
+    "video_id": "VlxEodZkyko",
+    "topics": [
+      "copy",
+      "creative-testing"
+    ],
+    "ts": 25,
+    "title": "广告文案只面向一个理想客户写, 想取悦所有人=取悦不了任何人",
+    "summary": "Heath 的 7 条文案技巧首条: 写广告文案时脑子里只装一个具体的理想客户, 像和这一个人对话。原理: 试图覆盖所有人的文案会变得空泛无差异, 没有人会觉得 \"在说我\"。Amazon 启示: 写 SP/SB 标题和 listing bullet 也要锁定核心买家画像 (use case + 痛点), 不要堆所有卖点。",
+    "quote": "if your ad is trying to appeal to everyone then it'll end up appealing to no one it's best to write your ad copy with a single individual in mind imagine that you're talking to your absolute ideal customer."
+  },
+  {
+    "id": "ben-heath-VlxEodZkyko-2",
+    "channel": "ben-heath",
+    "video_id": "VlxEodZkyko",
+    "topics": [
+      "copy",
+      "creative-testing"
+    ],
+    "ts": 60,
+    "title": "一条广告只放一个 CTA, 多 CTA 等于稀释转化",
+    "summary": "Heath: 很多广告主同时让用户 \"看博客 + 关注 Twitter + 买产品\", 这是最常见的低效写法。如果真正想要的是销售/留资, 文案就只放购买/咨询这一个 CTA。原理: 多动作选项造成决策疲劳, 用户会两边都不点。Amazon 启示: SD 创意里别又喊 \"Learn more\" 又喊 \"Add to cart\", 选定一个动作把整条文案对齐。",
+    "quote": "I've seen a lot of ads that are asking people to do two or three things when really the advertiser probably wants people to take one very specific action don't tell people to check out your blog or follow you on twitter if what you really want is leads and sales."
+  },
+  {
+    "id": "ben-heath-VlxEodZkyko-3",
+    "channel": "ben-heath",
+    "video_id": "VlxEodZkyko",
+    "topics": [
+      "copy"
+    ],
+    "ts": 122,
+    "title": "scarcity 紧迫感措辞对 Facebook 广告效果立竿见影",
+    "summary": "Heath 多次实测稀缺性词汇 (hurry, today only, for a limited time, now) 对广告表现有显著拉动, 即使他自己每次都被惊讶到。原理: 稀缺性触发损失厌恶心理, 用户怕错过会立刻行动。Amazon 启示: SD/SB 文案/A+ 配合 Lightning Deal/Coupon 时可以加 \"Limited Time Only\", 也契合 Amazon 自己的 \"Only X left\" 紧迫机制。",
+    "quote": "tip number 7 is to use scarcity any words that instill a sense of urgency will get your target market to respond including things like hurry now today only for a limited time makes a massive difference I'm always surprised at how much of an effects scarcity has"
+  },
+  {
+    "id": "ben-heath-e5Ut0DU372I-1",
+    "channel": "ben-heath",
+    "video_id": "e5Ut0DU372I",
+    "topics": [
+      "bidding",
+      "scaling",
+      "analytics"
+    ],
+    "ts": 34,
+    "title": "Average Customer Value 决定你能出多高的广告价",
+    "summary": "Heath 强调跑广告的人必须盯 Average Customer Value: 同行 LTV £100, 你做到 £200 就能在 FB/Google 上出价压死对手抢量, 因为客户值更多钱。原理: 平台是出价竞价市场, 真正的护城河是单客价值而不是创意技巧。Amazon 启示: 提升 ACOS 容忍度的根本是提高客单价/复购 (bundle, Subscribe & Save), 不是无脑压 bid。",
+    "quote": "if your average customer value in the same industry if you can increase that to two hundred pounds if you can have twice the average customer value that they have that means that you can go into the online advertising spaces you can go into Facebook and Google and you can afford to outbid them"
+  },
+  {
+    "id": "ben-heath-q3RTey_a-Uk-1",
+    "channel": "ben-heath",
+    "video_id": "q3RTey_a-Uk",
+    "topics": [
+      "creative-testing",
+      "campaign-structure"
+    ],
+    "ts": 123,
+    "title": "电商优先用 Carousel 多图广告, 单图正在被淘汰",
+    "summary": "Heath 实测 carousel ads 在电商场景几乎一直跑赢 single image: 一条广告同时展示多 SKU, 每张图独立 headline + CTA + 落地页, 算法还会自动把表现最好的图排首位; 方形图占垂直空间更大更吸睛; 多张图轮换天然抗 ad fatigue。原理: 多 SKU 覆盖了 target audience 内不同偏好的子人群。Amazon 启示: SB 多产品广告/SD 多 ASIN 创意比单一 ASIN 抗疲劳, 应优先选择多产品布局。",
+    "quote": "carousel ads nearly always outperform single image ad... using multiple images that advertise a number of different products really helps with ad fatigue so if you were just advertising one product to the same audience over again they're going to become bored and fatigued with that ad very quickly"
+  },
+  {
+    "id": "ben-heath-GsegxniKBu4-1",
+    "channel": "ben-heath",
+    "video_id": "GsegxniKBu4",
+    "topics": [
+      "campaign-structure",
+      "optimization",
+      "bidding"
+    ],
+    "ts": 80,
+    "title": "想要订单就选 Conversions, 不要继续用 Boost Post",
+    "summary": "Heath agency 80-90% 客户跑的都是 Conversions campaign, 接手新账户最常见的快速优化就是把客户原来的 traffic / engagement / boost post 改成 conversions。原理: Boost Post 默认是 PPE 目标, 算法只优化 like/comment, 不会优化购买。Amazon 启示: SD 选 \"page visits\" vs \"purchases\" objective, 选错后者算法压根不学转化信号; 始终用最贴近收入的 objective。",
+    "quote": "I would say that 80 percent maybe even 90 percent of all the campaigns that we run for our clients are conversion campaigns and that's a way that we can often get a quick and easy win for our clients when we do take over their account is by converting their campaign objectives from traffic or engage"
+  },
+  {
+    "id": "ben-heath-GsegxniKBu4-2",
+    "channel": "ben-heath",
+    "video_id": "GsegxniKBu4",
+    "topics": [
+      "budget",
+      "brand",
+      "scaling"
+    ],
+    "ts": 133,
+    "title": "总预算 10% 留给品牌曝光, 长期复利",
+    "summary": "Heath 建议在所有跑 conversions 的广告主, 总预算至少留 10% 跑 Brand Awareness campaign, 算法会优化 \"能记住你品牌的人\"。原理: 直效广告榨当下转化, 但品牌资产带来长期低成本流量, 全押直效会陷入越投越贵。Amazon 启示: SP/SD 转化导向之外要给 SB / Brand Store / Posts 留预算, 复购和品牌词搜索量是长期 ACOS 改善的关键。",
+    "quote": "I would recommend that businesses advertising on Facebook dedicated at least 10% of their total ad budget to brand awareness campaigns because the effects over the long run can be very beneficial"
+  },
+  {
+    "id": "ben-heath-gCd9IrZd-rI-1",
+    "channel": "ben-heath",
+    "video_id": "gCd9IrZd-rI",
+    "topics": [
+      "copy",
+      "creative-testing",
+      "campaign-structure"
+    ],
+    "ts": 76,
+    "title": "推内容广告必须带 CTA, \"裸内容\" 浪费 hyper-responsive 流量",
+    "summary": "Heath: 大家都说推内容暖人群, 但只推光秃秃的内容 (naked content) 就漏掉一群叫 hyper-responsive 的小众人群——他们第一次看到就准备买。所以视频结尾必须有 CTA, 博客中间穿插自己产品广告。原理: 用 awareness 的内容也能直接接转化, 不需要等下一步。Amazon 启示: SBV 视频不能只展示功能, 末帧/口播必须 \"Shop Now on Amazon\", 即使主目标是建认知。",
+    "quote": "there are a very small percentage of your target market called the hyper responsive that don't need to be warmed up they'll be ready to buy right now and that's why you want to include a call to action in your content you want to give those hype responses a chance to buy your products or services th"
+  },
+  {
+    "id": "ben-heath-I4YHz9LFOwI-1",
+    "channel": "ben-heath",
+    "video_id": "I4YHz9LFOwI",
+    "topics": [
+      "creative-testing",
+      "optimization",
+      "scaling"
+    ],
+    "ts": 76,
+    "title": "Cold audience frequency 上 2-2.5 就开始疲劳, 必须换素材",
+    "summary": "Heath 经验值: 对 cold 受众, frequency 升到 2-2.5 时 conversion cost 通常开始恶化, 此时该换创意/换受众/换 offer。Warm audience 池子小, frequency 9-15 都还能跑, 不必紧张。原理: 没听过你的人看 2 次广告就分流成转化或冷漠, 老用户重复曝光天然容忍。Amazon 启示: SP 高频曝光关键词若 CTR 跌、ACOS 涨, 优先想 \"是否 frequency 太高\" 而非压 bid。",
+    "quote": "any an ad frequency of anything above about a two maybe a two and a half is when we usually start to see results drop off particularly to cold audiences... if you're advertising to warm audiences... with those you can go much much higher there's not really a number at which you might need to make ad"
+  },
+  {
+    "id": "ben-heath-I4YHz9LFOwI-2",
+    "channel": "ben-heath",
+    "video_id": "I4YHz9LFOwI",
+    "topics": [
+      "creative-testing",
+      "audience",
+      "optimization"
+    ],
+    "ts": 109,
+    "title": "frequency 高效解法三选一: 换素材 / 换人群 / 换 offer",
+    "summary": "frequency 偏高时三种修法: ① 换创意 (新视频/新主图/新标题) ② 换 targeting 把同一 offer 给到新人群 ③ 换 offer 给到同一人群。原理: 疲劳源是 \"创意-受众-offer\" 这个三元组的某一环重复, 任意切换一个就能继续榨剩下两环的价值。Amazon 启示: SD ASIN target 跑疲了, 别只换 bid; 要么换主图副本要么换 ASIN 范围要么换 promo 角度。",
+    "quote": "one often simple way if you think that the offers really good and the targeting is really good is to change your ad creative... another option is obviously to change the targeting... perhaps you could offer them something else you could advertise a different service that you offer a different produc"
+  },
+  {
+    "id": "ben-heath-mTnEs8EWy4I-1",
+    "channel": "ben-heath",
+    "video_id": "mTnEs8EWy4I",
+    "topics": [
+      "landing-page",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 67,
+    "title": "App install 类广告千万别先跳官网, 直接到商店",
+    "summary": "Heath 看过有客户把 app install 流量先送到自己网站再让用户去商店下载, 中间多一步丢一大半人。正确做法: 选 App Installs objective + 直接跳 App Store/Google Play, 减少所有中间步骤。原理: 转化路径每多一步流失率几何级上升 (\"摩擦守恒定律\")。Amazon 启示: SD 落地页直接打 PDP, 不要先到 Brand Store 索引页; 每多一跳 conversion 都掉。",
+    "quote": "you don't want to do that with the app installs and add objective uses a sent directly from Facebook to the location where they can download the app... it's sort of a rule in digital marketing that you want to make things as easy as possible for people because if you do more people are going to do i"
+  },
+  {
+    "id": "ben-heath-mTnEs8EWy4I-2",
+    "channel": "ben-heath",
+    "video_id": "mTnEs8EWy4I",
+    "topics": [
+      "creative-testing"
+    ],
+    "ts": 203,
+    "title": "广告视频几乎一致优于图片, 哪怕是产品类",
+    "summary": "Heath: 在 Facebook 跨多 vertical 测试 video 几乎一直跑赢 image 广告, 因为 newsfeed 里 motion 自动抓眼, 静音也能传 message。Amazon 启示: SBV (Sponsored Brand Video) 在 search 结果页占据更大视觉空间且自动播放, 优先级应高于 SP/SB 静态广告; 即使没有 polished 视频, 简单产品 demo 也比静态主图好。",
+    "quote": "video ads are better than image ads now this is basically true across Facebook as a platform videos are much more engaging... when videos show up in people's newsfeeds and either on their desktop or their mobile it's gonna grab them attention a lot more there's gonna be even though it starts on sile"
+  },
+  {
+    "id": "ben-heath-3debt82RpyE-2",
+    "channel": "ben-heath",
+    "video_id": "3debt82RpyE",
+    "topics": [
+      "budget",
+      "scaling"
+    ],
+    "ts": 1583,
+    "title": "起步预算 $5-10/day 验证转化, 不要被预算定义压力绑架",
+    "summary": "Heath 给新手的预算建议: 不要纠结大数字, 起步 $5-10/day, 验证 conversion campaign 能跑通后再 scale。早期最大风险不是 \"预算太小\", 而是 \"预算太大但学习信号不准\"。Amazon 启示: 新 SP campaign 起步 $10-20/day 测 7-14 天, 看到稳定 ACOS 信号再阶梯加预算; 不要一上来就 $100/day 烧。",
+    "quote": "what I usually say to people is start off small establish your something works and then look to scale up and if you want to start with you know something like five dollars a day ten dollars a day that could be a decent starting point"
+  },
+  {
+    "id": "ben-heath-7uTH2cD1m6U-2",
+    "channel": "ben-heath",
+    "video_id": "7uTH2cD1m6U",
+    "topics": [
+      "creative-testing",
+      "copy"
+    ],
+    "ts": 446,
+    "title": "Cold 视频广告卡死 2-4 分钟, 长了没人看到 CTA",
+    "summary": "Heath: 给 cold audience 投视频, 必须 2-4 分钟内结束, 因为视频结尾才是 CTA, 长视频用户根本到不了 CTA。原理: cold 用户耐心阈值很低, 信息密度优先于内容完整度。Amazon 启示: SBV/Posts 视频如果带 CTA, 节奏要前置, 关键 hook + CTA 不要拖到 30 秒后, 否则 CTA 永远展示不到。",
+    "quote": "you can see that it's only three minutes and 14 seconds long and that's really important as a digital marketer I'd love attention spans online to be much much larger than they are but they're not too cold audiences to people who don't know who I am and I'm going to create a short video I think two t"
+  },
+  {
+    "id": "dara-denney-JKBz6w6lfcs-2",
+    "channel": "dara-denney",
+    "video_id": "JKBz6w6lfcs",
+    "topics": [
+      "optimization",
+      "campaign-structure",
+      "analytics"
+    ],
+    "ts": 559,
+    "title": "新站 pixel 数据不足时降级 optimize for add-to-cart",
+    "summary": "刚开站 / pixel 还没攒够 purchase 数据时,直接 optimize for purchase 算法找不到信号,会跑得很糟。Dara 的做法是先降一档 — optimize for add-to-cart,先把流量倒进站内累积 pixel 数据,等 purchase 累计到 50+/周再切回 purchase optimization。原理:算法学的是 conversion event 的人群信号,事件太稀疏就学不出。Amazon 类比:新 listing 直接打 ROAS 目标会跑不动,先用 SP automatic 跑出关键词 + 评价基础,再切手动 + 高价值 keyword 优化。",
+    "quote": "if your website is brand new and you're a brand new business you don't have much data being tracked through your pixel... so in that case you know we'd be optimizing for add to cart but that means we need to start driving traffic"
+  },
+  {
+    "id": "dara-denney-TWRLhCOYXFI-1",
+    "channel": "dara-denney",
+    "video_id": "TWRLhCOYXFI",
+    "topics": [
+      "creative-testing",
+      "analytics",
+      "brand"
+    ],
+    "ts": 83,
+    "title": "每天刷 Facebook Ad Library 抄竞品 mobile-first 素材",
+    "summary": "Dara 作为 paid social director 每天的固定动作是去 facebook.com/ads/library 搜竞品和品类龙头(Lululemon、Billy)看他们在投什么广告,看到好的 mobile-first 视频就录屏发给客户做模板。重点学的是:竖版 / 短 / 前 3 秒动作 / logo 前置 / call-out 标签。Amazon 没有公开的 ad library,但等价做法 — 每天去同品类 Top 10 BSR 的产品详情页看他们的 SB video、A+ 主图视频、SD product targeting 投放素材;以及 TikTok / Instagram 上的同品类 UGC,直接借鉴 hook 结构。",
+    "quote": "I do this almost every day just because I want to see not only what my brands competitors are doing but also like what big brands are doing and if they're doing something interesting I might try and replicate it and some of my own ads"
+  },
+  {
+    "id": "dara-denney-TWRLhCOYXFI-2",
+    "channel": "dara-denney",
+    "video_id": "TWRLhCOYXFI",
+    "topics": [
+      "creative-testing",
+      "copy",
+      "brand"
+    ],
+    "ts": 276,
+    "title": "iPhone 拍 UGC 比专业制作转化更高,品牌不必怕便宜感",
+    "summary": "Dara 反复强调:很多客户一听到要做视频广告就以为要花大钱请团队,但她真正在用的高转化素材都是 iPhone 拍的 UGC + 简单字幕图形。例子是 Billy(剃刀品牌)整套素材都像用户自拍。原理:Meta 算法 + 用户心理在'广告原生感'下 stop rate 反而更高,精修感太强的广告 thumbnail-stop rate 反而下降。Amazon 端 100% 适用 — SD video / SB video / lifestyle 主图都是,UGC 风格的产品使用场景视频比棚拍展示视频 stop-scroll 更强、CTR 更高。",
+    "quote": "they always get this like glazed over look in their eye which is like oh my god now I'm gonna have to spend tons of money not only on advertising but on also on creative for the advertising and it's like no it doesn't have to be that way you can create really great videos with an iPhone"
+  },
+  {
+    "id": "dara-denney-M4E8u_E2EZU-1",
+    "channel": "dara-denney",
+    "video_id": "M4E8u_E2EZU",
+    "topics": [
+      "budget",
+      "creative-testing",
+      "campaign-structure"
+    ],
+    "ts": 84,
+    "title": "Testing 阶段必须用 ad set budget,不要用 CBO",
+    "summary": "Dara 的核心规则:测新人群 / 新素材时永远用 ad-set-level budget,不用 CBO(campaign budget optimization)。原因 — CBO 会自动把预算压到表现最好的那一两个 ad set 上,剩下的 ad set 拿不到足够花费,数据不够你根本不知道它们其实是什么水平,等于浪费测试机会。CBO 只在已经验证过的 winner 人群放大期用。Amazon 类比:测新关键词组 / 新 ASIN targeting 时,用 manual bidding + 独立 campaign 拆开,不要全塞进一个 dynamic bid down only 的大 campaign,否则强词把弱词压死,看不到弱词真实潜力。",
+    "quote": "I want to make sure that each ad set is getting the right amount of spend so that I can properly evaluate it if your ad set doesn't get enough spend you don't actually know how it's performing... I'm able to not only control it better but I get better results just by simply using ad set budgeting fo"
+  },
+  {
+    "id": "dara-denney-M4E8u_E2EZU-2",
+    "channel": "dara-denney",
+    "video_id": "M4E8u_E2EZU",
+    "topics": [
+      "scaling",
+      "campaign-structure",
+      "budget"
+    ],
+    "ts": 196,
+    "title": "已验证 winner 才放进 CBO 单 campaign 放量",
+    "summary": "Dara 的 scaling 流程:ad-set-budget testing campaign 跑出 winner ad set 后,把这些 winner 单独搬进一个新的 CBO campaign 放量。理由:(1) winner 集中放在 CBO 里,算法会自动把预算往表现最好的那个倾斜,scale 阶段更高效;(2) campaign 级控制预算比 ad set 级更稳,改 daily budget 一次到位;(3) CBO 还能避免重叠人群被反复触达过载。Amazon 类比:SP automatic 跑出高转化 search term 后,搬到 SP manual exact + 独立 campaign,设单独高预算 + 提价,这是 Amazon 端的'CBO scaling'近似流程。",
+    "quote": "I always use a CBO campaign for my best performing top of funnel audiences that have been previously tested and have gotten good results... ultimately this is also the best way for me to scale up if I want to start increasing budgets because it's a lot easier for me to control the budget at the camp"
+  },
+  {
+    "id": "dara-denney-ueuQCOHeDCs-1",
+    "channel": "dara-denney",
+    "video_id": "ueuQCOHeDCs",
+    "topics": [
+      "scaling",
+      "budget",
+      "audience"
+    ],
+    "ts": 60,
+    "title": "预算决定人群大小:< $8K/月用 1-2.5M,$10K+ 用 4M+",
+    "summary": "Dara 测过几百个账户:audience size 不是越精准越好,而是要匹配预算。月 < $8K 时用 1-2.5M(1% LAL 量级),给算法刚好够找人但不会跑空;月 $10K+ 时必须开到 4M-20M,因为预算大了再用小人群会反复轰炸同一批人 frequency 飙升、CPM 暴涨。规则:scale 不仅是加预算,人群也要同步扩大。Amazon 类比:SP/SD 加预算时,同时要扩 keyword set / 增加 ASIN targeting 范围,死守 5-10 个核心词加预算只会把那几个词的 ACOS 推高。",
+    "quote": "if you are spending under 8 km month on Facebook ad I really do find the 1 million to two and a half million to be the sweet spot... when I'm working with a brand that's spending 10 K or more per month on ads I really am looking for those audience sizes that are 4 million or more sometimes up to 20 "
+  },
+  {
+    "id": "dara-denney-Uvhe5GcuquI-1",
+    "channel": "dara-denney",
+    "video_id": "Uvhe5GcuquI",
+    "topics": [
+      "attribution",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 95,
+    "title": "拆 click-through vs view-through conversion 看用户路径",
+    "summary": "FB 默认显示的 purchase 数是 click + view-through 合并值。Dara 的常规动作是去 columns 把两个数据拆开:click-through 是直接点广告下单的;view-through 是看了广告但没点、之后通过别的渠道(Google 搜品牌)下的单。view-through 占比高 = 你的广告主要在做'品牌种草',直接 ROAS 算法可能会低估它的价值。Amazon 类比:Amazon 没有 view-through 这层,但 SD/SB attributed sales 也会被低估,因为很多用户看到 SB 广告后回搜品牌名走自然流量,这部分被算成 organic。看 New-to-brand metric + branded search 增量是补救方法。",
+    "quote": "this number is actually the result of two numbers being put together one that is for conversions that are attributed to clicks and the other are conversions that are attributed to view threes... I would be in the habit of looking often at this data so you can know exactly how your customers are inte"
+  },
+  {
+    "id": "dara-denney-GmPgpyHqamM-1",
+    "channel": "dara-denney",
+    "video_id": "GmPgpyHqamM",
+    "topics": [
+      "analytics",
+      "reporting",
+      "landing-page"
+    ],
+    "ts": 113,
+    "title": "盯 link click vs landing page view 差值揪 LP 速度问题",
+    "summary": "Dara 必盯的一个 KPI 对子:link clicks vs landing page views。差值越大说明用户点了广告但没真正落到落地页 — 99% 是页面在移动端加载太慢,用户失去耐心关掉。如果 LP view 只有 link click 的 50%,这就是大问题,要立刻去做 LP 速度优化。还要盯 ATC vs purchase 比率看 funnel 卡点。Amazon 类比:Amazon 端等价指标是 detail page view rate (DPVR) — SD 广告 click 后有多少真的落到 ASIN 详情页。Amazon 自己不显示这个,但你能从 SP report 的 7-day vs 14-day attribution 推断出'流量到了但没买'的比例。",
+    "quote": "we can look at the discrepancy between link links and landing page views to see if people are actually landing on the website when they intend to if they aren't then that might be a sign that your website is actually loading too slow particularly on mobile"
+  },
+  {
+    "id": "dara-denney-2n4oDbw9EO8-2",
+    "channel": "dara-denney",
+    "video_id": "2n4oDbw9EO8",
+    "topics": [
+      "creative-testing",
+      "campaign-structure"
+    ],
+    "ts": 65,
+    "title": "Instagram Stories 需要单独 creative,不能复用 feed 素材",
+    "summary": "Dara 唯一手动拆版位的场景是 Instagram Stories。Stories 是 9:16 全屏,前 1 秒就要抓住注意力,文案位置 / logo / CTA 全要重画。如果直接把 feed 的方形或横版素材投到 Stories,上下黑边 + 白色文案被 UI 挡住 = 必死。规则:专门为 Stories 拍一套素材,然后 ad set A 跑 Stories only,ad set B 跑剩下所有版位。Amazon 类比:Sponsored Brand 主图视频(横版 + 竖版需求不同)、SD video 在 detail page 嵌入(竖版优先) — 不同位置必须配不同尺寸 creative,不要复用一套素材投全部 placement。",
+    "quote": "particularly when i'm making creative that's made especially for instagram stories so when i have specific instagram stories content i do like to segment that out... i would have one ad set that's just for instagram stories and another ad set that has all the placements selected except for instagram"
+  },
+  {
+    "id": "ed-leake-k0lb44nTlSw-1",
+    "channel": "ed-leake",
+    "video_id": "k0lb44nTlSw",
+    "topics": [
+      "bidding",
+      "optimization",
+      "landing-page"
+    ],
+    "ts": 665,
+    "title": "广告位减少时不要跟风加价，先优化质量分",
+    "summary": "Google 取消右侧广告导致竞价位减少、CPC 上压。Ed 反对盲目加价，原因是大家集体抬价只让平台获利。正确做法：用 Ad Preview 检查自己排在哪、把所有 ad extension（站点链接、附加说明、评价）开足，让广告占位变大；同时主攻 quality score（关键词→广告→落地页相关性），这才是降 CPC 的根本杠杆。Amazon SP/SD 同理：竞争加剧时先优化关键词-listing 相关性而不是无脑提 bid。",
+    "quote": "instead of bidding up improve the one overarching factor that reduces your bids and that's your quality score um essentially relevance of the advert to the search term trigger in the ad and to the landing page"
+  },
+  {
+    "id": "ed-leake-k0lb44nTlSw-2",
+    "channel": "ed-leake",
+    "video_id": "k0lb44nTlSw",
+    "topics": [
+      "budget",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 472,
+    "title": "低毛利产品砍 SKU，集中预算到高转化关键词",
+    "summary": "竞争加剧时低毛利产品最先被挤出。Ed 给中小广告主的解法是砍掉低毛利投放、只跑高毛利或历史已转化的 top sellers/keywords，其余全部砍掉。原理：预算有限时，分散到弱品/弱词只是把钱送给平台。Amazon SP 同理：账户预算紧张时先砍 ACoS 高、转化少的 ASIN 和长尾词，把弹药集中到证明能赚钱的几个 SKU + 词。",
+    "quote": "you can be more selective in what you advertise and just go for your your high margin or your your top sellers or if you're a service business just literally focus on the keywords that have brought conversions and forget everything else"
+  },
+  {
+    "id": "ed-leake-CPmsl48uw2g-1",
+    "channel": "ed-leake",
+    "video_id": "CPmsl48uw2g",
+    "topics": [
+      "optimization",
+      "campaign-structure",
+      "analytics"
+    ],
+    "ts": 579,
+    "title": "5-10% 关键词花掉 90% 预算，先优化它们",
+    "summary": "Ed 在审计客户账户时发现典型分布：5-10% 的关键词在烧掉绝大部分预算，剩下的几乎不花钱。所以优化资源应集中在头部消费词上 - 这是杠杆最大的地方。低 QS（1-3）直接删，4-6 才是要重点改的（拆出去做单独 ad group、改广告文案对齐搜索词）。Amazon SP 同理：定期按 spend 倒序排关键词/ASIN，优化集中在头部，长尾低消费词不值得花 30 分钟去改。",
+    "quote": "if you actually look at your account from a keyword level you'll find typically that sort of five to 10% of your keywords are spending all your money and the vast majority aren't uh and there for it's a case of you want to optimize and pay attention to and focus on this top percentile"
+  },
+  {
+    "id": "ed-leake-CPmsl48uw2g-2",
+    "channel": "ed-leake",
+    "video_id": "CPmsl48uw2g",
+    "topics": [
+      "campaign-structure",
+      "optimization",
+      "bidding"
+    ],
+    "ts": 685,
+    "title": "把高转化关键词单独拆成 single keyword ad group",
+    "summary": "Single Keyword Ad Group（SKAG）做法：把已转化的高表现关键词从混合 ad group 里抽出来，单独建 ad group + 专属广告文案 + 专属落地页。原理：相关性最大化 → CTR 升 → QS 升 → CPC 降。Ed 警告别一次拆成几百个还指向同一落地页，那就失去意义。Amazon SP 直接对应：Exact Match 单关键词单独 campaign（高表现词隔离投），与 broad/auto 分开预算和 bid。",
+    "quote": "find your really really high performing keywords that convert uh that are mixed up with other other keywords in other AD groups and strip them out and give them their own uh essentially their own budget and their own air to breathe"
+  },
+  {
+    "id": "ed-leake-CPmsl48uw2g-3",
+    "channel": "ed-leake",
+    "video_id": "CPmsl48uw2g",
+    "topics": [
+      "creative-testing",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 794,
+    "title": "广告 A/B 测试用 CTR × CVR 综合评分挑赢家",
+    "summary": "Ed 用一个极简公式判断哪条广告该留：CTR × CVR = score，分高的留下。原因：只看 CTR 会留下吸引点击但不转化的标题党；只看 CVR 会留下点击量太小不显著的广告；相乘平衡两者。Amazon SB/SD 创意 A/B 测试同理：不要只看 ROAS 或只看 CTR，要把点击率和转化率乘起来综合判断哪个素材/标题/图片该胜出。",
+    "quote": "if you had three ads in an ad group you'd literally take the clickthrough rate times conversion rate it give you a score and that would tell you from a balance perspective which ad is is is working"
+  },
+  {
+    "id": "ed-leake-CPmsl48uw2g-4",
+    "channel": "ed-leake",
+    "video_id": "CPmsl48uw2g",
+    "topics": [
+      "optimization",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 947,
+    "title": "CPA 才是终极指标，QS / 排名 / CPC 都是中间变量",
+    "summary": "Ed 反对纠结于单一中间指标：QS 只影响 ad rank，ad rank 只影响 CPC，CPC 只影响 CPA - 终极看的是 CPA / 利润。如果优化 QS 没让 CPA 下降，那就是无用功。Amazon SP 同理：ACoS、CTR、CPC 都是中间值，最终判断标准是单 ASIN 实际利润（扣完佣金、广告、退货后），不要因为某个中间指标好看就保留亏损 SKU。",
+    "quote": "quality score impacts your ad rank your ad rank impacts your cost per click but crucially your cost per click is what impacts your cost per acquisition and at the end of the day your cost per acquisition always wins"
+  },
+  {
+    "id": "ed-leake-cBCcN5NBXw8-1",
+    "channel": "ed-leake",
+    "video_id": "cBCcN5NBXw8",
+    "topics": [
+      "analytics",
+      "reporting",
+      "optimization"
+    ],
+    "ts": 65,
+    "title": "审计窗口看 90 天，30 天数据噪音太大",
+    "summary": "Ed 做账户审计的硬规则：拉数据看至少 90 天（一个季度），不要只看 30 天。原因：30 天容易被一个旺季周末或一次 promo 扭曲判断；90 天能看到稳态的 keyword/ASIN 表现。另外审计前要先查 change history，避免在别人刚改完动作之后立刻评估。Amazon SP 同理：判断关键词/ASIN 是否该砍，至少看 90 天累计 ACoS 和订单数，不要被某周突发表现误导。",
+    "quote": "if you're doing a an audit I'd recommend going back sort of 90 days the past quarter you can even do a whole year it does depend on your market so use a bit of Common Sense bit of logic goes into that but yeah be careful of 30 days"
+  },
+  {
+    "id": "ed-leake-cBCcN5NBXw8-2",
+    "channel": "ed-leake",
+    "video_id": "cBCcN5NBXw8",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 326,
+    "title": "ad group 关键词不超过 20 个，超了就拆",
+    "summary": "Ed 给的硬规则：单个 ad group 关键词超过 20 个就该拆。理由：关键词太多必然主题不紧密，无法对一组词写出针对性广告/落地页，CTR 和 QS 都会被拉下水。拆成更小、主题更紧的 ad group 让广告文案精确匹配 → CTR 升 → QS 升 → CPC 降。Amazon SP campaign 结构同理：一个 ad group 塞 50+ 个关键词时该按主题（功能词 / 品牌词 / 竞品词）拆开。",
+    "quote": "take look out for for ad groups that got more than 20 keywords as a rule of thumb because it's highly likely that they aren't closely related and closely or thematically linked together and that's what you want to achieve"
+  },
+  {
+    "id": "ed-leake-cBCcN5NBXw8-3",
+    "channel": "ed-leake",
+    "video_id": "cBCcN5NBXw8",
+    "topics": [
+      "budget",
+      "scaling",
+      "bidding"
+    ],
+    "ts": 269,
+    "title": "Impression Share < 95% 且 CPA 达标 → 立刻加预算",
+    "summary": "Ed 的预算决策快速法：把关键词按 cost 排序，加上 cost-per-conversion 和 search impression share 两列。条件成立就加预算：CPA 在目标内 + impression share < 95-97%。原理：钱已经在赚，但 IS 没满意味着还有需求没接住。Amazon SP 同理：当某关键词 ACoS 低于目标且 IS 不饱和（或 budget cap 经常触顶），加预算就是直接扩单的最快动作。",
+    "quote": "so long as that their their CPA their cost per sale per lead per acquisition is under your target uh and this account is Believe It or Not £500 uh because their their leads are worth a lot of money so all these keywords are falling under that then that means that if your search impression share is l"
+  },
+  {
+    "id": "ed-leake-kW1G9rTPUTQ-1",
+    "channel": "ed-leake",
+    "video_id": "kW1G9rTPUTQ",
+    "topics": [
+      "budget",
+      "scaling",
+      "optimization"
+    ],
+    "ts": 495,
+    "title": "把 5-10% 头部表现的预算上调，其他下调",
+    "summary": "Ed 总结的设备/平台 bid 调整通用法则：把头部 5-10% 表现最好的 campaigns/ad groups/keywords 加预算，剩下的减预算或砍掉。即'put money in what works and take money away from what doesn't'。原理：广告回报是高度长尾分布，把钱集中到证明能赚的少数 winner 是 ROI 最高的动作。Amazon SP 同理：每周复盘时按 ROAS 排序，砍尾、加头，不要一直平均分配预算。",
+    "quote": "you take your five 10% top performers in your your campaigns you know your ad groups your keywords and it's as simple as that really put money in what works and take money away from from what doesn't"
+  },
+  {
+    "id": "ed-leake-hypvCh3uRLY-1",
+    "channel": "ed-leake",
+    "video_id": "hypvCh3uRLY",
+    "topics": [
+      "analytics",
+      "reporting",
+      "optimization"
+    ],
+    "ts": 333,
+    "title": "盯三个核心指标就行：CPA / CTR / Frequency",
+    "summary": "Ed 反对盯一墙的指标。CPA 是最终决策（落进目标 CPA 就是赢）；CTR 检查广告-人群匹配度（<2% 就要换素材或人群，目标 3-4%+，5-10% 是真匹配）；Frequency 检查 audience 是否被烧坏（<5 安全，>10 危险，会被标 junk）。Amazon SP 同理：盯 ACoS（=CPA 类）+ CTR（创意-listing 匹配信号）+ Impression frequency（同一 ASIN 反复曝光给同一受众会掉权重）。其他指标都是噪音。",
+    "quote": "the three critical metrics that I pay attention to is cost per acquisition your CPA your clickthrough rate your CTR and the frequency that people see your ads"
+  },
+  {
+    "id": "ed-leake-hypvCh3uRLY-2",
+    "channel": "ed-leake",
+    "video_id": "hypvCh3uRLY",
+    "topics": [
+      "bidding",
+      "optimization",
+      "landing-page"
+    ],
+    "ts": 174,
+    "title": "Relevance score 高 = CPC 低，雪球效应不可逆",
+    "summary": "Ed 警告：相关性分数（FB 1-10，类比 Google QS）低于平均会让平台优先展示别人的广告，你的 CPC 越来越贵 - 这是雪球效应，越烂越烂。Amazon SP 同理：广告 relevance（关键词与 listing 标题/bullet/类目的契合度）直接影响竞价权重 - 不要用 SP 投跟产品弱相关的关键词去抢流量，会进入劣化循环；优化 listing 文案让相关性赢过同类目竞品才是省钱根本。",
+    "quote": "an above average relevancy score directly correlates to spending Less on ads so consider that when Facebook ads has to decide which ad to display to a specific user the algorithm will have a preference to the more relevant ad being shown first if that ad isn't yours it quickly becomes more expensive"
+  },
+  {
+    "id": "ed-leake-yl92AAbKQfI-2",
+    "channel": "ed-leake",
+    "video_id": "yl92AAbKQfI",
+    "topics": [
+      "creative-testing",
+      "optimization"
+    ],
+    "ts": 312,
+    "title": "每个 ad set 至少测 3 张图，图片影响最大",
+    "summary": "Ed 的硬规则：每个 ad set 至少跑 3 张不同图，最好 12 张。理由：'an image will have the biggest impact of all your ads performance' - 文案、headline 都没换、只换图，CTR 和 CVR 都能差几倍。Amazon SD/SB 直接对应：主图（特别是 SB 视频/SD 创意图）是最大杠杆，文案变化的边际收益远不如图片。每个广告组至少准备 3 个素材轮测，淘汰输家。",
+    "quote": "always test at the very least three different images per ad set. So, Facebook audiences are very sensitive to imagery. An image will have the the biggest impact of all your ads performance"
+  },
+  {
+    "id": "ed-leake-GfpwYp6HkMw-1",
+    "channel": "ed-leake",
+    "video_id": "GfpwYp6HkMw",
+    "topics": [
+      "landing-page",
+      "optimization",
+      "creative-testing"
+    ],
+    "ts": 60,
+    "title": "选择越少转化越高 - Jam 实验：6 款 vs 24 款",
+    "summary": "经典 Jam 实验：超市设品鉴台，6 款果酱时 30% 路人买，24 款时只有 3% 买 - 选项多反而瘫痪决策。Ed 用这个反对首页堆产品。Amazon listing 直接对应：A+ 模块、变体下拉、bundle 选项都不要塞太多 - 同 ASIN 给 6 个 variant 比给 24 个 variant 转化率更高；首屏前 3-5 个核心卖点远胜过 10 个并列特性。",
+    "quote": "they discovered that 3% of people purchased from the 24 Jam display which is okay whereas 30% purchased from the six Jam display that's a 10-fold increase in sales"
+  },
+  {
+    "id": "ed-leake-GfpwYp6HkMw-2",
+    "channel": "ed-leake",
+    "video_id": "GfpwYp6HkMw",
+    "topics": [
+      "analytics",
+      "landing-page",
+      "optimization"
+    ],
+    "ts": 182,
+    "title": "用 site search 数据找'用户真正想买什么'",
+    "summary": "Ed 在 GA 看 site-search 转化率是非搜索用户的 2 倍，session value 也翻倍。逻辑：搜索用户已经知道要什么 - 那些被搜的关键词就是真实需求信号。把搜索量大的 SKU 推到首页，而不是堆促销品。Amazon 同理：Brand Analytics 的 Search Query Performance 报告就是这个角色 - 看哪些查询带来你品牌点击却没转成你 ASIN 的购买，那就是 listing 没接住的真实需求，应该用这些词单独建 SP exact 广告 + 优化 listing 标题。",
+    "quote": "site search tells you what your customers want so if people who search convert really well the logic would suggest that uh get more people to search right that's not entirely true what we actually want to do is make the products that people search for easier to find in the first place"
+  },
+  {
+    "id": "ed-leake-VWdk8N3p7Eg-1",
+    "channel": "ed-leake",
+    "video_id": "VWdk8N3p7Eg",
+    "topics": [
+      "audience",
+      "analytics",
+      "optimization"
+    ],
+    "ts": 22,
+    "title": "用 GA 数据校准 audience 年龄/性别，别拍脑袋",
+    "summary": "Ed 反对在 Facebook 投放设置时凭感觉选年龄段和性别。做法：先去 GA 看过去 90 天 Demographics，对每个年龄段比较 sessions、转化率、订单价值 - 通常会发现流量最大的年龄段不是转化最强的。把广告人群按真实转化数据收紧，而不是按平台默认值。Amazon SD audience 投放完全同理：Brand Analytics + 后台报告告诉你真正下单的是哪个年龄/性别段，把 SD 受众扩展按这个方向收，不要广撒网。",
+    "quote": "using your actual visitor data you can hone your audience targeting to get in front of the right people who are more likely to buy from you"
+  },
+  {
+    "id": "ed-leake-VWdk8N3p7Eg-2",
+    "channel": "ed-leake",
+    "video_id": "VWdk8N3p7Eg",
+    "topics": [
+      "analytics",
+      "reporting",
+      "optimization"
+    ],
+    "ts": 88,
+    "title": "看 per-session value 而不是单纯转化率",
+    "summary": "Ed 演示评估 audience 段时不只看转化率，还看 per-session value（总收入 / 总会话数）。原因：高转化率但客单价低的人群可能不如低转化率但高客单价的人群赚钱。Amazon SP 同理：单看 ACoS 会误判 - 低 ACoS 词如果客单价低、利润薄，反而不如稍高 ACoS 但带高客单价 SKU 的词。决策时把 spend per session/click × AOV 一起看才能避免被单一指标误导。",
+    "quote": "the per session value simply a divisible some so total revenue divided by total sessions it's for wrong online stores in particular it's a good indicator of sales performance you can use it on any traffic channel or a demographic"
+  },
+  {
+    "id": "ed-leake-w9kTMXW5pPU-1",
+    "channel": "ed-leake",
+    "video_id": "w9kTMXW5pPU",
+    "topics": [
+      "negative-keywords",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 56,
+    "title": "Broad match 会触发同义词，必须主动加 negatives",
+    "summary": "Ed 回答匹配类型问题：即使是 Modified Broad Match 也会触发 misspellings、单复数、缩写、词根（floor/flooring 算同一）。要收紧只能靠 negative keywords - 用同义词典找出所有不想要的近义词，作为单词级 negatives 加入。Amazon SP 直接对应：Broad / Phrase 关键词必然会跑出大量 customer search term 噪音，每周必须从 search term report 里把跑出但不转化的词加进 negative exact，否则预算被吃掉。",
+    "quote": "the only way to tighten this up and by the way this happens with exact match as well. It's not it's not exactly exact but um particularly in the case of broad modified it's even worse if you're not wanting to trigger for employee for example you need to negative that out and you need to negative out"
+  },
+  {
+    "id": "ed-leake-WZNLibPmYTc-1",
+    "channel": "ed-leake",
+    "video_id": "WZNLibPmYTc",
+    "topics": [
+      "creative-testing",
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 14,
+    "title": "每个 ad group 放 2 条广告，便于 A/B 测试",
+    "summary": "Ed 的硬规则：每个 ad group 放 2 条广告（不是 1 条也不是 3-5 条）。1 条没法测；3+ 条流量被分散，谁赢谁输要等很久才显著。判定胜者用 CTR × CVR 公式，highest 留下。Amazon SP/SB 创意 A/B 同理：每个 campaign/ad group 同时跑 2 个素材就好，多了流量分散统计显著太慢；每隔 2-3 周淘汰输家、加新挑战者。",
+    "quote": "you have two adverts per ad group uh if you have one you can't split test if you have more than two you take longer to test your ad"
+  },
+  {
+    "id": "ed-leake-1A-OY07CNYA-1",
+    "channel": "ed-leake",
+    "video_id": "1A-OY07CNYA",
+    "topics": [
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 28,
+    "title": "ad group 关键词越少越好，1 个也行",
+    "summary": "Ed 反驳'每个 ad group 放 20+ 关键词'的常见建议（甚至 Google 自己建议）。逻辑：关键词越少越能写精准的广告文案 + 落地页；即使只有 1 个关键词也完全 OK。规则：硬上限 10 个，超了就主题不再紧密。Amazon SP 同理：高表现的 exact 关键词应单独 ad group（甚至单独 campaign）跑，不要跟 broad / 长尾混在一起，否则没法精准控制 bid 和预算。",
+    "quote": "keep your ad groups as thin on keywords as you possibly can if that means you've got one keyword in one AD group that's absolutely fine in doing so you can tailor the advert copy and the landing page perfectly to your keyword so don't be afraid to go too granular it's more effective"
+  },
+  {
+    "id": "ed-leake-9b01WMdJ9SE-1",
+    "channel": "ed-leake",
+    "video_id": "9b01WMdJ9SE",
+    "topics": [
+      "campaign-structure",
+      "negative-keywords",
+      "optimization"
+    ],
+    "ts": 15,
+    "title": "Exact 关键词单独 ad group，跟 broad/phrase 分开",
+    "summary": "Ed 的关键词组织法：Exact 单独建 ad group + 单独广告文案；Broad Modified 和 Phrase 可以合并到另一些 ad groups。原因：Exact 是高表现高转化词（最终会占 80% 预算），混在 broad 里会被低性能词稀释相关性、拉低 QS。Amazon SP 直接照搬：高 ROAS 的 exact 词单独成 campaign（自己定 bid 和 budget），broad/auto 跑挖词，定期把跑出的好词晋升到 exact campaign。",
+    "quote": "I would keep exact on their own we've brought modified and phrase match together in other ad groups the I bit idea being that exact are highly told to their own ad and not mixed in with the other the other adword the other keywords"
+  },
+  {
+    "id": "konstantinos-doulgeridis-933qAz1UjtQ-1",
+    "channel": "konstantinos-doulgeridis",
+    "video_id": "933qAz1UjtQ",
+    "topics": [
+      "attribution",
+      "reporting"
+    ],
+    "ts": 825,
+    "title": "归因窗口选 7 天点击,别用 1 天",
+    "summary": "iOS 14.5 后 Facebook 大量数据丢失,归因窗口选择直接影响能看到多少转化。Konstantinos 强调 1 天点击归因会严重低估广告效果,7 天点击才能反映真实转化路径,因为很多用户不会立刻下单。这个原则对 Amazon 同样关键: SD/SB 默认 14 天归因,看长归因窗口能避免误杀真实在出单的活动,做决策时不要只看 1 天。",
+    "quote": "if you're using 1-day attribution, you are wrong. So stop doing it. It's very good news that we are starting to see now, the aggregated events being used for the 7-days attribution."
+  },
+  {
+    "id": "konstantinos-doulgeridis-933qAz1UjtQ-2",
+    "channel": "konstantinos-doulgeridis",
+    "video_id": "933qAz1UjtQ",
+    "topics": [
+      "bidding",
+      "budget",
+      "scaling"
+    ],
+    "ts": 1990,
+    "title": "数据丢失期反而是抬高出价机会窗",
+    "summary": "Konstantinos 反向看 iOS 14.5 后的混乱期: 大量中小广告主因为投不动会离场,广告竞价压力下降,留下来的人反而能享受更低 CPM。原理是行业洗牌时存活者有红利。Amazon 同理: 旺季前后大量同行因 ACoS 暴涨暂停广告时,反而是抬出价抢位的好时机,Sponsored Display 拍卖竞争降低,Bid 策略可以更激进。",
+    "quote": "Whoever can't afford it anymore and whoever can't make the ads work anymore, will leave the platform and in my opinion this will be the reason for the rising cost of advertising on the Facebook platform to at last start dropping"
+  },
+  {
+    "id": "konstantinos-doulgeridis-MGXeVY0uTRY-1",
+    "channel": "konstantinos-doulgeridis",
+    "video_id": "MGXeVY0uTRY",
+    "topics": [
+      "brand",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 1403,
+    "title": "店铺评分低于 3 分流量质量必崩",
+    "summary": "Facebook 内部对每个主页有 1-5 分的 Feedback Score,低于 3 分账户流量质量明显变差,低于 1 分直接封号。原因是平台用客户满意度反向决定广告分发权重。Amazon 完全对应: listing 的 review 评分、退货率、A-to-Z 索赔率会进入 Account Health,差评 listing 投 SD/SB 会被压曝光、抬高 CPC。Grace 投放前应先看 listing 健康度,差的 ASIN 不要硬推。",
+    "quote": "from 1 to 3, the ad account is going to have very bad quality of traffic and the results are going to be extremely bad. And then above 3 to 5, you are having very good score."
+  },
+  {
+    "id": "konstantinos-doulgeridis-aiNnRajmpIQ-1",
+    "channel": "konstantinos-doulgeridis",
+    "video_id": "aiNnRajmpIQ",
+    "topics": [
+      "creative-testing",
+      "reporting",
+      "optimization"
+    ],
+    "ts": 386,
+    "title": "Dynamic Creative 拆分必看素材级数据",
+    "summary": "Konstantinos 演示在 Dynamic Creative 广告里点 Breakdown by Dynamic Creative,可以看到哪条视频/哪条文案带来大部分销售。原理是 DCA 把多素材打包跑,不拆数据等于黑盒,无法迭代。Amazon SB 视频广告和 SD 多创意位等价场景: 必须按 creative ID 拆 ACoS 和 CTR,把没出单的素材关掉,把胜出的素材复制到新 campaign 加预算,而不是让算法替你决定。",
+    "quote": "we can come to breakdown and we can do by Dynamic Creative, we can see about images and we can see that now we have this segmentation and we know that this video for example has the majority of the sales."
+  },
+  {
+    "id": "konstantinos-doulgeridis-aiNnRajmpIQ-2",
+    "channel": "konstantinos-doulgeridis",
+    "video_id": "aiNnRajmpIQ",
+    "topics": [
+      "analytics",
+      "attribution",
+      "optimization",
+      "reporting"
+    ],
+    "ts": 1444,
+    "title": "别盲信平台自动化,要用外部数据验证",
+    "summary": "Konstantinos 怀疑 Facebook Automatic Placements 把钱故意花在低产出版位,只是为了让平台多收钱。他建议用 UTM + Google Analytics 做外部交叉验证,不要只信广告后台。Amazon 同样陷阱: Sponsored Display auto-targeting 和 SB 自动版位会把预算撒到低 ROAS 的位置。Grace 应该用 Brand Analytics、Search Query Performance、ASIN 级 Business Report 做第二信源,验证广告后台的 ACoS 是不是真实情况。",
+    "quote": "what if this is a conspiracy, okay, what if Facebook wants you to spend in all of the placements, even if they know that it's going to optimize at the end of the day for Facebook Feed and Instagram Feed and Instagram Stories."
+  },
+  {
+    "id": "ppc-mastery-8uZNkvdUuC8-1",
+    "channel": "ppc-mastery",
+    "video_id": "8uZNkvdUuC8",
+    "topics": [
+      "budget",
+      "scaling"
+    ],
+    "ts": 269,
+    "title": "Demand Gen 测试预算门槛 15K-50K 别硬上",
+    "summary": "Google 官方推荐 Demand Gen 测试预算 15K-50K USD / 4-6 周;按 Target CPA 算要日预算 = 15× tCPA(tCPA 100 欧 → 日预算 1500 欧)。Bob 直接说:中小广告主不要碰 Demand Gen,先把 Search/Shopping/PMax 跑满,再上 Display/Video Action,最后才考虑 Demand Gen。原理:upper-funnel 算法需要海量数据找 ICP,预算不够直接烧光不出量。对 Amazon SD/SB:同理 upper-funnel 品牌曝光产品(SB Video、SD reach)在低预算下别开,先把 SP keyword 跑赢再向上扩。",
+    "quote": "Google actually recommends at least 15K budget for four to six weeks, 15K minimum, and they even say minimum budget, up to 50K. So that's a big range that starts at 15K for just four to six weeks."
+  },
+  {
+    "id": "ppc-mastery-8uZNkvdUuC8-2",
+    "channel": "ppc-mastery",
+    "video_id": "8uZNkvdUuC8",
+    "topics": [
+      "attribution",
+      "analytics"
+    ],
+    "ts": 962,
+    "title": "上漏斗永远要用第三方归因校准",
+    "summary": "Demand Gen / YouTube / Display 这类上漏斗 campaign 在 Google ads 里会被 DDA 严重过度归因,看起来很赚钱实际可能在'蹭'下漏斗的转化。Miles 的实操:跑这类 campaign 必须配第三方归因工具(Northbeam、Rockerbox 等),否则 Meta 也声称功劳、Google 也声称功劳,加起来比真实订单多 2-3 倍。对 Amazon:站外引流到 Listing 的 SD reach campaign 看 ACOS 也会偏乐观,要用 Brand Analytics 的 New-to-Brand 比例和总销量上扬来判断真实增量。",
+    "quote": "If you add up all of the conversions then you end up by two three times as many conversions that you actually have inside of your back end. So you definitely need an independent tool to look over the attribution of all of your campaigns."
+  },
+  {
+    "id": "ppc-mastery-pyoolIyKPqw-1",
+    "channel": "ppc-mastery",
+    "video_id": "pyoolIyKPqw",
+    "topics": [
+      "bidding",
+      "optimization"
+    ],
+    "ts": 281,
+    "title": "新 campaign 前 2 周 / 50 转化前不动手",
+    "summary": "Demand Gen launch 后前 2 周 + 累计 50 转化以内不要做任何调整,这是算法 learning period,Google 需要这点量才能找到你的客户在它生态里在哪。中途改 audience / 改创意 / 改预算会重置学习。这个原则对 Amazon SD/SP 完全通用:新建 campaign 前 7-14 天即使数据难看也别频繁动 bid 和 keyword,等系统跑出 baseline 再优化,否则永远在重启。",
+    "quote": "You want to make sure that you do not make any changes in the first couple of two weeks which is a learning period for the demand gen campaign because Google is saying that it needs at least 50 conversions to properly understand where your audience is hanging out."
+  },
+  {
+    "id": "ppc-mastery-pyoolIyKPqw-2",
+    "channel": "ppc-mastery",
+    "video_id": "pyoolIyKPqw",
+    "topics": [
+      "copy",
+      "creative-testing"
+    ],
+    "ts": 1240,
+    "title": "上漏斗别照搬下漏斗的 hard-CTA 文案",
+    "summary": "上漏斗(Demand Gen / YouTube / Display)用户根本不认识你的品牌,直接搬 PMax / Search 的'Book a demo''Buy now'CTA 转化率会很差。要根据'channel temperature'换软一点的 hook——介绍品牌、抛出问题、给 lead magnet。这个原理转 Amazon:SD reach / SB Video 给冷流量看的图文必须强调'是什么、解决什么问题',不要直接堆'Best Seller、Buy Now'——那是 SP 列表页的语言。",
+    "quote": "Do not copy your performance Max headlines and description lines for example that are focused towards book a consultation now or book a demo now. Those are way too hot and way too warm call to actions for upper funnel and mid funnel campaign types."
+  },
+  {
+    "id": "ppc-mastery-eksjGdwIE3E-2",
+    "channel": "ppc-mastery",
+    "video_id": "eksjGdwIE3E",
+    "topics": [
+      "P-Max",
+      "negative-keywords",
+      "attribution"
+    ],
+    "ts": 502,
+    "title": "PMax 用 brand exclusion 排除自己品牌词",
+    "summary": "PMax 历来'抢'品牌词流量、把 Search 里本来就要转化的品牌搜索算成 PMax 功劳,数据严重虚高。新功能 campaign-level brand exclusions 让你直接在 PMax 排除自己品牌+预定义品牌列表(没有的可申请创建),从 search 和 shopping 位都剔掉。以前要走 negative keyword list workaround(找客服开通),现在原生支持。Amazon 同理:做 SP 投放时品牌词 campaign 单独建,Auto 和 broad 里要用 negative keyword 把自己品牌词加进去,避免互相抢量。",
+    "quote": "Campaign level brand exclusions, with this feature you can exclude branded search terms from pmax campaigns and this excludes them from search and shopping placements. PMax loves to take credit for any conversions including branded conversions which heavily inflates the data."
+  },
+  {
+    "id": "ppc-mastery-1ixn6ddLYkM-1",
+    "channel": "ppc-mastery",
+    "video_id": "1ixn6ddLYkM",
+    "topics": [
+      "landing-page",
+      "copy"
+    ],
+    "ts": 1399,
+    "title": "Landing page 7 要素信息层级清单",
+    "summary": "高转化 landing page 必须按 information hierarchy 排好 7 个要素:dream outcome(梦想结果)、big problems(痛点)、value(价值)、uniqueness(差异化)、objections(异议处理)、CTA(为什么现在行动)、credibility(信任凭证)。每个 element 都对应一个用户问题。原理:信息不能少(用户没决策依据)也不能多(信息过载,用户跑掉)。Amazon Listing 的 A+ Content 和主图 5 张直接对应这 7 个要素——这套框架可以直接套到 listing 优化。",
+    "quote": "These are the most important information hierarchy elements that you should address on your landing page: dream outcome, big problems and solution, value, uniqueness, objections, call to action, credibility. So those are the seven core components."
+  },
+  {
+    "id": "ppc-mastery-1ixn6ddLYkM-2",
+    "channel": "ppc-mastery",
+    "video_id": "1ixn6ddLYkM",
+    "topics": [
+      "landing-page",
+      "copy"
+    ],
+    "ts": 1226,
+    "title": "Above-the-fold 决定是否跳出",
+    "summary": "Bob 用 Tilmet(travel nursing 招聘)做反面教材:above-the-fold 只放了 headline + sub-headline + 表单,但用户根本不知道'travel nursing job 是什么''你比对手强在哪''有什么社会证明',直接跳。原理:屏幕首屏决定 5 秒内的去留——必须同时回答'你是什么 + 我为什么要选你 + 凭证'。Amazon Listing 主图位 + 标题 + 5 个要点 = 同样的 above-the-fold,首屏没解释清楚价值,用户不会下滑看 A+。",
+    "quote": "Just by looking at the above the fold part of this landing page you're like, I have no idea what's going on here and you're asking me to convert too soon. You're asking me to leave my contact details behind without knowing what your unique value proposition is."
+  },
+  {
+    "id": "ppc-mastery-1ixn6ddLYkM-3",
+    "channel": "ppc-mastery",
+    "video_id": "1ixn6ddLYkM",
+    "topics": [
+      "landing-page",
+      "audience"
+    ],
+    "ts": 991,
+    "title": "冷流量 LP 多铺内容、热流量 LP 砍到 CTA",
+    "summary": "判断 landing page 信息密度的核心是 traffic temperature:冷流量(YouTube / Display 来的人不知道你是谁)需要更多教育型内容,从问题陈述到方案介绍到信任背书一路铺;热流量(Search 高商业意图词)直接给 CTA + 几条核心卖点就够。原理:awareness level 越低,需要的'决策铺垫'越多。Amazon 同理:站内自然搜索流量(热)直接看图听 bullet 就买,站外引流来的(冷)需要 Listing 视频和 A+ 故事铺充分。",
+    "quote": "The colder the traffic, the more content you often need to include, and the warmer the traffic, the more of a transactional or commercial intent the user has, the less content you need to basically let the potential customer complete your call to action."
+  },
+  {
+    "id": "ppc-mastery-oRpWLA_dOuo-1",
+    "channel": "ppc-mastery",
+    "video_id": "oRpWLA_dOuo",
+    "topics": [
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 744,
+    "title": "把账户工作分 3 桶、70/30 时间分配",
+    "summary": "Bob 把账户优化分 3 类:(1)regular monitoring(每周/每月固定的 SQR 排负、ad asset 测试、结构调整);(2)one-off high-impact improvements(比如上 enhanced conversion、加 first-party 数据);(3)experiments(测新落地页、新 offer、新 bid 策略)。时间默认 70% 给 regular、30% 给一次性+实验;成熟账户(SQR 已经很干净)反过来 30/70。Amazon 同理:不要把所有时间花在每天扫 SP 加负关键词,要留时间测新 ASIN/新 keyword 集/新 SD audience。",
+    "quote": "Generally I think gut feeling wise, I spent 70 percent of my time towards regular optimizations and 30 percent maybe up to 40 percent towards one-off improvements and experiments. That's how I try to allocate my time per client but it differs per client."
+  },
+  {
+    "id": "ppc-mastery-oRpWLA_dOuo-2",
+    "channel": "ppc-mastery",
+    "video_id": "oRpWLA_dOuo",
+    "topics": [
+      "optimization",
+      "creative-testing"
+    ],
+    "ts": 611,
+    "title": "实验用 ICE 评分挑顺序",
+    "summary": "实验积压一堆没法都做,Bob 用 ICE 模型排序:Impact(影响)、Confidence(信心)、Ease(易实施),每项 1-10 分相加,先做总分最高的——'有把握 + 高影响 + 容易做'。原理:别被高大上但难做的拖慢节奏,先用容易的小赢累积速度。Amazon 同理:测新 keyword 段、改主图、加 SBV 视频、试新 SD audience——每件事先用 ICE 排,先动'当周就能看出效果'的。",
+    "quote": "I like to use the ICE scoring model. The I stands for impact, the C stands for confidence so how sure am I that this will actually perform well, and the E stands for ease so how easy is it to set up. I just start with the experiment that has the highest score."
+  },
+  {
+    "id": "ppc-mastery-oRpWLA_dOuo-4",
+    "channel": "ppc-mastery",
+    "video_id": "oRpWLA_dOuo",
+    "topics": [
+      "landing-page",
+      "optimization"
+    ],
+    "ts": 989,
+    "title": "登录页 CRO 是优化师下一个杠杆",
+    "summary": "Bob 强调:Google ads in-app 优化已经被自动化吃了大半,把转化率从 2% 提到 2.5% 的杠杆远比改 bid 大——CR +25% 等于 bid 力 +25%、可入更多 auction、跑量也跟着上。所以高级优化师正越来越多把时间花在 landing page 优化,owns 整条 click-to-conversion 链路。Amazon 同理:SP/SD 的 CPC 在涨,'把 Listing CR 从 8% 提到 12%'的杠杆远超只动 bid——主图、A+、视频、价格、Coupon 才是真正可大提升 ROAS 的地方。",
+    "quote": "If you were to improve your conversion rates by 25%, that's a lot. That's so much more bidding power and it opens up so much more volumes inside of your Google ads campaigns where it also opens up doors for experimenting with mid and upper funnel campaign types."
+  },
+  {
+    "id": "ppc-mastery-0WKA3ELyqo4-1",
+    "channel": "ppc-mastery",
+    "video_id": "0WKA3ELyqo4",
+    "topics": [
+      "bidding",
+      "scaling",
+      "attribution"
+    ],
+    "ts": 365,
+    "title": "Smart bidding 只买 Google 已知会买的 10%",
+    "summary": "John Moran 的核心洞察:smart bidding 不是给你扩量,它是把'Google 已经知道会转化'的那 10% 客流锁给你,你出价高就多分点;tROAS / tCPA 越紧、Google 越死锁在这个池子。所以你 spend +50% 但 click 只 +20%、CPC 还涨——根本买不到那剩下的 90%。Jenny Marvin(Google 官方)在 LinkedIn 也确认了'smart bidding does not optimize for incremental impression delivery'。这点对 Amazon SP 'Dynamic bids - up & down' 同理:它优化已知转化,不会主动扩量,真要拿增量得换 fixed bid + 自己控关键词。",
+    "quote": "Smart bidding does not optimize for incremental impression delivery. Google has a finite number of people that it knows are going to convert and whomever spend the most wins them. As you scale that campaign you cap out, that's where you see increase my ad spend and I don't get incremental impression"
+  },
+  {
+    "id": "ppc-mastery-0WKA3ELyqo4-3",
+    "channel": "ppc-mastery",
+    "video_id": "0WKA3ELyqo4",
+    "topics": [
+      "attribution",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 200,
+    "title": "永远不信平台给的 conversion 数据",
+    "summary": "John Moran 直接说:Google ads 后台除了'spend'之外的数据都被设计来让你花更多钱,尤其是 conversion tracking。他建议:'练成不看平台 conversion 也能跑好 Google ads 的能力'——以业务真实订单(后台/CRM/独立归因工具)为准,不要拿 Google ads 后台的 conversion 数当真。Amazon 一样:Brand Analytics 和 Business Reports 才是真账,Sponsored Ads 后台报的'attributed sales'有 14 天点击窗,会偷下漏斗自然单的功劳——做品牌 ROI 决策必须看总销量+ NTB%,不只 ACOS。",
+    "quote": "Most of that information inside of it besides your spend is designed to make you spend more money. Never measure the success of your business from looking at anything to do with the conversion tracking inside of Google ads holistically."
+  },
+  {
+    "id": "ppc-mastery-7f7yB_kX24Q-1",
+    "channel": "ppc-mastery",
+    "video_id": "7f7yB_kX24Q",
+    "topics": [
+      "copy",
+      "landing-page"
+    ],
+    "ts": 1307,
+    "title": "卖结果不卖产品:目的地不是机票",
+    "summary": "Miles 套用 Hormozi 的 'Make offers so good people feel stupid saying no':offer 文案不要列 feature(机票、床垫、敞篷车),要卖 dream outcome(目的地、好觉、风吹脸)。原理:用户买的是改变后的状态,不是产品本身。把每个 pain point 列出来,告诉他们'不行动的代价是什么',再给方案。Amazon Listing 的 bullet 和 A+ 直接套这个模板:不要写'304 不锈钢、容量 2L',要写'省下早晨 10 分钟做早餐的时间、家人多睡半小时'。",
+    "quote": "You do not want to sell a plane ticket but you sell the destination. You do not want to sell the mattress but you want to sell a good night's of sleep. You do not want to sell a convertible but you want to sell the feeling of wind in your hair."
+  },
+  {
+    "id": "ppc-mastery-7f7yB_kX24Q-2",
+    "channel": "ppc-mastery",
+    "video_id": "7f7yB_kX24Q",
+    "topics": [
+      "copy",
+      "niche"
+    ],
+    "ts": 855,
+    "title": "受众越精准、文案越能打",
+    "summary": "Miles 的反例:'瑜伽教练'这个 positioning 太宽,谁都说不上对。改成'专为孕期妈妈的产前瑜伽专家'——立刻有受众感,文案、关键词、视觉全都能围绕这一群人写。'内容写手'→ '为科技初创公司写技术文章的内容专家'。原理:specific positioning 提高 message-market fit,转化率比泛投高一个量级。Amazon 同理:不要做'多功能水杯',做'户外露营防漏 1L 钛杯'——SP keyword 选词、主图、A+ 都能更聚焦,比 generic listing 的 CR 高 50%+。",
+    "quote": "Prenatal yoga specialist for expecting mothers, content creator specializing in tech articles for startups, Google ads specialist for gyms with 10 plus locations. By being really specific in targeting your dream client segment you can also increase the relevancy of your copy."
+  },
+  {
+    "id": "ppc-mastery-7f7yB_kX24Q-3",
+    "channel": "ppc-mastery",
+    "video_id": "7f7yB_kX24Q",
+    "topics": [
+      "audience",
+      "copy",
+      "campaign-structure"
+    ],
+    "ts": 1176,
+    "title": "5 阶段 awareness 决定推 offer 还是 lead magnet",
+    "summary": "Eugene Schwartz 的 5 阶段 awareness:unaware → problem-aware → solution-aware → product-aware → most-aware。前 3 阶段(冷流量)直接推'立即购买'是浪费,该用 lead magnet(电子书、清单、白皮书)先教育;后 2 阶段(热流量,搜索意图明确)才推 marketing offer 和 hard CTA。原理:offer 温度必须匹配 channel 温度。Amazon 站外引流到 Listing 一样:Display/YouTube 冷流量来,Listing 上半部要先解决'这是什么、能解决我什么问题',下半部 A+ 才放硬卖点。",
+    "quote": "You do not want to be communicating your marketing offer in the first three phases which are the unaware phase, problem aware phase and solution aware phase. Over here it's way better to work with a lead magnet to introduce your solution to a problem."
+  },
+  {
+    "id": "ppc-mastery-L20hnWas5fo-1",
+    "channel": "ppc-mastery",
+    "video_id": "L20hnWas5fo",
+    "topics": [
+      "attribution",
+      "analytics",
+      "reporting"
+    ],
+    "ts": 400,
+    "title": "看 MER 不要看单平台 ROAS",
+    "summary": "多平台投放时(Google + Meta + TikTok + Reddit)每个平台都会说自己 ROAS 好,把数据加起来才发现总收入不及预期——平台普遍 over-attribute 自家功劳。Miles 用 Northbeam 等三方工具看 Media Efficiency Ratio(总广告支出 / 总收入),并坚持每天登录 Shopify 看真实昨日收入对照广告花费。Amazon 同理:跑 SD/SP + 站外引流 + DSP 时,只看 ACOS 会被骗,要看 TACOS / 总销售额对总广告支出的比例,否则会以为在赚钱实际在亏。",
+    "quote": "Google's gonna say we got a good roas, Facebook is going to say we've got good roas, TikTok is even going to say we've got good roas, and then if you combine all that data then sooner or later you're gonna find out that you thought you had more revenue against the cost you're getting."
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-2",
+    "channel": "the-google-pro",
+    "video_id": "8IDPVbMOTzQ",
+    "topics": [
+      "negative-keywords",
+      "campaign-structure",
+      "optimization"
+    ],
+    "ts": 547,
+    "title": "Broad match 必须独立 campaign + 每天看 search term",
+    "summary": "Liam 反对在主 campaign 用 broad match,但建议起一个独立 campaign 给小预算专门跑 broad match,绑定 negative keyword list,每天看 search terms 报告捞出真正转化好的词,反向加回 phrase/exact match 主 campaign。这是低风险的关键词探索手法。Amazon SP 自动投放完全是同样思路:用自动投放挖掘新词,挖到的转化词加进手动投放,自动投放保留作为持续探索。",
+    "quote": "Start out its own campaign with its own dedicated budget and set it to just broad match keywords and kind of import the negative keyword list. Just sit on that account every single day go through those search terms and actually find those keywords that are really performing."
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-3",
+    "channel": "the-google-pro",
+    "video_id": "8IDPVbMOTzQ",
+    "topics": [
+      "bidding",
+      "scaling",
+      "optimization"
+    ],
+    "ts": 2155,
+    "title": "出价策略先 max conversions 累积 30 单再切 tROAS",
+    "summary": "Liam 与 Jyll 一致经验:电商出价不能一上来就用 target ROAS/target CPA,机器学习没数据会被限制器卡死,直接零流量。先用 maximize conversions 跑到 30 天内 30-50 单再切目标类策略。Amazon SP 同理:新建 campaign 先用动态出价 down only 或固定出价喂数据,转化数据沉淀够后再切 ACoS 目标或 RoAS 目标。",
+    "quote": "Start off with like a max conversions for ecommerce and then after you keep getting about 30 to 50 conversions a month over a 30-day period that's when you kind of start to turn on those target ROAS or a target CPA."
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-4",
+    "channel": "the-google-pro",
+    "video_id": "8IDPVbMOTzQ",
+    "topics": [
+      "copy",
+      "optimization",
+      "campaign-structure"
+    ],
+    "ts": 2005,
+    "title": "竞品对标必须看 SERP 不是后台",
+    "summary": "Liam 直言:大多数广告投手把时间花在后台改设置,但真正的 ad copy 优化要去 google 实际搜你出价的关键词,看竞品 headline/description/site link extension,然后逐项 one-up。空泛卖点(\"5 stars since 1973\")没人 care,要打用户真实痛点(蜘蛛在房间想立刻除掉)。Amazon listing 同理:打开 SERP 看竞品标题/主图/A+,逐句对标用户搜该词时真实的 intent。",
+    "quote": "Go out onto the search engine and Google what keywords you're actually presenting on. You want to be looking at your competitors their ad copy and seeing how they're addressing the market. People spend way too much time in the back end of Google playing with all the buttons."
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-8",
+    "channel": "the-google-pro",
+    "video_id": "8IDPVbMOTzQ",
+    "topics": [
+      "scaling",
+      "optimization",
+      "reporting"
+    ],
+    "ts": 2280,
+    "title": "投放是即时出量但盈利要 3 个月预期管理",
+    "summary": "Jyll 与 Liam 共识:Google ads 开就来量,但 \"流量即时\" ≠ \"转化和利润即时\"。新账号需要 3 个月学习期把流量调到目标 CPA/ROAS,前期波动大客户不能慌。Liam 自家 agency 强制 90 天最低合作期 + 100% 退款保证。Amazon 同理:新品/新 campaign 不能拿前 14 天数据下结论,至少看 30-90 天的 trend 再判断要砍要加预算。",
+    "quote": "The traffic is instant that doesn't mean that the conversions and the profitability are instant and that can take time. Within my own agency we actually have a three-month minimum of people coming on board because people do get scared within those first few months and they see that traffic kind of g"
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-1",
+    "channel": "the-google-pro",
+    "video_id": "UYavShpRnRY",
+    "topics": [
+      "reporting",
+      "bidding",
+      "optimization"
+    ],
+    "ts": 1330,
+    "title": "Search impression share 失分先看是 budget 还是 rank",
+    "summary": "Jyll 推荐 search impression share 维持至少 10%,失分时不能盲调,要在 keyword 层级加两列:\"lost IS due to budget\" 和 \"lost IS due to rank\"。budget 失分→加预算或砍地理/关键词缩小定向;rank 失分→quality score 太低或出价太低,先看 quality score 再决定改 ad copy / 落地页 / 提价。Amazon 类比:广告位失分先看是不是 budget cap 限制还是出价不够,不要乱加预算。",
+    "quote": "I recommend your campaign has at least 10 impression share if you're not sure why you're losing impression share you want to add two columns you want to add how much you're losing due to budget and how much you're losing due to rank if you're losing more due to budget add more budget."
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-2",
+    "channel": "the-google-pro",
+    "video_id": "UYavShpRnRY",
+    "topics": [
+      "copy",
+      "optimization",
+      "analytics"
+    ],
+    "ts": 977,
+    "title": "高曝光低点击的页面先改 metadata 再说",
+    "summary": "Kirsten SEO 实操:Google Search Console 里筛 \"impressions 高 + clicks 低\" 的页面是最容易拿到的 quick win——曝光说明已经在排名,点击低意味着 metadata(title/description)对用户没吸引力。改 metadata 不是长期解,但能立刻把现有排名变现。Amazon 完全适用:listing 已被搜索结果展示但 CTR 低,先改主图和标题(SERP 视觉元素),再去优化更深层的 A+ 内容。",
+    "quote": "If you go on search console you're able to see what pages people are seeing they have high impressions but they have low clicks. Those are easy wins that is the you fix the metadata for that page. It's not a long-term solution but it will let you start getting more people on your site."
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-3",
+    "channel": "the-google-pro",
+    "video_id": "UYavShpRnRY",
+    "topics": [
+      "bidding",
+      "budget",
+      "landing-page"
+    ],
+    "ts": 1949,
+    "title": "Conversion rate × AOV < 2 美元就别投 paid 广告",
+    "summary": "Jyll 给电商小卖家硬规则:转化率 × 平均订单金额低于 2 美元的店铺不要烧广告,因为这两数据决定了你能承受的 max CPC——CPC 大概率会高于这数字。先做 SEO/organic 把转化率拉上去再投广告。Amazon 类比:listing 自然 CR 低于 5-8%(品类基准)、平均客单不到 20 美金时,SP 广告烧出来 ACoS 必然爆掉,先优化 listing 转化再投放。",
+    "quote": "Unless your conversion rate times your average order value is at least two dollars don't run ads focus on SEO instead."
+  },
+  {
+    "id": "the-google-pro-6uZdIVYLORA-1",
+    "channel": "the-google-pro",
+    "video_id": "6uZdIVYLORA",
+    "topics": [
+      "creative-testing",
+      "copy",
+      "brand"
+    ],
+    "ts": 2,
+    "title": "YouTube 视频广告 ABCD 框架直接迁移到 Amazon Video Ads",
+    "summary": "Google 自家创意框架 ABCD(Attract/Brand/Connect/Direct):前 5 秒紧凑画面+人脸吸引;前 5 秒必须出现品牌(视觉+音频);用故事/情绪让用户共鸣;最后给明确 CTA 与紧迫感。Amazon Sponsored Brand Video / DSP 视频创意完全可以套这套——前 3 秒钩子+品牌露出+核心卖点+\"Add to Cart\" CTA,可直接提升广告转化。",
+    "quote": "YouTube's own framework for creating great ads is called ABCD attract brand connect direct. Attract is about hooking your audience in from the start tight framing fast-paced human faces. Brand is about putting your brand front and center introduce it in the first five seconds."
+  },
+  {
+    "id": "the-google-pro-o0FFRD8s9E0-1",
+    "channel": "the-google-pro",
+    "video_id": "o0FFRD8s9E0",
+    "topics": [
+      "optimization",
+      "landing-page",
+      "analytics"
+    ],
+    "ts": 770,
+    "title": "Traffic 不是问题,conversion 才是——先修转化率再加预算",
+    "summary": "电商主理人讲述自己 Shopify 店从 0.07% 转化率(near-zero)爬到 1.5% 的实战:她的诊断是流量从来不缺,缺的是转化承接。所以她先不加投放预算,而是上 live chat、reviews、scarcity 等 trust-building apps 把转化率拉起来。对应 Amazon:不要看到 SP 出单不理想就加 bid 加预算,先去检查 PDP 的 main image / A+ / reviews 是否在拉低转化,把 listing 修好再 scale 投放。",
+    "quote": "Traffic was never a problem for me it was always conversion. My conversion rate i think was like point zero seven or so i mean it was just awful and now i'm i think 1.5 which for not even a year in business is really impressive."
+  },
+  {
+    "id": "the-google-pro-o0FFRD8s9E0-2",
+    "channel": "the-google-pro",
+    "video_id": "o0FFRD8s9E0",
+    "topics": [
+      "optimization",
+      "landing-page",
+      "brand"
+    ],
+    "ts": 818,
+    "title": "Day-1 就装 reviews/live-chat/scarcity——别等六个月",
+    "summary": "她的复盘是不应该等到第六个月才上 trust-building 工具,从 day-1 就该铺好 reviews app(社会证明)、low-stock 提醒(scarcity)、live chat(异议处理)。这些 trust signal 各自只动几个百分点,但叠加起来对 conversion 是质变。Amazon 对应:新品期就要规划好 vine 评论、Q&A 内容、A+ 模块、品牌故事,别上完链接才补,前两周流量+评论权重 window 错过了再补成本翻倍。",
+    "quote": "Have reviews from day one have live chat from day one right start building that connection interest and your conversions. If you're thinking about opening a store put them in from day one like don't wait six months."
+  }
+]

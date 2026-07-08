@@ -1,0 +1,24 @@
+[1] [Music]
+[5] so Sarah asks should I have one or two
+[9] three four or five adverts in my ad
+[12] groups Sarah the simplest way to go
+[14] about this is that you have two adverts
+[17] per ad group uh if you have one you
+[19] can't split test if you have more than
+[21] two you take longer to test your ad so
+[23] if you have an A and A B version
+[25] essentially you quickly identify which
+[27] one is the loser and the winner
+[30] um there's a really simple equation I
+[32] use for testing ads as well to identify
+[35] the winner and that is you take the
+[37] clickthrough rate and you multiply it by
+[39] the conversion rate and that gives you a
+[41] number and simply the highest number
+[44] wins so if you've got two ads you do
+[45] clickr rate times conversion rate that
+[47] number highest one wins really simple
+[50] really elegant and it focuses on
+[52] click-through rate which Google's
+[53] concerned about and conversion rate
+[55] which of course you're concerned about

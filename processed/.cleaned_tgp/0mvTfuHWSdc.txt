@@ -1,0 +1,64 @@
+[0s] have you ever heard someone talk about
+[1s] utm parameters and you want to know what
+[3s] that is
+[4s] i'll tell you right now this is going to
+[6s] be longer than a minute so save it for
+[7s] later if you're not in the mood for this
+[9s] content right now
+[10s] okay a utm parameter is an extra little
+[13s] bit of information that you put into a
+[15s] url on your website or in social media
+[18s] so that when you go to look at your
+[19s] google analytics later you know exactly
+[22s] where people came from
+[23s] your utm parameter can have three parts
+[26s] source
+[27s] medium and campaign
+[29s] source is where the traffic came from
+[31s] like tik tok instagram google
+[34s] medium is what kind of traffic it is
+[37s] organic paid email referral and then
+[40s] campaign is something you can
+[41s] specifically set so you can
+[43s] differentiate different campaigns you're
+[45s] running different places you're putting
+[47s] your link etc
+[49s] here's an example from my actual google
+[51s] analytics google analytics doesn't
+[53s] always recognize when people come from
+[55s] my tick tock link in bio often that was
+[58s] showing up as direct traffic so i put
+[60s] custom parameters into my link and bio
+[63s] so that tic tac toe shows up as tick
+[65s] tock social whereas instagram shows up
+[68s] as instagram social you can see i also
+[70s] have active campaign email i also set
+[73s] that with custom parameters these are
+[76s] especially helpful if you're running ads
+[78s] with a platform outside of google google
+[80s] ads and google analytics will talk to
+[82s] each other so you don't really need to
+[83s] have utm parameters there but if you're
+[85s] running facebook ads and you don't put
+[88s] in custom utm parameters then all the
+[91s] people who come to your website from ads
+[93s] will look the exact same in google
+[95s] analytics as people who came organically
+[97s] we don't want that so in facebook ads
+[99s] you would want to put a custom medium of
+[102s] cpc cost per click to distinguish your
+[105s] facebook source traffic from your
+[107s] regular facebook referral traffic
+[110s] if you want to build your own utm
+[111s] parameters it's really easy i just
+[114s] google utm parameters builder because i
+[116s] can never remember the link
+[118s] and if you google that the first result
+[120s] will be from google analytics it shows
+[122s] you exactly how to build your own custom
+[124s] urls to use them wherever you're driving
+[127s] people to your website
+[129s] i'm jill i worked at google for six
+[130s] years and now i'm a digital marketing
+[132s] consultant coach and teacher feel free
+[134s] to ask me anything in the comments

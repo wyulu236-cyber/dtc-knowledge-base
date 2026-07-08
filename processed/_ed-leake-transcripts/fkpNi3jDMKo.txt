@@ -1,0 +1,57 @@
+[0] hi guys Ed leak here so about a month
+[3] ago I did a video on how to export your
+[6] your AdWords data to find the best time
+[8] of day an hour of day to convert I had a
+[11] a message on Facebook from a chat called
+[13] Tony and he says thanks for the video Ed
+[15] but is there another way iing hate
+[18] spreadsheets well good news Tony there
+[21] is you can actually use your analytics
+[23] dashboard which I'm going to show you
+[24] how to do now so if you jump into your
+[27] analytics and you click on C
+[29] customization at the top and then what
+[32] we're doing here is we're creating new
+[33] custom reports so in the metric group
+[36] what we want to do is Select
+[37] sessions and then we want to add your
+[40] e-commerce conversion
+[42] rate and then in the dimensions drill
+[45] down we want to hit the hours and if we
+[49] just save that and again I'm I'm looking
+[51] at uh 3 months data here it's a good
+[54] good window of of information so here
+[56] we've got our hour of day sessions and
+[59] e-commerce converion rate so we want to
+[61] do data visualization again using the
+[64] comparison click that uh select 25 rows
+[68] of data because there's 24 hours in the
+[69] day and then go by hour cuz it's easy to
+[72] to visualize so we've got sessions
+[75] versus e-commerce conversion rate really
+[79] quick and simple and here you can see in
+[81] this example that from sort of 8: in the
+[83] morning up till 3: in the afternoon 4:
+[85] in the afternoon uh is the best time for
+[87] this store to convert and you can
+[89] clearly see that that 9: in the morning
+[91] is really strong 10 11: right through to
+[94] midday and there's a a bit of a a spike
+[98] again sort of closer to midnight and
+[100] this really quick simple way to to
+[103] visualize your your time of day you can
+[106] do exactly the same for day of week as
+[108] well so if you go back to edit to edit
+[110] this report and then if you just change
+[113] your hour to day of week name save that
+[117] again and we've got the same data here
+[119] so visualize it there we go sessions
+[123] versus conversion rate and as you can
+[125] see this store in fact really poorly
+[128] performs at the weekend for whatever
+[129] reason but there there it is you can't
+[131] lie with the data uh Tuesday is strong
+[134] Monday and Friday so there you go Tony
+[137] really quite
+[138] straightforward and no moreing
+[140] spreadsheets enjoy cheers

@@ -1,0 +1,606 @@
+[0] so Google actually recommends at least
+[3] 15K budget for four to six weeks 15
+[7] gaming 15 minimum and they even say the
+[9] minimum budget yeah they even say
+[10] minimum budget interesting up to 50K so
+[14] that's a big range that starts at 15K
+[16] for just four to six six weeks
+[18] [Music]
+[22] GM GM everybody GM welcome back to the
+[26] BBC Mastery podcast in this episode
+[28] we're going to be talking about the Talk
+[30] of the Town which is demand gen
+[33] it is so everybody's talking about
+[35] demand gen of course Google did a lot of
+[37] announcements recently and they
+[40] announced that demand gen is taking over
+[42] Discovery and you I know you've been
+[44] testing with the man gen a bit over the
+[46] last few months you had access to the
+[48] closed beta right so yeah I think in
+[50] this episode we're going to be talking
+[52] about what the demand gen is what the
+[54] impact is on Discovery campaigns on your
+[56] whole Google out the Google ads account
+[58] as a whole and then maybe in the next
+[60] next episode we'll talk more about best
+[63] practices what's worked for you yeah but
+[65] now let's just talk about what it is
+[67] actually and how it's going to change
+[68] the landscape so
+[71] yeah what is demand gen and why is
+[73] everybody talking about it yeah so so
+[75] first of all I think it is less popular
+[78] or less groundbreaking than when we had
+[81] the pmax announcements so I've seen some
+[83] posts popping up on my LinkedIn timeline
+[86] about Dimension yeah but I think it it
+[89] isn't really as hyped as much right as
+[92] BMX because obviously PMX was about
+[95] search and shopping as well and imagine
+[96] is mainly focused on Mid and upper
+[99] funnel zooming in on display no sorry on
+[102] YouTube and Discovery it is replacing
+[104] Discovery yeah that wasn't really clear
+[106] in the beginning as well so after the
+[110] first couple of weeks somebody came came
+[112] in and they actually mentioned I think
+[114] it was the Google ads
+[116] liaison yeah I think it was her Jenny
+[119] Jenny I think it was Jenny saying that
+[121] it was it was actually going to replace
+[123] Discovery and that's when that's when it
+[126] got serious so yeah I have been
+[128] experimenting with Discovery a bit but
+[130] it isn't really impactful in my opinion
+[133] especially in the mid and upper funnel
+[135] region I am using it or have been using
+[138] it for remarketing purposes because it
+[141] is relatively cheap traffic and if you
+[143] are able to Target your your audiences
+[146] through discovery on remarketing yeah
+[148] there's some nice additional conversion
+[150] volume over there as well but yeah now
+[152] we have Dimension coming up as a
+[155] replacement for Discovery and it is now
+[157] in open beta for basically all of the
+[161] advertisers that want to test with it I
+[163] had access to the close beta for one of
+[165] my biggest clients fortunately so I've
+[168] been doubling around a bit and yeah it
+[171] is kind of groundbreaking in a way that
+[176] we we now see where Google is heading
+[179] towards so we now have BMX that's a
+[182] combination of all of the placements and
+[184] networks combined everything just in one
+[187] campaign and now we have another
+[189] combined all-in-one campaign for just
+[191] upper funnel and mid funnel that
+[193] combines Discovery and YouTube
+[194] placements no display
+[197] for whatever reason I don't really know
+[199] why they haven't included this way maybe
+[201] if I'm just thinking about Google's
+[203] perspective maybe they want to focus
+[205] more on YouTube shorts inventory and
+[208] discover inventory which is sort of
+[210] unsold maybe yeah maybe the Lesser less
+[213] popular placements yeah that's been one
+[215] of my theories as well yeah but yeah
+[218] maybe throwing in display could ramp up
+[221] the spend even more but maybe they will
+[224] they will do it in the future or it's a
+[226] really it's a decision they've already
+[227] made yeah so with Dimension we can
+[230] Target specific placements like YouTube
+[233] Shorts YouTube in streams YouTube home
+[236] page feeds I think but also the
+[239] discovery placements like Gmail the
+[242] Chrome Android app the home screen where
+[244] you scroll through which basically the
+[246] Discover function yeah how it's already
+[248] being sold through Discovery so there
+[251] might be interesting placements if you
+[254] do have the budget if you have the wish
+[256] to really work on your exposure but if I
+[260] go through the best practices and
+[262] through the pitch decks of Google it is
+[265] really really built for the bigger
+[267] advertisers yeah so Google actually
+[269] recommends at least 15K budget for four
+[274] to six weeks 15 gaming 15 minimum and
+[276] they even say the minimum budget yeah
+[278] they even a minimum budget interesting
+[280] up to 50K so that's a big range that
+[283] starts at 15K for just four to six six
+[286] weeks so that actually means that it
+[288] isn't really a suitable campaign type
+[290] for the lower end of The Advertiser so
+[292] if you're just starting out if you don't
+[294] have the budgets for Mid upper funnel at
+[297] all or if you're working with a
+[299] constraint budget you're not really well
+[301] you're not really set with demand gen I
+[304] think it's for the biggest advertises
+[306] only
+[307] and if you take a look at the minimum
+[309] budgets if you were to drive a Target
+[311] CPA or Target row as function then
+[314] Google is actually recommending to set a
+[316] budget of 15 times as high as your
+[319] efficient Target or Target CPA so let's
+[321] say you're doing you need to hit a
+[323] officially Target of 100 euros Target
+[326] CPA then you have to set a daily budget
+[329] of 1500 Euros that's already 40 45
+[333] 000 Euros per month for your dimension
+[335] only campaign and I really do not know a
+[338] lot of advertisers that are able to push
+[341] those kinds of budgets yeah in just
+[344] Dimension alone because if you're
+[346] pushing those budgets then you are
+[347] already doing huge numbers in Search and
+[350] maybe shopping dedicated campaign types
+[353] at all so yeah I'm really curious about
+[355] the adoption of this product yeah and I
+[358] don't know if I'm jumping ahead now but
+[360] demand gen if you compare it to for
+[362] example pmax or video action campaigns
+[365] or even display where does it fit in the
+[368] in the funnel because it's not
+[369] necessarily for driven for performance
+[372] is it yeah Google is saying it can be a
+[375] Performance Based campaign I think you
+[378] can compare it to a video action
+[380] campaign so YouTube for Action if you're
+[383] still used to that term and YouTube for
+[385] Action tends to work if you multiply
+[388] your non-branded search or shopping CPA
+[391] by at least two times then it tends to
+[394] work in some verticals and I think you
+[396] can compare to to to that campaign type
+[399] and to that phase in the funnel so it's
+[402] really mid funnel not really a upper
+[404] funnel campaign type
+[406] but I think it's somewhere hovering
+[409] between upper funnel and mid funnel
+[411] where you try to well to reach potential
+[414] clients that haven't heard about your
+[416] brand that you're already trying to
+[417] Prime for one of your services or maybe
+[420] interesting categories subcategories
+[423] specific products yeah it's trying to to
+[426] generate demand for your future sales
+[428] growth essentially yeah yeah so not
+[431] necessarily bottom of funnel but then
+[433] mid and upper close to middle number
+[436] yeah I think it's a little bit more
+[437] performance orientated than really upper
+[440] funnel campaigns that are targeting
+[442] specific Target cpms or reach so it's a
+[446] little bit below your Die Hard branding
+[449] campaign and what's the difference then
+[451] you say the there's a difference there
+[453] is it because you also have more
+[455] performance driven bit strategies for
+[458] example yeah you have actually four five
+[460] bidding strategies you have maximize
+[462] clicks yeah I haven't seen if there's a
+[465] possibility to cap your CPC these but I
+[468] think there will be a capping option
+[470] then you have maximize conversions
+[472] maximize conversions by using a Target
+[475] CPA then you have maximize conversion
+[477] value or you have maximize convert
+[479] conversion value with a Target row as
+[481] efficient Target so essentially you have
+[483] five different bidding strategies and if
+[485] it were to be a really upper funnel
+[487] campaign
+[489] type then it wouldn't have the maximize
+[492] conversions and maximize conversion
+[493] value bidding strategy so that's already
+[495] pointing towards the fact that I think
+[497] this is hovering somewhat in between to
+[500] Upper funnel and mid funnel yeah yeah
+[502] and and in terms of placements so you
+[505] you already mentioned it's YouTube
+[507] YouTube home so in-stream YouTube stream
+[510] shorts shorts discover and Gmail and
+[514] it's just all automated all automated
+[517] you have the option of course to to
+[520] upload your own creatives yeah but I
+[522] think there will be an auto generated
+[523] option as well so the creative part is
+[527] really really really important
+[528] especially if you need to push these
+[531] kinds of budgets in order to see if you
+[534] are getting traction because Google is
+[536] saying 15K to 50K in four to six weeks
+[540] as a test budget as a test budget so if
+[543] you were to drive a test with this then
+[546] you would definitely want to invest in
+[548] your own Assets in your own images in
+[551] your own YouTube shorts so please stay
+[554] away from stock photos or your regular
+[557] business video on your about us page of
+[560] three minutes long so that's really not
+[563] not going to help you getting
+[565] performance in this campaign type
+[566] there's a whole list of best practices
+[568] already and things that you should do or
+[571] shouldn't do and we'll be sharing that
+[573] in a future episode so let's let's not
+[575] dive to to specific in that part but
+[578] yeah and are there any other
+[580] technicalities of the mansion that are
+[583] important to to know or understand yeah
+[586] there are a few new features that we
+[588] haven't seen prior to demand gen so we
+[590] have a new ads type in fact we have a
+[594] carousel ad yeah so if you want to
+[597] create a carousel ad that's possible
+[599] right now where you can basically swipe
+[601] through different yeah ads so to say
+[604] from left to right Google ads will make
+[607] sure that the ads will get product
+[609] advertised based on the amount of cards
+[611] you have so that's a nice little a new
+[613] feature you have as well you have the
+[615] possibility to create specific ad types
+[618] within the ad groups that you want to
+[620] create so if you want to create a video
+[622] a type you're able to do just that or a
+[626] carousel ad type you're you're able to
+[628] do just that inside of an ad group then
+[631] you have new audience targeting options
+[635] so this is the first campaign type where
+[639] we have seen the look-alike option which
+[642] is kind of cool yeah and kind of
+[643] interesting to see Google ads taking
+[645] this route and this is similar to meta
+[648] ads right we have I think we have both
+[650] done some meta ads a couple of years ago
+[653] when we try to do everything as a Google
+[655] ads specialist so it's kind of similar
+[657] to the audience expansion all these
+[659] expansion is kind of similar to
+[661] optimized targeting but they also have a
+[663] look-alike expansion percentage Yeah and
+[665] that's basically what Google ads is
+[667] mimicking right now you have the option
+[669] to to to expand your seat list by two
+[672] and a half percent five percent and ten
+[674] percent from narrow to really broad
+[676] since this is a really new function I
+[679] haven't really have any best practices
+[681] what kind of setting to choose still
+[683] have to test I think you still have to
+[685] test what actually works for you but I
+[687] think if you were to select optimize
+[689] targeting already then the algorithm is
+[692] going to expand to your audience
+[694] segments at all quite broadly yeah so
+[696] I'm really curious how much impact this
+[699] look-alike expansion is really going to
+[701] make yeah but it gives you a sensor
+[703] control yes it makes sense
+[707] yeah but it's it's nice maybe we we see
+[710] see a similar future a feature adopted
+[713] in PMX in the near future that wouldn't
+[715] be that would be sick yeah it wouldn't
+[717] surprise me yeah yeah and in terms of
+[719] targeting is it like pmax that it's open
+[722] targeting with signals or do are there
+[726] also other audience segments that you
+[727] can directly Target
+[729] it's similar to it's similar to your
+[731] Discovery thing okay so you actually
+[733] create an audience yourself yeah based
+[735] on your own segments and then you can
+[738] you can select if you want to expand on
+[741] that targeting using optimized targeting
+[743] and you and for your for your seat seat
+[745] list you can actually choose whether you
+[748] want to have it
+[749] create a look-alike segment based on
+[752] that yeah so yes more audience based
+[755] than signal based yeah but
+[759] Google is being Google so I don't know
+[762] what's true yeah I think I think Google
+[764] is using it using it as signals not
+[768] really a starting yeah at least that's
+[770] what I think yeah definitely if you're
+[772] going to select the option optimize
+[773] targeting yeah which is so it's also
+[776] Optimus targets also in demand gen yeah
+[779] and the look-alike segments both
+[781] interesting yeah so are the lookalike
+[783] segments then you I think you haven't
+[785] run them yet then you know in those in
+[788] that Dimension campaign no because I
+[790] wonder if that's an actual audience
+[791] segment that you can Target and then do
+[794] optimized targeting on the lookalikes or
+[796] if it's just instead of I think how it
+[799] works is basically you create a
+[801] look-alike expansion on your your
+[805] audience segment within your audience
+[808] audience segment itself yeah and then
+[811] you can choose whether or not to use
+[814] optimize targeting on the audience that
+[816] you have already created yeah so you can
+[819] go February broad if you want to if you
+[822] want to and I think that's that could be
+[823] the power of demand gen so if you are
+[826] looking for growth if you're really
+[829] looking for additional exposure and you
+[832] are somewhat looking at the performance
+[834] of your campaigns then yeah it might be
+[837] an interesting option to consider yeah
+[839] there's actually a great way to in
+[841] dimension which I'm kind of hyped about
+[843] to measure the uplifts so we have
+[846] several measurement protocols so to say
+[849] that can measure search lifts brand
+[852] lifts conversion lifts by using Yeah by
+[855] using different Frameworks so you can
+[858] actually see how Dimension impacts your
+[861] search campaign it's super interesting
+[864] brand lifts so are people looking for
+[867] your brand more frequently after you've
+[871] used Dimension and well what are your
+[873] conversion uplifts so are people
+[875] actually converting more is it driving
+[878] incremental convert versions since you
+[881] have started running Dimension so these
+[884] are really interesting models to use and
+[886] to leverage I think but
+[889] they are being based on what what data
+[892] points Google Google has so I think you
+[895] should take it with a big grain of salt
+[897] if you were to use these well lift
+[901] studies so to say a search brand the
+[904] conversion lift studies then I would
+[905] definitely pair that with your
+[907] third-party attribution tool and I think
+[909] if you are doing these kinds of budgets
+[911] then you should have already a third
+[914] third party attribution a tool in place
+[916] to properly see if well how your
+[920] campaigns are running and how everything
+[921] is being attributed towards your final
+[923] conversion yeah especially as you do
+[925] more inside of Google ads and you
+[927] because I think with the managing Google
+[929] is also trying to compete more with meta
+[932] like Facebook Instagram Tick Tock ads
+[934] etc etc and then I mean it's not
+[937] necessarily bad by itself if you do more
+[940] on the Google side but as you switch
+[942] more budget to shift more budget towards
+[945] one platform I think it becomes even
+[947] more important to analyze with a
+[950] third-party tool because otherwise they
+[951] have all the power and they say this is
+[953] the truth yeah and then you just have to
+[956] believe that it's true even though it's
+[957] not all which is not true no absolutely
+[960] not I think it's never never the the
+[962] truth no no because on the on the other
+[964] hand metas also going to say the exact
+[966] same thing yeah and if you if you add up
+[968] all of the conversions then you end up
+[970] by two three times as many conversions
+[973] that you actually exactly have inside of
+[975] your back end yep so you definitely need
+[977] an independent tool to look over well
+[980] the attribution of all of your campaigns
+[982] yeah yeah and is there any I don't know
+[984] if you if you know but speaking of
+[986] attribution is there data driven
+[988] attribution with other campaigns with
+[991] the manager yeah yeah yes yeah that's
+[993] pretty nice yeah yeah so data driven
+[995] attribution DDA is also Incorporated
+[997] within demand gen yeah I I still have to
+[1000] see how it works with different kind of
+[1003] conversion actions because what I have
+[1005] seen from practice is if you were to use
+[1007] offline conversion tracking by importing
+[1010] close deals or qualified leads or
+[1014] whatever data point that you want to
+[1015] upload then I sense or have seen that
+[1020] campaign types like display YouTube and
+[1022] Discovery aren't really attributing
+[1024] those types of conversions to themselves
+[1027] and if you were to use a Google ads
+[1031] attack specifically
+[1033] that is just well that is Gtech based
+[1036] then you start to see in well a lot more
+[1038] conversions not only a few true
+[1041] conversions but only but also while last
+[1043] click conversions so I haven't compared
+[1046] those two yeah but I think DDA works
+[1049] best if you were to drive on the well
+[1052] data the regular Gtech conversion action
+[1055] yeah and not on OCT yeah so what I tend
+[1058] to do is I tend to select if you were to
+[1060] run an OCT then I were to select OCT
+[1064] conversion actions as a primary
+[1066] conversion action for my search campaign
+[1068] for Legion SAS and for my upper funnel
+[1071] mid funnel campaigns I tend to use a
+[1073] Google tech based conversion action and
+[1076] then just use different primary
+[1078] conversions on campaign level yeah
+[1080] campaign specific goals so you let the
+[1083] algorithm optimize for different
+[1084] conversion data so to say yeah yeah is
+[1088] there anything else that goes into the
+[1090] man gen that's new or
+[1092] I think those are the points that are
+[1096] because then yeah it's gonna take over
+[1098] from Discovery this cover is going away
+[1100] I think in the next few months it's
+[1102] going to get rolled out and then
+[1103] somewhere early 2024 I think Discovery
+[1106] is going to get killed completely have
+[1107] you read something about a migration
+[1109] from Discovery to Dimension it's going
+[1111] to be Auto migrated no you can opt in at
+[1114] first maybe even select advertisers but
+[1117] I think somewhere between now and
+[1119] October so you can actually go and make
+[1122] the switch and then the historical data
+[1124] is going to be pulled over just like
+[1126] smart shopping 2pmx exactly yeah yeah
+[1128] and then somewhere in q1 pmax Discovery
+[1131] is going away and then all campaigns are
+[1134] going to be Auto migrated to the new
+[1136] dimension think somewhere in q1
+[1139] fun times ahead yeah yeah but so if
+[1142] you're driving Discovery campaigns yeah
+[1143] then you should really reconsider yeah
+[1145] if you want to migrate to demand gender
+[1147] because alone I I know a lot of accounts
+[1151] and I know a lot of accounts that I
+[1153] manage myself that have Discovery
+[1155] campaigns enabled yeah but mainly focus
+[1158] on remarketing on the Discover
+[1160] placements and I think I'm not going to
+[1162] migrate them to Dimension because it's
+[1164] just a different different campaign type
+[1166] yeah yeah what will you do then for the
+[1168] remarketing switch to display in YouTube
+[1170] I think yeah I think it's it's best to
+[1172] to in those cases what I know for now is
+[1176] to switch to a campaign specific type so
+[1180] display remarketing YouTube remarketing
+[1182] yeah for your remarketing places and
+[1186] what do you personally think of the
+[1188] mansion
+[1189] outside of all the technicalities I
+[1192] think it is nice to see where Google is
+[1195] heading towards they're heading towards
+[1197] a a more well all in all-in campaign
+[1201] type sort of thing just like PMX so you
+[1204] see where the future is going I think it
+[1207] is a great campaign type for the bigger
+[1209] advertisers that are really maxing out
+[1212] on every Network already and they really
+[1215] want to spend in order to well gain
+[1218] additional exposure whenever possible
+[1221] if you are a mid or low size Advertiser
+[1226] I think Dimension isn't really suitable
+[1229] for you right now that can change in the
+[1233] future but if you take a look at the
+[1234] budgets that Google is pushing right now
+[1236] then I think it wouldn't make sense to
+[1238] to allocate a 50 to 100 euro per day
+[1242] Budget on Dimension I think it will be
+[1244] way too way too low unless you can drive
+[1247] really crazy amounts of conversion
+[1249] volume through micro conversions for
+[1251] example and if you're possible to 15x
+[1255] your target CPA but I think for most
+[1258] advertisers this isn't really suitable
+[1259] it's meant for the the mature
+[1262] advertisers that really want to want to
+[1265] work on their well exposure already max
+[1268] out performance and now what else can we
+[1270] do and besides that I think you should
+[1272] also be really mature in the creative
+[1275] sides of things
+[1277] so if you're going to leverage well
+[1279] demand gen then you need to have a
+[1282] really big library of Kick-Ass
+[1284] professional creatives because you're
+[1287] doing a lot of YouTube shorts you're
+[1288] going to do a lot of well YouTube
+[1290] in-stream placements and a lot of new
+[1293] discover placements and they should
+[1295] really be well on point really made
+[1298] according to the well best practices
+[1301] that Google is pushing for example the
+[1303] ABCD framework of YouTube mobile first
+[1307] really big bot well copy text placements
+[1311] elements inside of your your videos for
+[1313] example and I think only the bigger
+[1315] Brands right now are able to
+[1317] allocate budgets towards those kinds of
+[1321] Investments yeah I personally have
+[1323] trouble convincing smaller and even
+[1326] mid-size advertisers to spend a few
+[1329] thousand Euros to their creative part
+[1331] and to create YouTube videos by hiring a
+[1335] video agency or whatever so yeah I think
+[1338] I think we have to see the adoption
+[1340] where where it goes but I think you will
+[1342] not see a lot of accounts with the
+[1344] Mansion campaigns enabled yeah yeah
+[1347] cool so what are you going to do next
+[1350] because you've already ran the the test
+[1353] in the closed beta yeah is that still
+[1355] it's still running still running still
+[1357] running what's next for for that test or
+[1359] are you doing any anything specific well
+[1362] right now we've set it up according to
+[1364] the best practices that Google has
+[1365] shared with us during the closed beta it
+[1367] has been running for quite a while now I
+[1371] think for seven or eight weeks already
+[1373] so right now we're going to refine the
+[1376] campaign and see where we can actually
+[1378] grow but yeah we still have to see then
+[1381] do this as a search lift and all those
+[1383] studies Etc and I think if Google is
+[1386] offering those lift studies search
+[1389] Brands conversion live studies then that
+[1392] also implies that it's not necessarily
+[1394] focused towards conversion directly
+[1397] because if it was then you would see the
+[1399] Converses probably directly coming from
+[1401] that campaign type but now it's much
+[1403] more like
+[1404] like for example with bumper ads I I
+[1406] think bumper ads are much more upper
+[1409] funnel on YouTube yeah but they also
+[1411] offer those studies to sort of prove
+[1413] like yeah even though it's working yeah
+[1415] zero conversions from these campaigns
+[1418] they're working because look at this
+[1420] data yeah so I think if they also do
+[1422] that with demand gen then that kind of
+[1424] tells me that it's probably not going to
+[1427] be one of your biggest conversion
+[1429] campaigns but I don't know leading up to
+[1431] up to that yeah that's always kind of
+[1433] yeah and I really think I really think
+[1436] that if you want to see if this works
+[1438] for you as an Advertiser that you really
+[1441] should work with third-party attribution
+[1443] tool yeah I think you cannot really
+[1444] trust the data inside of Google ads yeah
+[1447] I think just like pmax Google attribute
+[1450] a lot of conversions through DDA to meet
+[1454] and upper funnel campaigns to basically
+[1456] well pretend they're working and I think
+[1460] in a lot in a lot of times they will be
+[1463] working but I think that through the
+[1466] truth will be that they will work
+[1468] really less effectively than they
+[1470] pretend to work yeah that's an
+[1473] assumption I think you have to say that
+[1475] for yourself and your own data but
+[1477] that's that's my gut feeling right now
+[1480] all right yeah yeah I think we can go on
+[1482] and on about best practices but we will
+[1484] do an additional episode about that yeah
+[1486] there's a lot of a lot more to say about
+[1488] bidding strategies creatives audience
+[1490] targeting campaign campaign structure so
+[1493] yeah I will dive into a specific episode
+[1495] about demand gem best practices in the
+[1497] future solo episode nice so stay tuned
+[1500] for that cool all right thanks everybody

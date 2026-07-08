@@ -1,0 +1,272 @@
+[1] have you ever Googled what's the best
+[2] time of day or day of week to generate a
+[6] sale hi guys I'm Ed leak and today I'm
+[9] going to talk about day parting and
+[10] looking through your AdWords data how to
+[13] an identify and answer that very
+[15] question uh this question actually came
+[17] about and the idea for this video from a
+[19] client who requested that we turn off
+[21] their AdWords at um certain days and
+[23] certain times the week and I wanted to
+[25] look through their data and make sure
+[27] that we weren't doing that based on
+[28] assumptions
+[32] so I'm now in the AdWords account in
+[34] question and I'm on the dimensions tab
+[37] so what I want to do is drop into the
+[39] the drop down over here and go to time
+[41] and day of
+[43] week and what you can see is you get
+[45] your week uh each day of the week uh
+[47] including weekends and it gives you a
+[50] really quick overview of you know your
+[52] key metrics essentially but you'll
+[55] notice here I've got all conversions and
+[57] conversion uh converted clicks so
+[61] there's a disparity and this is a
+[62] question that I've been asked before why
+[64] are all conversions higher than
+[65] converted clicks we typically use
+[68] converted clicks for most accounts
+[70] because they they're trying to consider
+[71] a single visit as a conversion even if
+[74] there's multiple actions so for example
+[76] if I click on an advert I come to your
+[78] website I activate the chat facility to
+[82] have you know to ask a question about
+[83] your product or service and you're
+[85] tracking that conversion that will go
+[87] into the all conversions column if you
+[89] then you know check out buy a product or
+[92] pick the phone up and you're tracking
+[93] phone calls that will be added to the to
+[96] the conversion total however it was one
+[98] visit so for us a lot of the time the
+[101] most accurate thing to do is look at
+[102] converted clicks okay and this this
+[105] account um Target CPA or cost per
+[108] conversion is actually 20 20 Sterling
+[111] should I say Saturday is already over
+[115] but that's for all of Saturday let's
+[117] look at the drop down again and go to
+[118] time hour
+[120] day and then you get a view of each hour
+[123] in the day but again this this can throw
+[126] up some problems because you've got
+[128] you're taking into account every single
+[130] day of the week here and then all of a
+[132] sudden your conversion values are
+[133] starting to go all over the place so
+[135] let's get a bit more clarity on these
+[137] numbers um what we want to do is
+[139] download this data and because we're on
+[141] hour of day we want to segment it by day
+[144] of week so we go to
+[146] time day of week grab that download
+[151] and then open that in
+[155] Excel okay so now we've got the data in
+[159] Excel we want to highlight all Fields
+[162] all cells uh go to insert and pivot
+[166] table and that's just confirming the
+[167] range click okay uh then we want to
+[170] construct the pivot table so there's
+[171] three components here uh day of week in
+[174] your uh I'm going to do that in columns
+[177] actually beg your pardon um day of week
+[179] columns hour of day in the row section
+[183] and then I'm interested in cost
+[185] converted clicks so just want to edit
+[188] that field setting to be sum which gives
+[191] us the absolute value um and then just
+[194] quickly tidy this up so let's click the
+[197] drop down on the First Column here and
+[201] remove any blank there we go and for the
+[205] weekday so we just don't want the total
+[207] or the blank we just want the weekdays
+[209] here um I also like for some reason I I
+[213] don't like the uh table touching the
+[214] side of the sheet yeah weird don't know
+[217] why um we want to get rid of these Grand
+[219] totals because they're meaningless to us
+[221] so go to the design tab at the
+[223] top and off and that just tidies it up
+[228] but even so this is quite a lot of data
+[230] to analyze as is so let's highlight the
+[234] days an hour of days go to conditional
+[237] formatting and let's put a a sort of
+[240] color scale on here so we're going from
+[242] Red down to Green cuz red
+[244] being uh high cost which we don't want
+[247] I'm also going to just tidy this up a
+[249] little bit like that centralize it it's
+[252] a bit
+[254] easier you'll probably find this if
+[256] you've got any zero conversion data or
+[258] not if you're British like me some norts
+[261] in here um it's going to skew this
+[264] conditional formatting because it's it's
+[265] done on a percentile basis so let's just
+[269] sort sort that out so it's more visually
+[272] useful more visually appealing to us
+[275] double click that so as I said uh cost
+[278] per acquisition on this account is 20 so
+[280] I'm going to set that as the
+[283] midpoint I'm going to set the lowest
+[285] values in percentile so I'm going to go
+[286] for the bottom sort of 15% that bumps
+[290] the color range up uh so these these
+[292] zeros don't take too much um sway over
+[295] that and the same at the top end to
+[297] compensate so I'm going to do 85 um um
+[300] there's no rule of thumb to this this is
+[301] this is visualization essentially so
+[303] you'll see what happens if you see
+[306] now we got a much clearer View and
+[312] immediately Saturday and Sunday are not
+[314] looking too good are they and I should
+[317] and also as you can see here across this
+[320] uh row we've got um 6:
+[323] a.m. across every single day of the week
+[325] 6:00 a.m. is underperforming we're over
+[327] our Target of 20 uh cost per
+[330] conversion so what would I do this data
+[333] well oh yeah KY look at that midnight
+[335] that's not not not a very good timer day
+[337] for this this account um this account is
+[341] limited by budget so I would immediately
+[345] scrap the weekends personally um there's
+[347] a couple in here that are you know that
+[350] are under but compared to the rest of
+[352] the week it's it's clear that the
+[353] weekend this it's pretty safe to to
+[356] disable your ads on the weekend and in
+[359] addition 6: a.m. is not looking too
+[361] great either there's a there's a few
+[363] other requirements we can do here in
+[365] that
+[367] Monday uh
+[369] Wednesday and Thursday and Friday we can
+[372] actually start this
+[373] account sorry Start those days an hour
+[376] later than the rest because they're not
+[378] looking too good and you'll see some
+[380] other little issues we've got weird one
+[384] but not weird Friday 7:00 everyone's
+[386] going home surely so sorry 5:00 um
+[390] conversions do actually pick back up
+[392] there which is interesting people get
+[394] home can't wait to convert
+[396] brilliant so we've got this data we've
+[399] now visualized it and we understand it
+[400] and there's a clear course of action in
+[402] that we we need to sort out these uh
+[405] these timings and this is where we go
+[407] back to the schedule in your account and
+[408] tweak to
+[410] suit okay so I've just jumped back into
+[413] the the AdWords account here and I want
+[416] to go to the settings and add schedule
+[421] and actually this wasn't planned by the
+[424] way I haden't looked at this account but
+[425] we if we just jump back to our data so
+[428] we saw that um 6 a.m. in particular
+[432] across the whole week and 7 with well
+[435] with the exception of Friday but let's
+[436] say six and seven uh because this
+[438] account is limited by budget so we want
+[441] to move that budget into the stronger
+[443] areas six and seven were were failing
+[445] this account and if we just jump back in
+[447] here it looks like my team's actually
+[448] moved this uh move the goalpost on me
+[451] cuz this is actually now 8:00 a.m. um
+[454] but you'll see here total removed so
+[456] historically there was some spend in
+[458] those uh alternative time
+[461] ranges but that's good so we're on top
+[463] of it um however the one thing we aren't
+[465] on top of is the weekend again we've got
+[468] Saturday and Sunday running here jumping
+[470] back to our spreadsheet we can see that
+[472] Saturday and Sunday are pretty rubbish
+[474] let's face it now this is a business
+[477] case for you you know do you want phone
+[479] calls emails transactions at the weekend
+[482] fair enough this client kind of does but
+[485] I think we could argue to them actually
+[487] unless they want to spend more because
+[489] they're budget Limited in the week we're
+[491] better off you know letting them have a
+[493] quiet weekend which they probably
+[494] appreciate and getting more conversions
+[496] in the week so we could literally jump
+[498] in here uh and remove those but I'm
+[501] going to discuss it with them first yeah
+[502] this is live
+[504] um the other thing I need to warn you of
+[508] don't start making too many changes too
+[509] soon I I'd go for a a more broad Strokes
+[512] approach so finding uh particular hour
+[515] ranges or day ranges that just don't
+[517] work and remove those because they will
+[519] have a KnockOn effect to your remaining
+[521] active hours of day day of week so just
+[524] you know baby steps also when you change
+[528] your ad schedule this this button's a
+[531] little bit misleading because it says
+[533] you know Plus ad schedule so when I do
+[535] that what this is actually showing me is
+[537] the current live ad schedule so if I
+[540] remove these in here thinking that or I
+[542] just want to add in a something for
+[544] Tuesday and I'll remove the rest and
+[546] save it you will over write your live
+[549] schedule so you need to add to this and
+[551] another thing as well let's say I wanted
+[554] to um bid up Monday at 2: a.m. for
+[557] whatever reason you've then got to set a
+[560] pre 2 a.m. period and a post 12: a.m.
+[564] period on your Monday so you'd have
+[566] essentially have um two or more Monday
+[569] schedules and what that allows you to do
+[571] is you'd get an additional time slot in
+[573] here which you could increase or
+[576] decrease bids and that's when you go
+[578] really granular so you're literally
+[579] selecting you know certain regions of
+[581] the day where you're increasing your
+[583] your bids to
+[585] suit this so for example there's there's
+[588] a few areas in here that are excelling
+[591] like um what is this 10 a.m. looks
+[594] pretty good even through to sort of 1112
+[597] so you could take that region um across
+[600] Monday through to Wednesday and add a
+[602] schedule into to suit but you know
+[604] that's going quite granular pick out
+[606] these dirty red points first that are
+[609] wasting your money and sort those out
+[611] and then come back and do this this
+[613] whole scenario you know a few months
+[615] down the line when you've had time to to
+[616] collect the data and that's it and that
+[619] answers the question of what's the best
+[621] time of day and day of week to convert
+[623] so don't Google it don't listen to best
+[625] practices don't listen to other people
+[626] because they're not looking at your data
+[629] use your own data it takes 10 15 minutes
+[631] of your time at the most even if you're
+[633] you know you're not an Excel officient
+[635] AO uh to identify the facts based on
+[639] your business and that's important
+[641] there's there's a lot of conjecture out
+[643] there a lot of best practices that just
+[644] don't suit everyone so do that and uh
+[647] listen to yourself listen to your own
+[649] data okay so I hope you enjoyed the
+[651] video and I appreciate any likes shares
+[654] and of course drop any comments in if
+[656] you need any assistance I'm here to help
+[658] until next time catch you then cheers

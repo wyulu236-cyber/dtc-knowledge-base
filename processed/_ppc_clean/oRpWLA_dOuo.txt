@@ -1,0 +1,595 @@
+[0] it's almost Q4 Black Friday Cyber Monday
+[2] is coming up so when are we going to
+[5] create offers when is the deadline for
+[8] well the Black Friday Cyber Monday
+[10] landing pages when do we need to have
+[12] the Black Friday ceremony specific seal
+[14] ads inside of our account how are we
+[17] going to make sure that everything runs
+[19] battery smooth so what types of
+[21] automation are we going to use automatic
+[23] rules scripts
+[25] etc etc
+[30] do you have GM everybody welcome back to
+[33] the PPC Mastery podcast today we have a
+[37] really nice topic and it is how to
+[40] prioritize work throughout your week or
+[42] specifically optimizations
+[44] so let's just dive in man because you're
+[46] working on something really cool
+[47] optimization checklist like maybe just
+[50] briefly introduce like that what what
+[53] are you what are you building right now
+[54] I think it's because it's going to be
+[56] really really cool
+[57] is going to be epic at least that's what
+[60] what we think so what are we building
+[62] we're building a really extensive
+[65] detailed optimization checklist that is
+[69] covering all of the different campaign
+[71] types from search to Performance Max to
+[74] video for Action campaigns it is telling
+[77] you what things to monitor what checks
+[80] to perform but also what kind of
+[82] optimizations you can do or should do or
+[85] at least take a look at what frequency
+[88] is applicable to the checks and the
+[91] optimizations and what the potential
+[92] impact of these checks and optimizations
+[95] could be so this is a really well a sort
+[98] of mastered document that you can use to
+[101] to plan optimizations experiments
+[104] monitoring slash checks across your work
+[107] week for all of your different clients
+[109] if you work for different clients at
+[111] least so it's going to be a kick-ass
+[113] document with a lot of rows a lot of
+[116] checks yeah so it's going to be epic
+[117] yeah I've seen I've seen V1 and it's
+[120] already
+[121] like now what it is now it's already so
+[123] good but can't wait until we until we
+[125] finish it so in the in the realm of
+[128] optimization can you maybe Define what
+[131] you think optimization means in the
+[133] context of Google ads and what are the
+[136] categories that apply within that
+[138] optimization structure
+[141] um yeah so I think when people are
+[144] mentioning optimizations they also mean
+[147] monitoring and Performing checks
+[149] checking performance performances week
+[151] on week month on month checking
+[154] performances for different segments like
+[156] location devices audiences keyword
+[159] segments Etc it is not solely just
+[162] optimization optimizations it's also
+[165] checks monitoring and experimentation as
+[168] well and I think all of that is part of
+[172] the the category optimization when we
+[174] talk about optimization so basically we
+[177] have three overarching optimization
+[179] categories at least that's how I feel
+[181] feel it and how I look at things number
+[184] one those are the regular monitoring
+[187] checks and regular optimizations so
+[189] these are the things that come back
+[191] every single week every single two weeks
+[195] every single month and every single
+[196] quarter so the regular stuff like
+[198] keywords adding keywords going through
+[201] your search and Report excluding
+[203] negatives optimizing your your ads
+[205] assets experimenting with well
+[208] optimizing your campaign structure so
+[209] these are all your regular optimization
+[211] checks then we have number two and these
+[214] are your one-off high impact
+[216] improvements or potentially high impact
+[218] improvements and these are often the
+[221] bigger one-off tasks like implementing
+[224] specific Advanced conversion tracking
+[226] features that you haven't implemented
+[228] before but are on your to-do list on
+[231] your backlog so that's number two and
+[233] then number three we have the
+[235] experiments so next to your regular
+[239] optimizations going through your social
+[241] reports excluding negatives etc etc you
+[244] also have a experiment bucket
+[247] where you have to continuously work on
+[249] in order to bring your account to a
+[252] higher level and look for ways to
+[255] drastically improve performance for
+[257] example finding offers experimenting
+[260] with different RSA assets experimenting
+[263] with different fun URLs in order to
+[265] improve conversion rates so these are
+[267] not regular optimizations these are
+[270] always different and they should be
+[273] prioritized differently so that's the
+[276] core overarching few I think that's I
+[279] think it's interesting view because I
+[281] think a lot of people struggle with the
+[282] with the experimentation side and
+[285] running solid experiments and I think
+[287] we'll get to that in a second so
+[289] since there is always so much so much
+[292] that you can do at the same time how do
+[295] you prioritize your optimization so how
+[298] do you allocate your time in your week
+[299] do you use any systems to keep track of
+[302] your optimization of the of the progress
+[304] and how do you communicate the
+[306] importance of prioritization to your
+[309] stakeholders any thoughts there
+[312] yeah so we're talking regular
+[314] optimizations over here so these are the
+[316] things that are returning every single
+[318] over a single time period weekly
+[321] bi-weekly monthly quarterly so I have
+[324] built a extensive Google sheet for
+[326] myself in the past that I use for all of
+[328] my clients that I'm refining right now
+[331] in order to use sapc Mastery product but
+[334] I keep track of all of my regular
+[336] optimizations inside of basically a big
+[339] big Google sheet that is tailored
+[342] towards every single client so the
+[345] frequency and the potentially potential
+[348] impact of certain optimizations is
+[351] different for every single client so if
+[353] you have a client that's doing 1 000
+[355] Euros per month in terms of spend you
+[357] need a lot of data in order to optimize
+[359] your ads for example or go through your
+[363] search and Report because you need a lot
+[364] of data in order to find a lot of
+[366] irrelevant Search terms so the frequency
+[369] can be lower in comparison to a client
+[373] that is doing 50 000 Euros a month in
+[375] terms of spend because you have way more
+[377] volumes over there and the potential
+[379] impact of specific optimizations can
+[382] wildly differ
+[383] so basically I use the same document but
+[387] with the same regular optimizations but
+[390] then I tailored the frequency and impact
+[392] per client
+[394] I keep track of the optimization date
+[397] inside of that document as well so it's
+[399] easy for me to see when the last time
+[402] when the when the last time was that I
+[405] performed a certain optimization so I
+[406] can look back in the document to see hey
+[409] this is something I did two months ago I
+[413] need to perform this check or this
+[414] optimization every quarter so next month
+[417] I have to prioritize this over a
+[419] specific other optimization inside of
+[421] the checklist yeah so that's how I keep
+[423] track of The Irregular optimizations
+[425] then we have the other two categories as
+[427] well so we have can I just quickly ask
+[430] yeah so about that you add in the date
+[434] to the sheet that's really solid do you
+[437] usually work from that spreadsheet or do
+[439] you also use a project management tool
+[441] like a notion Trello Asana Etc
+[444] for the regular optimizations and checks
+[447] I use the Google sheet I've tried
+[448] experimenting with a project project
+[451] management tool like Asana for this in
+[453] the past but since there are so many
+[455] checks and so many optimizations per
+[457] campaign type per sub category like ads
+[461] assets campaign structure keyword Search
+[463] terms it is becoming
+[466] wildly well unmanageable messy
+[470] unmanageable if you if you if you try to
+[472] put this in a project management tool
+[474] yeah and if you try to add well due
+[477] dates to all of the tasks it just
+[479] becomes a re just becomes a mess because
+[482] sometimes you need to shift and
+[484] prioritize some priority optimizations
+[486] over orders as well and it is really
+[489] hard to keep track of all of these
+[491] separate tasks if you manage more than
+[493] one client if you have just one account
+[496] I think it is good for your overview to
+[500] use a product management tool for this
+[502] but if you manage multiple clients and
+[504] you were to incorporate all of these
+[506] single optimizations which are more than
+[509] 200 I think I think easily more than 300
+[513] then you're going to have a hard time
+[515] and in the in one of the previous
+[517] episodes you you thought you said
+[520] something that Dickie Bush often often
+[522] says about the project management tools
+[525] right can you repeat that yeah so if a
+[529] lot of times project management tools
+[530] can be a distraction of actually doing
+[532] the work because people people try to
+[534] build the perfect productivity system
+[536] and I try to do that in the past as well
+[538] but then in the end I was spending more
+[540] time in the tool like Asana or notion
+[543] than actually doing the task so yeah you
+[545] need to think to yourself like if you
+[547] have a good productivity system and it
+[549] works for you then by all means but if
+[551] you are trying to keep it perfect then
+[552] you're probably just distracting
+[554] yourself and running away from the task
+[557] it is actually important so if that's
+[559] the case and that's so true foreign
+[562] so for regular optimizations and checks
+[565] I do not use a project management tool
+[568] yeah for exactly that reason yeah but
+[570] for the other for the other regions
+[572] experimentation and one-off high impact
+[576] improvements I do use a project
+[578] management tool I do use notion for that
+[581] specific part
+[582] yeah Okay cool so when it comes to the
+[585] experiments which is the the second part
+[587] of it how do you prioritize those
+[590] because in the in the master class we
+[592] also have a lot of experiments that we
+[594] showed that was the everybody's favorite
+[596] Workshop all the time or during every
+[599] master class but how do you prioritize
+[602] your experiments and how much time do
+[603] you allocate to those versus the regular
+[606] optimizations
+[608] yeah so I like to use a really simple
+[611] framework a model to help me with the
+[614] prioritization of experiments and that's
+[617] called the ice scoring model the I
+[620] stands for impact
+[622] the potential impact the C stands for
+[625] confidence so how sure am I that this
+[627] will actually perform well
+[629] and the E stands for ease so how easy is
+[633] it to set up and those three combined
+[636] actually give you a score so I tend to
+[638] use a score ranging from 1 to 10 for
+[640] every single metric impact confidence is
+[644] and just add up all of the scores
+[647] combined and I just start with the
+[650] experiment that that has the highest
+[652] score because something that you think
+[654] has a great impact that you're really
+[657] confident about and that is really easy
+[659] to set up well those are the experiments
+[661] you need to start off with right if you
+[664] have a experiment idea that has a
+[667] potential high impact a high confidence
+[669] rate but is really difficult to set up
+[672] then you have to de-prioritize that over
+[674] the ones that are really easy to set up
+[676] so that's a really simple framework to
+[679] use at least that I like to use to
+[681] prioritize my experiments so I basically
+[683] have one big bucket
+[685] of all of my experiments ideas per
+[688] client I add them inside of just one big
+[692] experiment backlog and then use this
+[694] prioritization model in order to to
+[697] prioritize where to begin with
+[700] and when it comes to the time allocation
+[703] how much spend how much time do you
+[705] spend between the experiments versus the
+[708] regular optimizations
+[709] yeah good question so I always try to
+[712] find a good balance between the regular
+[714] optimizations and the experiments
+[716] between within an account generally I
+[720] try to allocate as much as time needed
+[723] within the available hours per client
+[725] for regular optimizations and checks so
+[728] I do not want to skip all of the
+[731] important regular work and all of the
+[733] time that is left I try to allocate
+[736] towards one-off high impact improvements
+[738] or experiments and generally I think gut
+[744] feeling wise I spent 70 percent of my
+[747] time towards regular optimizations and
+[751] 30 percent maybe up to 40 percent
+[753] towards one-off improvements and
+[756] experiments that's how I try to allocate
+[758] my my time per client but it differs it
+[761] differs per client
+[762] because some accounts are really mature
+[765] and all of the regular optimizations
+[767] have already been performed in the past
+[771] so I have one client that is with me for
+[774] seven years already and if I check this
+[777] search and Report
+[779] The Search terms are so so relevant and
+[783] they're converting so good that I almost
+[786] didn't have any work to do checking the
+[789] sdrs but also doing engram exclusions
+[792] for example so for that client I have
+[794] way more time allocated towards the
+[797] experiment side of things because that's
+[799] the way to grow that specific account
+[801] yeah so it differs yeah that sounds like
+[804] a logical way to go about your account
+[806] as well like the the foundation in that
+[808] account as you said specifically is
+[810] really solid so then it makes sense to
+[813] spend a lot of time experimenting and do
+[816] you have some examples of the types of
+[818] experiments that you that you like to
+[820] run
+[821] yeah sure there
+[823] multiple multiple high level categories
+[826] where you can experiment in and within
+[829] every single category of multiple
+[831] experiments that you can run obviously
+[833] so when we take a look at the high level
+[836] experimentations then you can think
+[838] about experimenting with your ads that
+[842] could be your responsive search ads
+[844] Dynamic search ads responsive display
+[845] ads HTML5 ads video ads and inside of
+[850] all of those ad types you can experiment
+[852] with different items or different assets
+[855] then how you would like to call them so
+[858] you can swap out certain headlines
+[860] description lines that's with certain
+[862] images that's with different videos test
+[865] with auto well not kind of
+[867] auto-generated videos but the ones you
+[869] create inside of the creative Studio
+[871] versus the ones you you have from your
+[874] client so there are different ways to
+[877] experiment with your ads already you can
+[879] set them up in different ways you can
+[881] you can optimize your low perform
+[883] forming assets and swap them out for new
+[886] ones according to your ad testing
+[888] backlog and the ones you have
+[890] prioritized as well
+[891] you can also add in add variants or add
+[894] variations in order to split test
+[896] certain headlines for example benefits
+[899] versus features or swap out different
+[902] call to actions so there are already
+[904] multiple ways you can test within the
+[908] asset category only or ads and asset
+[911] category then you have find URLs so I
+[915] really like to test with finding URLs
+[917] for my Legion clients it's something
+[918] that I try to to control it's something
+[921] that I like to pull away from my clients
+[924] and pull towards myself so I'm
+[926] responsible for the whole customer
+[928] Journey so to say so I want to be in
+[931] control of the ads people see the the
+[934] Search terms my ads are being shown for
+[937] the targets that I have set the bidding
+[939] strategies that I use but also the URLs
+[942] that people are being redirected to and
+[945] what offer is being pushed towards those
+[947] potential clients and I really like to
+[950] split tests and optimize my landing
+[953] pages right now which is really cool to
+[956] do for Legion clients specifically
+[959] because it isn't really complicated to
+[961] set up relevant landing pages it is more
+[963] complicated for Ecom businesses because
+[966] you have all of these products right and
+[968] bundles and well it doesn't make sense
+[971] inside of the the the the the the
+[974] e-commerce navigation so to say but for
+[977] services SAS companies this is way
+[980] easier to do and that's why I like this
+[982] vertical because I can influence the
+[985] whole
+[986] before the click all the way to the
+[989] potential conversion good point and
+[991] those are really really really high
+[993] impact optimizations or experiments so
+[995] to say so it's something that I try to
+[998] allocate more of my time towards right
+[1000] now because if you were to improve your
+[1004] conversion rates by 25 that's a lot so
+[1008] that's a lot that's a lot that's so much
+[1011] more bidding power and it opens up so
+[1014] much more volumes inside of your Google
+[1016] ads campaigns where it also opens up
+[1019] doors for experimenting with mid and
+[1021] upper funnel campaign types because
+[1023] those campaign types can become well
+[1026] could have a good could have a good Roi
+[1029] right now because your conversion rates
+[1031] are improved so that's another way to to
+[1034] experiment with different campaign types
+[1036] do additional work for your clients as
+[1038] well
+[1040] yeah then we have some some other
+[1041] categories as well think about campaign
+[1044] and AD group structures testing with
+[1045] different bidding strategies and or
+[1047] targets audiences keywords testing with
+[1050] offers on your landing pages so these
+[1053] are some high level categories that I
+[1054] like to experiment with yeah and there's
+[1057] an endless list of things you can try to
+[1060] experiment with so there's always
+[1061] something to do yeah and that's going to
+[1063] be the checklist yeah let's go to videos
+[1066] that's going to be yeah
+[1068] but I like how you emphasize the the
+[1071] landing page optimization or cro
+[1073] whatever you want to call it it is
+[1075] probably part of cro but that is so it
+[1078] is so crucial it means we've been saying
+[1080] it for the last year or so like what
+[1082] happens after the click is probably even
+[1084] more important than what happens before
+[1086] or at least the same and this is the
+[1090] number one skill I think next to
+[1092] mastering conversion tracking I think
+[1094] the number one skill that you also need
+[1096] to be developing in the upcoming months
+[1099] and years if you want to stick out as a
+[1101] as a standout as a Google ad specialist
+[1103] like really definitely own yeah and what
+[1106] you're doing now with those landing
+[1108] pages you're really owning the whole
+[1110] infrastructure for this client which
+[1112] helps you drive the results that you
+[1114] want because we've seen those examples
+[1115] especially in Legion where someone just
+[1117] builds a page with huge forms or you
+[1121] know those kinds of mistakes and if you
+[1123] control the entire landscape then it's
+[1125] easier for you to drive those results
+[1127] but you need to put in the time to
+[1129] actually Master the craft and and be
+[1132] able to build those landing pages so
+[1134] yeah I'm really looking forward to build
+[1136] a a mini course for this maybe something
+[1139] that's called landing page Mastery or
+[1141] something like that really looking
+[1143] forward for that specific course because
+[1144] I think there's so much knowledge to be
+[1147] gained over there that can be utilized
+[1150] by a lot of Google Specialists that are
+[1152] that are stuck inside of the the app the
+[1155] Google ads interface right now but I
+[1157] think the impact is being made
+[1160] outside of Google ads absolutely and are
+[1163] you using any tools for your
+[1165] optimization experimentation Etc
+[1169] yeah so I have my big checklist with all
+[1172] of the regular checks monitoring
+[1175] optimization checks but I also like to
+[1177] use two core tools that help me with
+[1180] prioritization analysis and through
+[1184] clicks those are the two that are I
+[1187] think complementary to it to each other
+[1189] so they have different checks different
+[1191] categories they prioritize things
+[1195] differently and by combining these two
+[1197] tools you can easily see where to begin
+[1200] your your your your your work day with
+[1204] for example inside of analysis they give
+[1207] you a alert a high impact alert if they
+[1211] see that a specific ad group with high
+[1214] volume keywords that drive a lot of
+[1216] conversion volume is well is dropped or
+[1220] dropped volumes and conversion rates
+[1222] significantly or where the quality score
+[1225] dropped so those are the things that
+[1228] needs to be addressed immediately if you
+[1231] are starting to work for that specific
+[1233] client and you can combine these kinds
+[1235] of alerts or suggestions with your own
+[1239] Master checklist so to say so that's
+[1241] what I like to to do yeah
+[1244] yeah cool so what I what I this what I
+[1247] dislike and what I try to prevent as
+[1250] much as possible is to do all of the
+[1252] manual analytics and segmenting myself
+[1255] inside of my account because the tools
+[1258] like analysis and true clicks can do
+[1260] that way faster and way better than you
+[1262] so they just tell you hey Bob if you're
+[1266] going to to to work on this account
+[1268] these are the problem areas that needs
+[1270] to be addressed right now so you do not
+[1273] have to find out yourself after an hour
+[1275] of segmenting out your your weekly
+[1278] performances on ad group level keyword
+[1280] level whatever yeah yeah and
+[1284] since there's you know not everything
+[1287] always goes as planned with
+[1290] experimentation with optimization is
+[1293] there any example that you can share
+[1294] from
+[1295] something that didn't go according to
+[1297] plan and what did you do to to change
+[1300] that to Pivot
+[1303] I think a raised example was within a an
+[1307] Ecom account that I had
+[1310] where we try to transition from a
+[1314] revenue-based row as bidding strategy to
+[1316] a profit-based rower strategy yeah so
+[1318] essentially from row as to POS if you
+[1320] would like to call it that way yeah and
+[1322] it completely backfired so during the
+[1324] transition phase we saw our volumes drop
+[1328] dramatically and we try to do our best
+[1331] to ramp up the volumes right after the
+[1334] transition but we really couldn't
+[1336] couldn't get the volumes On Target
+[1339] anymore at least on the targets that we
+[1341] were running prior to the transition so
+[1344] after two weeks we decided to revert
+[1348] back to the revenue based strategy and
+[1351] we decided to use the profit on ad spend
+[1354] metrics as a secondary well conversion
+[1357] just for insights to decide what kind of
+[1360] row as Target would be applicable for
+[1362] certain categories and certain campaigns
+[1364] so that completely backfired
+[1366] unfortunately yeah so I've had
+[1370] four transitions in the past and from
+[1374] the other three transitions it worked
+[1376] like a charm and of course we had like a
+[1379] dip when we transitioned from Rose to
+[1382] Boaz but then everything went went back
+[1385] to normal and we got traction again but
+[1387] for this specific case yeah it backfired
+[1389] and the client became a little bit
+[1391] anxious like yeah this is going this is
+[1394] going in there in the right direction or
+[1395] not should really referred I'm missing a
+[1397] lot of Revenue so yeah I agreed with him
+[1400] and I I said well let's go back yeah
+[1403] yeah yeah there you you see that it
+[1406] doesn't always go according to notebooks
+[1409] no no that's why you need to know what
+[1411] to do when it when hits the fan
+[1413] yeah
+[1415] yeah and sometimes it's just as simple
+[1417] as just reverting the the stuff you did
+[1420] yeah
+[1421] and do you how do you align your Google
+[1424] ads optimizations with your broader
+[1427] marketing or business objectives or of
+[1429] your clients and of course
+[1431] so I try to find a good balance between
+[1433] in-app optimizations because because
+[1436] well in the end of the day we are all
+[1438] Google ad Specialists so that's where
+[1440] we're good at but if I sense that my job
+[1444] is almost done inside of the app so
+[1449] inside of Google ads and the
+[1451] optimizations and the experiments left
+[1454] aren't really impactful anymore that's
+[1457] when I try to transition towards the
+[1459] more broader optimization and that's
+[1461] when I try to to incorporate a lot of
+[1464] let me page testing a lot of zero ideas
+[1467] a lot of AD testing ideas even crafting
+[1472] better offers for my clients so that's
+[1475] when I try to transition away from well
+[1477] the simple stuff or at least it's simple
+[1480] simple for us now but the general
+[1482] optimization checks that you tend to do
+[1484] as a Google specialist and that's
+[1486] something that you have to do from your
+[1488] gut feeling I think so sometimes you
+[1490] feel
+[1491] starting off with an account that
+[1493] everything is running
+[1495] streamlined like a well-oriented well
+[1498] oiled machine
+[1500] and if you have two or three secular

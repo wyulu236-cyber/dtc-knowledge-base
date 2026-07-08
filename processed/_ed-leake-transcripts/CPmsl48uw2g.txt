@@ -1,0 +1,428 @@
+[1] hi guys Ed leak here today we're going
+[3] to talk about quality score hacking for
+[5] Google
+[6] AdWords there'll be a quick overview of
+[9] what quality score is how it's
+[11] calculated and then more importantly how
+[13] to hack it to improve your quality score
+[16] to drive down your
+[18] costs okay a quick real quick overview
+[21] of quality score uh even though it's a
+[23] decade old I am not going to spend 10
+[25] years rattling through this because it's
+[26] quite straightforward so essentially
+[28] quality score is designed find for a
+[32] high quality user experience uh at the
+[35] end of the day people on on Google
+[37] searching for your services products
+[39] answers to their questions so on and so
+[41] forth they are Google's customers the
+[43] whole reasoning behind quality score for
+[46] Google is to to ensure that the the
+[49] search experience for their customers is
+[51] of a high high standard and quality
+[55] score is a grade of one through to 10
+[58] one being awful
+[60] um your ads will barely show and 10
+[62] being
+[63] perfect and your score is calculated
+[66] every time ads are shown you can only
+[70] see your quality score as of today you
+[73] can't see any historical quality score
+[75] uh account a quality score it's on a a
+[77] keyword basis so there is a tool out
+[80] there called um
+[82] Optimizer and that's with an my ZR
+[87] Optimizer tocom I'm not affiliated to
+[89] the them it is a paid tool but if you
+[92] want to capture and record your quality
+[95] scores over time that tool allows you to
+[98] do so it's quite interesting it does
+[100] other things as well told you it was a
+[103] brief overview right straight on to the
+[105] components of quality score what what is
+[107] quality score made up of the fact of the
+[110] matter is with quality score a bit like
+[112] the Colonel's chicken recipe Google
+[115] keeps the keeps the exact calculation
+[118] under close wraps it's ESS secret that
+[120] everyone has to understand and and
+[122] interpret but that being said
+[125] clickthrough rate is the single biggest
+[127] component of quality score it's
+[130] supposedly around 65% historically it
+[133] was perhaps higher some people think
+[135] it's in the region of sort of 80 90%
+[138] however as with Organic search Google's
+[140] algorithms have been Have Become even
+[143] more sophisticated so actually they
+[145] understand the on page experience way
+[147] more than they previously did but most
+[150] experts would suggest it's still around
+[152] about 65% which is 2/3 of the quality
+[155] score just for clickthrough rate alone
+[158] and the remaining portion is down to
+[160] relevance of your keyword to your ad uh
+[164] your account history so essentially the
+[167] expected click-through rate versus the
+[169] actual click-through rate and this is a
+[170] benchmark against your peers against
+[172] other people advertising uh and
+[174] historical averages so on and so forth
+[178] and as I just said quality of your
+[180] landing page is now important it's
+[182] perhaps 10% of the actual quality score
+[186] metric arguably more important for your
+[189] end user to be honest your customer but
+[191] it's still very important for Quality
+[192] score uh and that includes page speed
+[195] and lad times again that's something
+[197] that's been mentioned for years now by
+[198] Google they like mobile optimized we
+[200] appropriate they like fast loading pages
+[203] and they don't like spammy which is
+[205] kind of obvious when you think about it
+[207] and also add extensions it's best
+[211] practice now everyone should be using ad
+[213] extensions yes they'll boost your
+[215] click-through rate but if other people
+[216] are using them it's going to boost
+[218] theirs as well so that isn't a quick win
+[219] it used to be when they were first
+[221] released many years ago and people just
+[223] weren't using them uh and you could put
+[225] your call outs on your site links and
+[227] you would see a significant gain across
+[229] the board to be honest but it's it's
+[231] pretty much part of the course now if
+[233] you don't know what those are Google
+[235] them you should be using them uh they've
+[237] been around a long time now and they're
+[239] free to use they boost your
+[240] click-through rate you can't uh you
+[242] can't really lose with them uh and
+[244] finally you've got device and location
+[246] biasing to Quality score it's a Slither
+[249] of the of the metric but essentially
+[252] there is a mobile biased um measurement
+[256] and uh geographical as well so that's it
+[259] the components just remember 2/3 of
+[262] which or thereabouts depending on who
+[264] you ask is clickthrough rate that's
+[266] significant to
+[268] remember okay so if that's the case
+[270] what's a good clickthrough rate uh it's
+[273] not 2% you may have seen that number
+[275] banded around it's more like 5 to 6% uh
+[280] and that's the average remember so
+[282] clickthrough rate incredibly important
+[283] to Quality score you want to be aiming
+[285] for at least 5 or 6% but you want to be
+[288] much higher if
+[289] possible and of course it goes about
+[292] saying this will vary from industry to
+[294] Industry uh but still don't look at 2%
+[297] as a as a good or reasonable click rate
+[300] um and of course I'm talking about
+[302] search Network here not display which is
+[304] considerably
+[306] lower okay moving swiftly on not a
+[309] component of quality score but ad rank
+[311] is the final destination for your bids
+[314] multiplied by your quality score uh and
+[317] it's really simple The Advertiser with
+[319] the highest ad rank wins the
+[321] auction here's an example uh it's in
+[324] pounds British pound sterling but at the
+[326] end of the day you could uh replace the
+[329] pounds there for dollars Euros whatever
+[332] takes you fancy that's irrelevant the
+[334] currency is irrelevant here what is
+[336] relevant is the numbers so we've got
+[339] James Olivia Robert and Jason they're
+[341] they're in a four-way Battle of bids to
+[345] get the the top four spots in uh in the
+[348] search results the assumption is they're
+[350] all bidding on the same keyword here of
+[352] course so james' collee score is nine
+[356] versus Olivia at five so on and so forth
+[358] and you can see the ad rank is a
+[360] multiple of the bid so 150 * 9 is 13.5
+[364] as an ad rank Olivia 2 * 5 is 10 and
+[368] again so on and so forth and therefore
+[371] because of those ad ranks the positions
+[373] are thus and I've done it in order to
+[375] keep it really straightforward on the
+[376] screen but you can see that it's it's
+[378] quite a straightforward calculation but
+[380] you can also see why quality score is
+[383] such a critical thing to get on top of
+[386] and to
+[387] improve and then the vious question off
+[390] the back of that is what do you pay how
+[393] do you work out what you pay for your
+[396] position so again it's slightly more
+[399] cumbersome but it's ad rank below you
+[402] divided by your quality score equals the
+[404] price you pay the ad rank below your
+[407] position divided by your quality score
+[410] equals the price you pay so in this
+[412] example James divides Olivia's ad rank
+[417] of 10 by his quality score score of nine
+[421] which gives
+[423] 1.12 or thereabout Google adds a cent or
+[427] a penny onto uh each actual CPC price so
+[431] we've looked at the ab rank which is
+[433] driven by quality score times bid and
+[435] the price significance here because of
+[437] the quality score difference is very
+[440] tangible Jason in the fourth spot he
+[443] could be paying as much as 400% more
+[446] than James in the top spot three
+[448] position difference four times the price
+[450] because of quality score that should
+[452] have sold it to you if you weren't that
+[454] bothered about quality score before
+[456] hopefully you're now looking at that
+[457] thinking blim me yeah I need to go on
+[459] top of that so let's bust a few myths
+[462] real quickly just to dispel any uh
+[465] untruths about quality score yeah
+[468] quality score benefiting from higher
+[470] positions uh nonsense that's wrong uh
+[473] Google factors that in it understands
+[475] that if you're higher up the page you're
+[477] going to get a higher clickthrough rate
+[478] so don't be con into thinking you can
+[480] just bid more and and get a higher
+[482] quality score as a result a higher
+[484] quality score equates to more sales
+[487] apparently no it doesn't what it equates
+[490] to is it improves your CPA because you
+[494] pay less for your bids but that's not
+[496] more sales that's paying less for sales
+[498] and there's a significant difference
+[500] there it's a good thing but it's not the
+[503] same thing and the display network does
+[506] not affect the search Network they both
+[508] have separate quality scores next myth
+[511] increasing your bid boosts your quality
+[514] score that's another lie bid is not part
+[517] of the quality score calculation as you
+[519] saw before it's part of AD rank in that
+[522] your quality score is times your bid to
+[525] achieve your ad rank but your bid is not
+[527] part of quality
+[529] score and another myth it's kind of a
+[533] myth kind of true uh deleting low
+[536] quality score areas of the account will
+[538] increase your quality score for uh yes
+[541] and no immediately no it won't because
+[544] Google takes into account historical uh
+[546] data on your account as I've put there
+[549] time is a great healer but don't think
+[551] that you can delete 90% of your account
+[552] cuz it's crap and have a a boosting
+[555] quality score the very next day doesn't
+[556] work like that I'm
+[557] afraid okay what's a good quality score
+[561] one through three bottom of the stack
+[563] junk uh the Google Benchmark for the
+[566] average is around about the five Mark uh
+[570] so therefore good is above average 7 to
+[572] eight uh 9 to 10 pretty darn perfect to
+[576] be honest with you okay first hack on
+[579] the list is to focus um this is really
+[582] straightforward less of a hack more of a
+[585] an account optimization understanding if
+[587] you actually look at your account from a
+[590] keyword level you'll find typically that
+[592] sort of five to 10% of your keywords are
+[595] spending all your money and the vast
+[597] majority aren't uh and there for it's a
+[599] case of you want to optimize and pay
+[602] attention to and focus on this top
+[605] percentile uh cuz that's where you're
+[607] going to going to get all your
+[608] performance
+[609] games HCK number two is to sharpen your
+[612] tool quick rule of thumb here is as I
+[616] briefed over on the quality score scale
+[620] one to three crap delete them it's not
+[624] to say you can't reuse them but for now
+[626] delete them 4 to six they're average
+[629] this is where you should optimize first
+[631] so I'm going to run through a few
+[632] tactics to do so but yeah focus on your
+[635] range of four to six cuz that's where
+[636] you can make the biggest impact 7 to8 to
+[639] be honest that's pretty okay it's above
+[642] average until you fixed every single
+[644] sort of average quality score issue that
+[647] you've got in the 4 to six range I I
+[649] would leave 7 to8 alone 9 to8 well just
+[652] leave them don't fix what ain't broke to
+[656] get yourself from an average of five
+[658] just make sure you take out your your
+[661] lower click-through rate keywords in in
+[663] ad groups and put them in their own
+[665] thematically uh linked ad group you know
+[669] don't stuff your ad group's fly keywords
+[672] keep them tight and uh look to improve
+[675] click through rate and therefore quality
+[677] score going forwards because that in
+[679] turn will allow you to um be confident
+[681] that you can bid up the newly optimize
+[683] nearly thinned out ad
+[685] groups so hack three is branching out
+[689] single keyword ad groups exactly as it
+[692] says on the tin this is one keyword in
+[695] an ad group with a highly targeted
+[697] advert and text and of course a landing
+[701] page to suit don't rush off and uh
+[704] create a million single keyword ad
+[707] groups and then send them all to the
+[708] same landing page cuz you're kind of
+[711] defeating the point here you want to
+[713] find your really really high performing
+[715] keywords that convert uh that are mixed
+[718] up with other other keywords in other AD
+[720] groups and strip them out and give them
+[721] their own uh essentially their own
+[723] budget and their own air to breathe and
+[725] this in turn will increase click through
+[727] it will in increase quality score so if
+[730] these keywords are performing now they
+[732] can get
+[733] better hack four is the easy swing
+[736] branded keyword uh this is something I
+[738] don't see a lot of people doing and it
+[740] surprises me really surprises me in fact
+[743] we we worked with quite a large retailer
+[746] uh running up to Christmas last year and
+[749] big enough that a lot of their products
+[751] people will search for the term plus
+[754] their brand or Brand Plus the search
+[756] term so by incorporating their brand
+[759] name and variance of into uh ad groups
+[763] we significantly increase the
+[765] clickthrough rate I mean significantly
+[768] and that in turn had a an impact a
+[770] positive impact of course on quality
+[773] score hack five spruce up essentially
+[777] what this is is using a very simple uh
+[780] methodology to understand which your
+[782] best advert so it's really simple you
+[785] take your click-through rate which
+[786] Google cares about and quality score
+[788] cares about uh and times it by your
+[790] conversion rate which you care about so
+[794] if you had three ads in an ad group
+[796] you'd literally take the clickthrough
+[797] rate times conversion rate it give you a
+[800] score and that would tell you from a
+[802] balance perspective which ad is is is
+[804] working this is a really quick simple
+[807] scoring method for your adverts Google
+[809] has just recently introduced ad split
+[812] testing which helps things so use it in
+[814] tandem with uh split
+[816] testing hack six is the lazy swing I was
+[820] a little bit reluctant to put this one
+[822] in but I'll be honest with you if You'
+[823] got a big account it's um it's a quick
+[826] fix it's a quick win so DKI Dynamic
+[830] keyword insertion is uh a sliver of code
+[834] well adword code you put in your ad
+[836] headline or description most people use
+[838] it in the the headline
+[839] which inserts where there's appropriate
+[841] space inserts the users search term into
+[844] your ad and of course that increases the
+[846] relevance and gives your clickthrough
+[849] rate a boost quick word of caution
+[851] though I wouldn't use this as a lasting
+[855] tactic uh I would use it on a large
+[857] account where you've got a lot of
+[858] underperforming keywords to bring them
+[860] up to speed uh and then go back to them
+[862] and rewrite adds in in
+[864] time and hack number seven is to Blossom
+[867] with remarketing lists for search ads
+[870] rlsa hopefully you've heard of
+[872] remarketing rlsa is essentially search
+[875] remarketing so people that have
+[876] previously clicked on your ad and
+[879] visited your website when they search
+[881] again for the term your ad will come up
+[883] again but this gives you the option to
+[886] bid it up uh and also gives you a few
+[888] other options beyond that so that you
+[890] can appear again for that for that
+[892] search the reason you want to do that of
+[895] course is because people don't instantly
+[897] buy typically and and if they're
+[899] shopping around and they've been to your
+[901] website once you may want them to come
+[903] back and if you're doing your job right
+[905] they may well buy from you and this
+[906] essentially increases the odds of of
+[908] them doing so the beauty of which you
+[910] get a higher click-through rate because
+[911] of familiarity so they've already
+[913] searched they've already seen you
+[914] they've already visited your website and
+[916] they are more likely therefore to click
+[919] on your ad again this boosts your
+[920] click-through rate and with clickthrough
+[922] rate being 2/3 of the quality score or
+[924] thereabouts it boosts your quality score
+[927] so it's good for business
+[930] right so we've run through quality score
+[931] what it is how it works how the auction
+[934] Works uh some myths and seven hacks that
+[937] you can employ as of today to to boost
+[940] your quality score reduce your costs but
+[943] I don't want to get too trans fixed on
+[944] quality score yes it's really critical
+[947] however quality score impacts your ad
+[950] rank your ad rank impacts your cost per
+[954] click but crucially your cost per click
+[957] is what impacts your cost per
+[960] acquisition and at the end of the day
+[962] your cost per acquisition always wins
+[966] yes we should care about quality score
+[968] but ultimately regardless of what anyone
+[971] says CPA wins and ultimately is what
+[975] makes your business either work with
+[977] AdWords or not and finally to to
+[981] simplify all of this relevancy that's
+[984] what Google wants so they want the
+[986] search term to be relevant to the ad to
+[988] the last landing page and therefore
+[990] height and clickthrough rates so they
+[992] get paid height and click-through rates
+[994] so you get rewarded with quality score
+[996] boosts and therefore improved ad Rank
+[999] and therefore a lower
+[1001] CPC however from a non-algorithmic non
+[1005] bot computer perspective continuity is
+[1011] key continuity essentially means that
+[1014] this the person that's looking for your
+[1016] thing your product your service whatever
+[1018] it may be
+[1019] when they search they read your ad and
+[1021] they land on your page that you are
+[1024] providing a a seamless experience for
+[1026] them so they're getting what they want
+[1027] if you fail to do that you will lose
+[1029] money you'll waste
+[1031] money final pun of the day don't be
+[1034] stumped you join my Facebook page and
+[1036] ask questions on the uh video I'll
+[1039] happily answer them or post a comment in
+[1041] the in the comment section below the
+[1043] video thanks for taking time to watch
+[1045] the the video hope you found it useful
+[1047] and I'll see you again and hopefully
+[1049] next week cheers

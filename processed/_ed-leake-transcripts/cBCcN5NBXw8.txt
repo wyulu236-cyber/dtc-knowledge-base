@@ -1,0 +1,238 @@
+[0] if you're using AdWords then keep
+[2] watching because I'm going to show you
+[3] how to perform a quick health check to
+[5] find wasted spend in your account hi
+[8] guys I'm Ed leak owner of midus media
+[10] and we're a Google partner agency
+[12] managing over 1 and a half million in
+[13] AdWords spend each month before we dive
+[16] in just a few sort of caveats um first
+[20] and most critically don't ever do an
+[22] audit don't ever do a a review of an
+[24] account after you've made loads of
+[25] changes so if you're working on this
+[28] with multiple people or you've just
+[30] inherited an account be sure to check uh
+[32] the change history first I'm also
+[34] assuming that you're you're tracking
+[36] your conversions cuz why wouldn't you
+[39] and that you know your kpis I.E you're
+[41] optimizing your account to CPA cost per
+[44] acquisition be it a lead or a sale or
+[46] your tracking spend versus Revenue if
+[49] you're e-commerce for example and that
+[51] you don't just want to send traffic to
+[53] your website because that's burning
+[56] money a couple of rules of thumb here so
+[59] time frame if you're working on an
+[61] account month to month so 30 days is
+[63] obviously acceptable but if you're doing
+[65] a an audit I'd recommend going back sort
+[68] of 90 days the past quarter you can even
+[70] do a whole year it does depend on your
+[72] market so use a bit of Common Sense bit
+[75] of logic goes into that but yeah be
+[76] careful of 30 days okay first on the
+[79] checklist is your campaign settings I
+[82] know it sounds obvious but do check that
+[83] your location targeting is correct so in
+[86] the example here we're targeting London
+[88] England UK uh the greater London area
+[92] more importantly when you're targeting
+[94] locations of this nature so a specific
+[96] region a postcode ZIP code or County and
+[99] so on and so forth look at your location
+[102] options Advanced you do not want to be
+[104] targeting people in searching for who or
+[107] who have shown an interest in your
+[109] Target location which is actually the
+[111] recommended Google setting try it and
+[114] you'll see that you get a lot of noise
+[117] people from random countries all sorts
+[119] of crap you want to be targeting people
+[121] in my targeted location which is the
+[124] second of the three options that will
+[126] cut out a load of noise and a load of
+[128] wasted Impressions and potentially
+[130] wasted clicks as well uh next on the
+[132] list is AD delivery ad rotation and
+[135] frequency capping so you want to set
+[137] your ad rotation to rotate indefinitely
+[140] this stops Google skewing the data when
+[143] you're testing your ad copy it also
+[146] bypasses the the fact that Google wants
+[148] to optimize for clicks which spends
+[150] money and that's not really what you
+[152] want to do next on the health check is
+[156] Google search Partners most will have
+[158] this enabled because it's enabled by
+[160] default so the quickest way to see the
+[163] performance here is to go to all
+[165] campaigns and then segment network with
+[168] search
+[170] Partners rattle through to the bottom
+[172] and you will see the expand button next
+[174] to Total search and you'll have Google
+[177] search versus search Partners so what
+[179] you you're looking at here for example
+[180] in this account is the cost uh per
+[183] acquisition the cost converted click
+[185] metric and we can see that actually
+[187] search Partners is more expensive
+[190] however be really careful particularly
+[192] if you're looking at a longer uh time
+[195] period you're you're looking at the
+[197] total here not campaign to campaign so
+[200] do go back up and check if you you know
+[202] if you see an anomaly there if it's
+[204] within Reasonable Doubt you know your
+[206] your cost per acquisition or your cost
+[208] to convert whatever it may B uh search
+[211] partner versus Google search is within a
+[213] few percent of each other 5% I'd say
+[216] stick with it if you see that there's
+[218] quite a disparity there and that search
+[220] partners are costing you a lot more
+[222] money before you just disable it jump
+[224] back up to each individual campaign and
+[228] look at them look at them on a caseby
+[230] casee basis start with your you you know
+[233] your biggest spending campaign first cuz
+[234] that's where you're going to make all
+[236] the difference is it working if it's not
+[239] turn it on off it's really that simple
+[242] now moving on to keywords so this is a
+[244] really quick and simple view to take but
+[246] click on your keywords sort them by cost
+[249] make sure you've got your cost per uh
+[252] conversion column and your search
+[253] impression CH column
+[255] enabled and then you can literally see
+[258] which keywords are costing you money are
+[260] they performing I.E their cost per
+[262] conversion and in respect of that are
+[264] they getting sufficient impression share
+[267] so long as that their their CPA their
+[269] cost per sale per lead per acquisition
+[271] is under your target uh and this account
+[274] is Believe It or Not
+[276] £500 uh because their their leads are
+[278] worth a lot of money so all these
+[280] keywords are falling under that then
+[282] that means that if your search
+[284] impression share is low I.E less than 95
+[287] 97% you've got room to bump the budget
+[290] up and get more leads and get more
+[292] conversions which is good
+[293] news all the keywords on screen here
+[296] could actually have their budget boosted
+[298] which is great news in fact one of them
+[300] is only getting 63% impression share so
+[304] there's another third and a bit of
+[306] budget to go into this one because it's
+[308] it CPA is actually quite low in
+[310] comparison as well so that's a really
+[312] quick view to understanding how your
+[314] keywords are are performing versus your
+[317] budget versus versus
+[319] conversions next look at your ad groups
+[322] in your highest spending campaign the
+[324] whole point uh of AD groups are they're
+[326] containers for related keyword so take
+[329] look out for for ad groups that got more
+[330] than 20 keywords as a rule of thumb
+[332] because it's highly likely that they
+[334] aren't closely related and closely or
+[337] thematically linked together and that's
+[339] what you want to achieve you want to
+[340] achieve maybe a you know smaller ad
+[342] groups that are very tightly matched so
+[345] you can tailor the the ad very
+[347] specifically to the keywords in that
+[349] group which will bump up your
+[350] click-through rate should increase your
+[352] quality score as a result and as long as
+[354] the landing page is appropriate will
+[356] increase your conversion rate and lower
+[358] your cost per acquisition so split out
+[361] any of your larger ad groups into much
+[363] smaller targeted
+[365] groups and then whilst we're on the
+[367] subjective ad groups take a look at your
+[368] ads you want every single ad group to
+[370] have two active ads per group not three
+[373] not one uh if you've got one you're not
+[376] testing so you can't split test one
+[378] versus the other and if you've got three
+[380] or more then your tests are going to
+[382] take much longer to to do and I know
+[384] what you're thinking Ed how do I test
+[387] ads it's a pain in the backside well
+[389] there's a really simple equation um
+[392] makes it even simpler if you've got two
+[393] ads in your ad group you literally take
+[395] your clickthrough rate and you'll
+[397] conversion rate and you times them
+[398] together it gives you a number and then
+[401] that number the highest number wins
+[403] essentially so they add after that
+[404] equation highest number wins next on the
+[407] list is ADD extensions these can be set
+[410] at the campaign level uh which is the
+[412] lazy option or you can set these at ad
+[414] group level so you can tailor them more
+[415] specifically per ad group and uh you
+[419] know per campaign if you so wish the two
+[422] bare minimum that I would use is call
+[424] out extensions and site links call out
+[426] extensions are three pieces of
+[428] descriptive text that go under the ad
+[430] extend the ad to make it larger and site
+[433] links are as they sound they are
+[436] literally links through to your website
+[437] so tailor those links to supporting
+[440] products and Pages or or services that
+[443] uh suit your ad introducing ad
+[445] extensions typically boosts your
+[447] click-through rate that has a a small
+[449] impact positively on your quality score
+[453] and so long as you tightly group your
+[455] keywords in your ad groups you're going
+[456] to drive up your click-through rate and
+[459] hopefully you're going to drive down
+[460] your cost per
+[462] acquisition and finally device
+[464] performance so jump back to your all
+[467] campaigns view or pick out your your top
+[469] spending campaign uh click on segment
+[472] and then go by device and what this will
+[475] show is the all the metrics for
+[478] computers are desktop computers versus
+[481] um mobile devices now currently tablets
+[484] is listed but unfortunately God Knows
+[486] Why Google doesn't offer any kind of uh
+[489] bidding options on tablets so we we
+[491] essentially have to ignore them um which
+[493] is just weird but yeah anyway so this is
+[497] really straightforward you simply look
+[499] at your you know your average position
+[502] your cost per clicks your click-through
+[504] rates um more importantly you know your
+[506] cost per acquisition um and you can bid
+[509] up and bid down your desktop and your
+[511] mobile devices typically I would use
+[513] desktop as The Benchmark and then look
+[516] at your mobile is it costing less or
+[518] more and tweak it and this is
+[519] interesting as well because it will
+[521] highlight some significant mobile
+[523] browsing issues if if you've got uh you
+[526] know if these numbers look pretty ugly
+[528] then you need to address issues with
+[529] your mobile view of your website so
+[533] that's it a really quick check of your
+[535] AdWords account so I'd appreciate any
+[537] likes if you found the video useful
+[538] click the button below thank you very
+[540] much uh until next time I will see you
+[543] then cheers

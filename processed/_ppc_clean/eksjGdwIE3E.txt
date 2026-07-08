@@ -1,0 +1,453 @@
+[0] this is what we've been speculating on
+[3] for years and and even when I was still
+[5] working at an agency four years ago I
+[8] remember
+[9] one of my mentors he he said one day
+[13] it's just going to be
+[14] you just with the Google ads you just
+[16] enter your your landing page you throw
+[18] in a coin and you say okay this is what
+[20] I want to achieve and then you connect
+[23] your credit card and boom Google does
+[25] the rest and we were all laughing about
+[26] it yeah that's the future
+[28] and it kind of is what it is we're kind
+[31] of at that stage now where you just add
+[32] your url let's see you you say something
+[35] about your products and your services
+[37] and and then some additional information
+[40] and then Google is going to give you the
+[42] outline for your campaign
+[46] welcome back to the PPC Mastery podcast
+[49] smiles here with another solo episode
+[51] and in this episode I'm actually going
+[54] to touch on 12 new performance Max
+[57] updates that Google announced somewhere
+[60] around June July and they're actually
+[63] rolling them out now in Q3 Q4 so in this
+[66] episode I just wanted to take you
+[68] through these 12 uh upcoming pmax
+[71] updates
+[72] and I've already seen that Google has
+[75] rolled some of them out in some of my
+[77] accounts so as I go through them I will
+[79] just tell you okay this is still to be
+[82] rolled out soon or this is being rolled
+[83] out now or has been rolled out
+[86] um and I think these updates are a
+[88] really nice Google announced them at
+[90] performance performance Max conference
+[92] in Dublin which was a live event but I
+[94] watched the live stream
+[96] I think it was around two and a half
+[98] hours and they just
+[100] dumped all the most important upcoming
+[102] updates which is which is great to see
+[104] and it really feels like performance Max
+[107] is becoming more of the product that we
+[109] wanted it to be from the beginning and
+[111] if I look back now then I definitely see
+[114] that performance Max was or at least
+[116] felt like an unfinished product but now
+[119] with all of the recent changes that
+[121] Google is launching it feels like it's
+[123] becoming much more usable and we get a
+[126] bit more control a bit more insights and
+[128] yeah let's just let's just run through
+[130] so you can definitely see that Google is
+[132] doubling down on AI throughout all of
+[135] their campaign types but especially
+[136] performance Max bmax campaigns are
+[139] totally heavily built on on AI so to me
+[142] that doesn't really come to come as a
+[144] surprise that they are talking more
+[146] about AI but they're also embedding new
+[150] prompt-based AI tools like
+[152] which could work similarly to chatgpt
+[155] they are going to embed that inside of
+[157] Google ads which I will be talking about
+[159] in a second
+[161] now in Google's propaganda language they
+[165] say these are the benefits of using Ai
+[166] and advertising so they started off
+[169] their session with the yeah I think they
+[172] kind of felt the need to Showcase why AI
+[175] is actually a good thing not a bad thing
+[177] so this is from their mouth not mine
+[180] simplifying complexity for people
+[182] businesses and marketers with AI or
+[184] marketing is Multiplied and AI can help
+[187] boost productivity and these three
+[189] things is how they sort of bucketed the
+[192] the updates so they want to make it
+[194] easier simplifying complexity they want
+[196] to make it easier for people to find the
+[198] information that they're looking for so
+[200] the people that are actually searching
+[202] on Google or on YouTube Etc
+[204] but they also want to simplify the setup
+[207] for businesses and marketers and as you
+[210] probably know launching performance Max
+[211] campaigns is super easy but it's
+[214] actually much harder to optimize if you
+[216] don't know what you're doing with AI
+[218] your marketing is Multiplied so that in
+[220] what they mean with that it's just that
+[222] it's constantly working for you and ai
+[224] ai can help boost productivity which I
+[228] will jump on in a second but to them
+[230] that means that they want to make it
+[231] easier to set up campaigns and and
+[233] streamline the campaign setup process to
+[237] make it easier with embedded AI inside
+[238] of Google ads so
+[241] here are the 12 updates in three
+[244] categories the first one is controls to
+[246] guide AI the second one is ease of use
+[249] and workflows and the third one is
+[251] proving value and insights that's how
+[253] Google has categorized these updates
+[256] so the first one controls to guide AI
+[258] new inputs to steer performance Max
+[260] campaigns towards business outcomes
+[262] first update is Page feeds and this is a
+[266] the one that I'm most excited about and
+[269] I'm actually testing this now in an
+[270] account I have it has been rolled out to
+[273] one of my accounts and with page feeds
+[275] you can get a bit more control over the
+[278] DSA Dynamic search as functionality of
+[281] performance Max so
+[283] if you if you use the final URL
+[286] expansion feature then pmax can also
+[289] take other landing pages to Target your
+[292] your ads to when it comes to the search
+[295] Network just like how it would work with
+[297] DSA but the only problem with that that
+[300] I always had is that pmax can take any
+[303] landing page
+[305] from your website and if you use page
+[308] feeds then you can set up a feed with
+[311] different URLs landing pages and then
+[313] you can say I only want to Target these
+[316] pages in my page feed the landing pages
+[318] in my page feed
+[319] if final URL expansion is still on then
+[323] in Google can also still Target any
+[327] other landing page so you need to turn
+[329] that off and then it can only take page
+[332] landing pages from your page feed which
+[335] you can actually
+[336] configure on the asset group level which
+[338] is which is really neat so I think
+[342] I think that page feeds are going to
+[344] give us back a lot of control and it's
+[346] going to be more fun to test yeah in in
+[349] performance Max
+[351] so the second one re-engagement goals
+[353] and and actually that's a third one as
+[355] well new customer life cycle goals these
+[358] are similar to how new customer
+[360] acquisition goals work the only
+[362] difference is they may not or yeah they
+[367] have specific pockets of customers that
+[369] they go after so with re-engagement
+[372] goals
+[373] you let the algorithm optimize for
+[375] disengaged customers so this is a
+[377] particularly nice for brands that want
+[379] to focus on retention and re-engage old
+[383] customers you with re-engagement goals
+[386] you use first party data so customer
+[388] lists to predict and steer on labs to
+[391] user so
+[392] customers that were customers like let's
+[394] say six months ago and therefore it is
+[397] really crucial that you have solid high
+[400] value first party data that's just
+[402] that's just why what it runs on
+[404] basically so re-engagement goals
+[407] are really good for retention and and
+[410] reactivating lapsed users or
+[413] reactivating old customers
+[415] now the next one is new customer
+[418] lifecycle goals and with new customer
+[419] lifecycle goals you can get you can let
+[422] smart bidding optimize for high value
+[424] customers instead of just any
+[427] existing or new customer and
+[430] we'll see how this plays out I'm not a
+[434] particularly a fan of using new customer
+[437] acquisition goals or this kind of new
+[439] customer lifecycle goals you really need
+[441] to set it up and configure it really
+[443] well in order to let smart bidding
+[446] optimize for these pockets of clients
+[448] that you want and you need to always
+[450] analyze this against overall data from a
+[454] third-party attribution tool for example
+[457] because from my experience what happens
+[459] with for example new customer
+[460] acquisition goals is that the data in
+[463] Google ads is just going to get inflated
+[465] so I'm curious how to see how this plays
+[468] out I like that Google is launching
+[470] something like this like that that
+[472] allows you to focus on more of the high
+[476] value customers with potentially High
+[477] lifetime value but we'll see
+[481] all right the next one account level
+[483] negatives I think this was already
+[485] rolled out a while ago in a lot of
+[488] accounts but seems like they wanted to
+[490] emphasize this and it's getting rolled
+[492] out so account level negatives to
+[494] exclude Search terms across all of your
+[495] campaigns but I already had it in some
+[497] accounts so I don't really think this is
+[499] too new
+[500] next one campaign level brand exclusions
+[502] with this feature you can exclude
+[504] branded Search terms from pmax campaigns
+[507] and this excludes them from search and
+[509] shopping placements so I like this
+[512] because if you've been following me for
+[514] a while you know that I've
+[517] had my issues with bmax because it loves
+[520] to take credit for any convergence
+[521] including branded conversions which
+[523] heavily inflates the data and up until
+[526] now I've always used the negative
+[528] keyword list work around where you just
+[530] create a negative keyword list then you
+[532] ask support to add it to your campaign
+[534] and then you can add your negative
+[535] keywords whether it's branded or any
+[538] other one so that negative keyword list
+[540] that is connected to your pmax campaign
+[541] now with with brand exclusions there's a
+[545] sort of a predefined brand list and if
+[547] you're a brand name if there's not a
+[550] list with your brand name yet you can
+[552] apply for Google to create it and then
+[554] it excludes from certain shopping
+[556] placements I've seen some people
+[558] complain about that it doesn't exclude
+[560] misspellings but in theory it should do
+[562] that so keep an eye on it when you when
+[564] you use it
+[566] the next one and that's the last one in
+[568] this first category of controls to guide
+[570] AI is smart bidding optimized for
+[573] in-store sales so I can keep this one
+[575] short this is great if you want to focus
+[577] on physical stores they want to
+[579] stimulate football in your physical
+[582] stores
+[584] okay so the second category is ease of
+[587] use and workflows the goal of these
+[589] updates according to Google
+[591] improving the campaign construction
+[593] workflow to support optimal setup okay
+[596] that's a that's Google's words but in
+[599] other words Google wants to make it even
+[601] easier to create campaigns by embedding
+[603] Ai and recommendations in the setup
+[605] process
+[607] recommendations in the setup process
+[609] we'll see how that goes okay update
+[611] seven create assets with generative AI
+[613] tools yeah this is really this has gone
+[615] really nice so
+[617] inside of Google ads inside the
+[619] interface it's going to be easier to
+[622] create and edit assets images videos Etc
+[625] based on AI so I'm curious to see how
+[628] this goes the example that Google showed
+[630] looked really solid but what we'll have
+[633] to see but it is promising and I think
+[635] this is going to make it a lot easier
+[637] for
+[638] Brands and advertisers to create images
+[641] and also alter images in in something
+[643] like product Studio
+[645] so number eight integrated
+[647] recommendations during campaign setup
+[649] yeah again Google wants to make it
+[651] easier for you to launch and set up your
+[654] campaigns especially for smaller
+[655] advertisers smaller companies
+[659] now
+[660] here's the thing you just enter your URL
+[663] and some basic information about your
+[665] products or brand and Google then
+[666] creates a complete campaign outline so I
+[670] haven't seen this yet in Google ads I
+[672] think they are rolling it out in Q4 but
+[674] I already see a ton of red flags like
+[676] recommendations and I I this is what
+[680] we've been speculating on for years and
+[683] and when even when I was still working
+[685] at an agency four years ago I remember
+[689] one of my mentors he he said one day
+[692] it's just going to be
+[693] you just with the Google ads you just
+[696] enter your your landing page you throw
+[698] in a coin and you say okay this is what
+[700] I want to achieve and then you connect
+[702] your credit card and boom Google does
+[704] the rest and we were all laughing about
+[705] it yeah that's the future
+[708] and it kind of is what it is we're kind
+[710] of at that stage now where you just add
+[712] your url let's see you you say something
+[715] about your products and your services
+[717] and and then some additional information
+[719] and then Google is going to give you the
+[721] outline for your Campaign which is good
+[723] to potentially to good to start with but
+[726] you still need to do
+[728] solid keyword research add good assets
+[731] make sure that the campaign structure is
+[732] good landing pages are good Etc so I
+[735] think
+[736] smaller businesses that are going to set
+[739] up their own Google ads are going to be
+[741] surprised by how easy it is to set it up
+[743] but then they will find out like okay I
+[745] have no idea if this is any good I have
+[747] no idea what to do now how to optimize
+[749] and that's when we Google ad Specialists
+[751] still have have a time and place to to
+[753] come in
+[755] Okay the third one the third category is
+[758] proving value and insights so the goal
+[760] of these insights are these updates
+[762] according to google provide tools to
+[765] quantify the value of pmax and offer
+[767] insights on what's driving performance
+[769] in other words Google wants to help you
+[771] prove the value of pmax with new
+[774] features so you can allocate more spend
+[776] to it most likely update number nine
+[778] performance Max experiments so I love
+[782] this because we can finally a B test
+[784] pmax campaigns and I I I have
+[787] experiments in my in my accounts but
+[790] only the older ones where you can test
+[792] standard shopping versus pmax or test
+[794] the uplift of performance Max
+[796] but soon
+[797] we will be able to a B test two
+[801] different pmax campaigns against each
+[802] other and that allows us to test
+[804] different bit strategies placements
+[806] different assets
+[808] use finding URL expense and yes or no
+[810] use page feeds yes or no it's going to
+[813] be really nice to to a B test these um
+[815] yeah pmax campaigns and I'm super super
+[819] excited for this
+[820] okay the next one number 10 better
+[822] search term insights I think this is
+[825] rolled out now by now to all accounts
+[827] and I love this or at least all not all
+[829] accounts actually one of my accounts
+[831] doesn't have it yet another the rest
+[833] does with
+[835] these new insights you can add custom
+[838] date ranges you can export more data
+[841] before it was only the last seven and
+[843] last 28 days but now you can do entire
+[846] date ranges and Search terms have been
+[848] able to access through the API and
+[850] people have built scripts to yeah export
+[852] those into spreadsheets Etc
+[854] and yeah I love this I love this update
+[856] it feels like
+[859] something basic like Search terms and
+[861] we're really happy with this now but
+[863] yeah let's let's just say let's not be
+[865] greedy I'm happy with this update but I
+[868] still again I have a question like why
+[870] wasn't this rolled out earlier but
+[872] anyway we have it now more search term
+[874] insights which I'm happy about for sure
+[877] okay so the last two number eleven
+[879] conversion lift studies with conversion
+[882] lift studies Google helps you understand
+[884] how many conversions of your pmax
+[886] campaigns were incremental so this is
+[889] something that they have available for
+[891] for example demand gen YouTube campaigns
+[894] and now with conversion live studies
+[897] Google also wants to prove what the
+[899] uplift is of using performance Max so
+[901] let's see how this goes I haven't seen
+[903] it yet I haven't tested it yet but I
+[905] have used conversion live studies in
+[907] YouTube and that works pretty well but
+[910] you should always compare your data
+[912] against your third-party attribution
+[914] just saying
+[915] okay and the last one number 12 update
+[918] number 12 improve merchant center
+[920] integration inside of Google ads
+[922] so with this I think this is nice Google
+[925] is
+[926] making a a bridge between Google
+[929] merchant center and Google ads and now
+[931] it's it's easier to see product issues
+[934] like for example if a product is
+[936] disapproved you will see that in Google
+[937] ads if it's not in a campaign different
+[940] Diagnostics stock issues all that stuff
+[942] that you generally see in merchant
+[944] center will now also be embedded inside
+[946] of Google ads which is which is great
+[949] so
+[950] those are the 12 updates let me just
+[953] name them from the top once again page
+[955] feeds re-engagement goals new customer
+[957] lifecycle goals account level negative
+[959] keywords campaign level brand exclusion
+[962] smart bidding Force in-store sales
+[965] create assets with generative AI
+[967] integrated recommendations during
+[969] campaign setup BMX experiments better
+[971] search some insights conversion if
+[973] studies improved integration of GMC in
+[976] Google ads so that's it guys my final
+[979] word don't test everything all at once
+[981] just check what's available in your
+[983] account and then get curious definitely
+[985] start testing the first thing that I
+[987] already tested as soon as it was was
+[989] available in my accounts was page feeds
+[991] but I'm also excited for the rest brand
+[993] exclusions I've also tested that let me
+[995] just go through the list and see what
+[996] I've already done account level negative
+[999] keywords I'm not too excited about
+[1000] campaign level branding Solutions yes
+[1002] page feeds yes I'm excited for the new
+[1005] generative AI tools to see how that
+[1007] works could go a lot of ways could be
+[1009] really bad really trashy but it could
+[1012] also be be really good and promising I'm
+[1014] excited for Google product Studio which
+[1016] hopefully I will get access to soon as
+[1018] well yeah that's it guys so hopefully
+[1022] this update helps you and and gets you a
+[1024] bit more excited for what's to come with
+[1026] pmax and if you have a question for me
+[1029] to answer during this podcast then
+[1031] please go to bbcmastery.com podcast and
+[1034] I will see if I can answer some of your
+[1036] questions in upcoming episodes so thank
+[1038] you for listening watching if you're on
+[1040] YouTube don't forget to like And
+[1042] subscribe and share and all that good
+[1043] stuff and I'll see you in the next one
+[1045] peace
+[1048] [Music]

@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Node (answer-server)
+node_modules/
+.env
+.env.local
+npm-debug.log*
+
+# 中间产物 (可重跑,不入 repo)
+# 注: raw/*.vtt 保留在 repo,方便本地 clone 后重跑 03 (10 博主 × 20 视频 ≈ 10MB,可接受)
+meta/*/_raw_dump.jsonl
+meta/*/_dump_err.log
+meta/*/*.new.json
+processed/*.new.json
+site/gracexiaoe/assets/*.new.json
+
+# 编辑器
+.vscode/
+.idea/
+*.swp

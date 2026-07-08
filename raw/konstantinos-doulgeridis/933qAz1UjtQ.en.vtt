@@ -1,0 +1,1562 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.373 --> 00:00:01.639
+Hello Facebook Ads people!
+
+00:00:01.639 --> 00:00:02.430
+I'm Konstantinos.
+
+00:00:02.440 --> 00:00:04.129
+And today we are going to talk about 
+
+00:00:04.129 --> 00:00:06.552
+the new iOS 14.5 changes.
+
+00:00:26.471 --> 00:00:27.270
+You have read it.
+
+00:00:27.280 --> 00:00:28.620
+Everybody talks about it.
+
+00:00:28.650 --> 00:00:30.519
+The new iOS update is here 
+
+00:00:30.519 --> 00:00:32.389
+and it has backed in the Facebook platform
+
+00:00:32.389 --> 00:00:34.710
+and the way that we are doing ads so much.
+
+00:00:34.960 --> 00:00:36.805
+Basically, nothing is the same!
+
+00:00:37.153 --> 00:00:38.942
+If you haven't advertised this year at all
+
+00:00:38.942 --> 00:00:40.334
+on the Facebook platform,
+
+00:00:40.625 --> 00:00:42.178
+WELCOME TO HELL!
+
+00:00:43.676 --> 00:00:44.900
+The big question is 
+
+00:00:44.900 --> 00:00:46.138
+what has happened.
+
+00:00:46.389 --> 00:00:48.278
+Well, there is a new trend on the market 
+
+00:00:48.278 --> 00:00:49.880
+which is all about the protection
+
+00:00:49.880 --> 00:00:51.447
+of Internet users personal data.
+
+00:00:51.770 --> 00:00:54.221
+Apple wants to be the first major player
+
+00:00:54.221 --> 00:00:56.312
+that will tap into this new rising market of
+
+00:00:56.312 --> 00:00:58.041
+protecting the personal data of 
+
+00:00:58.041 --> 00:01:00.343
+all Apple iOS users by giving them 
+
+00:01:00.343 --> 00:01:01.232
+the option to choose
+
+00:01:01.232 --> 00:01:03.229
+if they want to share their personal information
+
+00:01:03.229 --> 00:01:04.735
+for advertisement purposes or not.
+
+00:01:05.423 --> 00:01:07.233
+And of course, this has impacted 
+
+00:01:07.233 --> 00:01:08.593
+all social media platforms
+
+00:01:08.593 --> 00:01:10.090
+like Facebook and Instagram.
+
+00:01:10.420 --> 00:01:11.152
+In other words, 
+
+00:01:11.336 --> 00:01:13.423
+if someone clicks an ad from Facebook 
+
+00:01:13.423 --> 00:01:15.652
+and lands on an ecommerce store
+
+00:01:15.652 --> 00:01:17.450
+with his iphone and chose to opt out
+
+00:01:17.450 --> 00:01:19.414
+during the iOS 14.5 update,
+
+00:01:19.414 --> 00:01:21.057
+which means that he doesn't want
+
+00:01:21.057 --> 00:01:22.617
+to share his personal information 
+
+00:01:22.617 --> 00:01:24.210
+for advertisement purposes,
+
+00:01:24.210 --> 00:01:26.125
+even if he buys something from the store,
+
+00:01:26.290 --> 00:01:27.816
+Apple is not going to verify 
+
+00:01:27.816 --> 00:01:29.408
+the purchase back to Facebook
+
+00:01:29.549 --> 00:01:31.201
+without sharing any information
+
+00:01:31.201 --> 00:01:33.737
+about the user that completed the purchase,
+
+00:01:33.737 --> 00:01:36.250
+which eventually means that we are losing data,
+
+00:01:36.310 --> 00:01:38.029
+getting a higher cost per purchase
+
+00:01:38.029 --> 00:01:39.700
+and of course, less optimization
+
+00:01:39.700 --> 00:01:40.700
+on the ad set level.
+
+00:01:40.900 --> 00:01:41.500
+Yeah, yeah.
+
+00:01:41.510 --> 00:01:43.044
+I can hear someone of you
+
+00:01:43.044 --> 00:01:44.426
+screaming into my ears about
+
+00:01:44.426 --> 00:01:45.580
+the aggregated events.
+
+00:01:46.115 --> 00:01:47.478
+I'm not going to say that
+
+00:01:47.478 --> 00:01:49.442
+you have no idea, but I'm going to
+
+00:01:49.442 --> 00:01:51.438
+convince you about it later in this video.
+
+00:01:51.809 --> 00:01:54.542
+For the iOS user that chose to opt in.
+
+00:01:54.542 --> 00:01:56.299
+First of all, thank you.
+
+00:01:57.070 --> 00:01:58.951
+Everything will be the same for you,
+
+00:01:59.220 --> 00:02:00.642
+but for all the users that
+
+00:02:00.642 --> 00:02:01.735
+chose to opt out,
+
+00:02:01.735 --> 00:02:04.073
+you can go suck my @@
+
+00:02:04.073 --> 00:02:04.984
+you f@@ c@@!
+
+00:02:06.732 --> 00:02:08.309
+And now that you understand
+
+00:02:08.309 --> 00:02:10.219
+what happened after my composed 
+
+00:02:10.219 --> 00:02:11.576
+and super calm description,
+
+00:02:11.958 --> 00:02:13.695
+we can move to my screen and 
+
+00:02:13.695 --> 00:02:15.177
+see all the changes together.
+
+00:02:15.668 --> 00:02:18.080
+Okay, and now enough with the theory.
+
+00:02:18.170 --> 00:02:19.560
+Let's jump on my computer
+
+00:02:19.560 --> 00:02:21.500
+so that I can show you all the changes
+
+00:02:21.500 --> 00:02:23.455
+so that you can follow it step by step 
+
+00:02:23.455 --> 00:02:24.516
+and prepare your accounts for
+
+00:02:24.516 --> 00:02:26.660
+the iOS 14.5 changes.
+
+00:02:27.111 --> 00:02:30.674
+Now, if you haven't done anything yet,
+
+00:02:30.674 --> 00:02:32.821
+I'm going to explain step by step
+
+00:02:32.821 --> 00:02:33.963
+how to do everything
+
+00:02:33.963 --> 00:02:35.064
+in order to be prepared.
+
+00:02:35.690 --> 00:02:37.400
+Step Νο 1 is to actually
+
+00:02:37.400 --> 00:02:38.914
+verify your domain name.
+
+00:02:38.914 --> 00:02:40.406
+This is a new feature
+
+00:02:40.406 --> 00:02:42.541
+and you have to verify your domain name.
+
+00:02:42.541 --> 00:02:43.120
+You have to do it.
+
+00:02:43.120 --> 00:02:45.386
+If you go to your business settings
+
+00:02:45.386 --> 00:02:47.386
+on your business manager,
+
+00:02:47.390 --> 00:02:49.612
+there is going to be a new tab
+
+00:02:49.612 --> 00:02:50.411
+which is going to be called
+
+00:02:50.411 --> 00:02:51.210
+Brand Safety.
+
+00:02:51.220 --> 00:02:52.050
+It's Domains.
+
+00:02:52.230 --> 00:02:53.297
+You can see here that
+
+00:02:53.297 --> 00:02:54.392
+I have a verified domain.
+
+00:02:54.392 --> 00:02:55.440
+You click "Add".
+
+00:02:55.760 --> 00:02:58.192
+I'm going to do a test (test.com).
+
+00:02:58.877 --> 00:03:00.271
+You are going to press "Add".
+
+00:03:01.001 --> 00:03:02.883
+And when you're going to do that,
+
+00:03:02.883 --> 00:03:05.248
+it's going to give you 3 different options
+
+00:03:05.715 --> 00:03:07.196
+HTML source code that you can put it
+
+00:03:07.196 --> 00:03:09.272
+on the head section on your HTML.
+
+00:03:09.660 --> 00:03:11.242
+Either a DNS TXT record,
+
+00:03:11.469 --> 00:03:12.961
+you can go to GoDaddy or
+
+00:03:12.961 --> 00:03:15.162
+wherever you have listed your domain name
+
+00:03:15.162 --> 00:03:17.250
+and you can add a DNS TXT record.
+
+00:03:17.280 --> 00:03:20.375
+I don't like the option of the HTML file,
+
+00:03:20.920 --> 00:03:23.880
+so I think that the best way is with the head
+
+00:03:23.880 --> 00:03:25.110
+It's super fast to do it.
+
+00:03:25.373 --> 00:03:26.731
+Then you click "Verify Domain"
+
+00:03:26.731 --> 00:03:28.291
+and you are going to be able to see
+
+00:03:28.291 --> 00:03:30.430
+that you're verified and it's going to be green.
+
+00:03:30.440 --> 00:03:32.992
+After you do that, you click on
+
+00:03:32.992 --> 00:03:35.692
+"Connected Assets" over here
+
+00:03:35.692 --> 00:03:37.801
+and you "Add Ad Set" and you connect
+
+00:03:37.801 --> 00:03:39.540
+domain name with your Facebook page.
+
+00:03:39.720 --> 00:03:40.260
+That's it.
+
+00:03:40.650 --> 00:03:42.144
+Now the whole game 
+
+00:03:42.144 --> 00:03:43.848
+is being played on the Events Manager
+
+00:03:43.848 --> 00:03:46.990
+and this is what I'm going to show you now.
+
+00:03:47.000 --> 00:03:49.259
+So if you go to your "Events Manager"
+
+00:03:49.259 --> 00:03:50.990
+from your menu again, you are going to
+
+00:03:50.990 --> 00:03:53.155
+be able to pick your Pixel,
+
+00:03:54.506 --> 00:03:56.681
+so pick your Pixel over here and
+
+00:03:56.681 --> 00:04:00.690
+you are going to be able to see all of
+
+00:04:00.700 --> 00:04:03.150
+the events that are listed.
+
+00:04:03.150 --> 00:04:06.386
+And the first thing that you have to
+
+00:04:06.386 --> 00:04:08.406
+do is go to your settings.
+
+00:04:09.605 --> 00:04:12.281
+Go here to first of all,
+
+00:04:12.281 --> 00:04:14.121
+the "Advanced Matching", click the "Show
+
+00:04:14.512 --> 00:04:16.920
+More Options", enable everything over here.
+
+00:04:16.920 --> 00:04:17.420
+Okay.
+
+00:04:17.566 --> 00:04:19.174
+We are already losing data,
+
+00:04:19.174 --> 00:04:22.084
+so if we have more data,
+
+00:04:22.084 --> 00:04:23.280
+it's always better.
+
+00:04:23.290 --> 00:04:24.300
+So enable everything.
+
+00:04:24.500 --> 00:04:25.884
+Then you can see that
+
+00:04:25.884 --> 00:04:28.123
+we are having the Conversions API.
+
+00:04:28.123 --> 00:04:30.281
+Conversions API is a new way of
+
+00:04:30.281 --> 00:04:31.404
+tracking events.
+
+00:04:31.966 --> 00:04:33.594
+Untill now we had the Pixel,
+
+00:04:33.594 --> 00:04:37.441
+which was browser to browser reporting.
+
+00:04:37.441 --> 00:04:38.080
+With the API
+
+00:04:38.080 --> 00:04:40.120
+we're having server to server reporting.
+
+00:04:40.865 --> 00:04:42.010
+They're working together.
+
+00:04:42.020 --> 00:04:43.378
+I'm going to show you in a little bit
+
+00:04:43.378 --> 00:04:44.957
+how they're working, but
+
+00:04:44.957 --> 00:04:46.979
+the Conversion API is also another way 
+
+00:04:46.979 --> 00:04:49.400
+of tracking events and they're working
+
+00:04:49.400 --> 00:04:50.710
+together with the Pixel.
+
+00:04:50.980 --> 00:04:52.750
+So you are losing less events.
+
+00:04:52.760 --> 00:04:53.942
+You're having more data,
+
+00:04:53.942 --> 00:04:55.589
+so you're having better optimization,
+
+00:04:55.589 --> 00:04:56.350
+better results.
+
+00:04:56.650 --> 00:04:58.156
+So the API is something that 
+
+00:04:58.156 --> 00:04:59.900
+everybody has to do if they want to
+
+00:04:59.900 --> 00:05:02.250
+have good results on their accounts.
+
+00:05:02.340 --> 00:05:04.031
+And let me tell you that the API
+
+00:05:04.031 --> 00:05:05.647
+most probably is going to actually
+
+00:05:05.647 --> 00:05:08.640
+replace the Facebook Pixel in the future.
+
+00:05:08.650 --> 00:05:10.620
+So start using the API.
+
+00:05:10.630 --> 00:05:13.140
+I have seen accounts by just using the API
+
+00:05:13.140 --> 00:05:14.340
+they have improved a lot.
+
+00:05:14.350 --> 00:05:16.512
+Now there are ways of doing it
+
+00:05:16.512 --> 00:05:18.370
+with a manual way.
+
+00:05:18.370 --> 00:05:19.440
+I wouldn't suggest it.
+
+00:05:19.470 --> 00:05:20.370
+It's a nightmare.
+
+00:05:20.520 --> 00:05:21.360
+I have tried it.
+
+00:05:21.540 --> 00:05:22.290
+I have failed.
+
+00:05:23.340 --> 00:05:25.041
+I haven't found good developers.
+
+00:05:26.258 --> 00:05:29.218
+Not like that you can find good developers anyway but,
+
+00:05:30.213 --> 00:05:31.080
+I haven't found
+
+00:05:31.090 --> 00:05:33.030
+anybody that can do it properly.
+
+00:05:33.040 --> 00:05:36.543
+So I choose the partner integration.
+
+00:05:37.364 --> 00:05:39.615
+For those of you that you are lucky enough to have 
+
+00:05:39.615 --> 00:05:41.910
+a Shopify or WordPress, WooCommerce,
+
+00:05:41.920 --> 00:05:43.620
+it's going to be very easy.
+
+00:05:43.630 --> 00:05:45.120
+It's going to take you 10 seconds.
+
+00:05:45.360 --> 00:05:46.823
+Whoever is not having 
+
+00:05:46.823 --> 00:05:48.833
+a partner integration over here listed.
+
+00:05:49.291 --> 00:05:50.680
+Well, you are unlucky.
+
+00:05:50.770 --> 00:05:52.438
+Either you will have to wait or 
+
+00:05:52.438 --> 00:05:53.627
+you will have to find a developer
+
+00:05:53.627 --> 00:05:54.880
+who is going to do it for you.
+
+00:05:55.060 --> 00:05:59.023
+But other than that, I surely tell you
+
+00:05:59.023 --> 00:05:59.611
+that this is something that
+
+00:05:59.611 --> 00:06:00.340
+you have to do.
+
+00:06:00.350 --> 00:06:02.251
+Now, how do you know that
+
+00:06:02.251 --> 00:06:03.805
+your API reporting is working?
+
+00:06:03.805 --> 00:06:04.720
+There are two ways.
+
+00:06:04.730 --> 00:06:06.316
+First of all, you can see here that
+
+00:06:06.316 --> 00:06:08.080
+we have Browser - Server reporting,
+
+00:06:08.719 --> 00:06:11.011
+the connection method, and that means that
+
+00:06:11.011 --> 00:06:12.941
+both our Pixel and the API are working.
+
+00:06:13.835 --> 00:06:15.290
+At the start, we were having only
+
+00:06:15.290 --> 00:06:17.543
+the Purchase Event listed as a
+
+00:06:17.543 --> 00:06:19.090
+Browser - Server integration.
+
+00:06:19.270 --> 00:06:21.294
+Now all the platforms are working
+
+00:06:21.294 --> 00:06:23.148
+for all of the events,
+
+00:06:23.287 --> 00:06:24.015
+we can see that we have
+
+00:06:24.015 --> 00:06:25.724
+Add to Cart, View Content, Initiate Checkout.
+
+00:06:26.206 --> 00:06:27.870
+We were having also a lot of errors.
+
+00:06:27.880 --> 00:06:29.670
+They are fixing that. They are adapting.
+
+00:06:30.621 --> 00:06:32.104
+And as Facebook announced,
+
+00:06:32.104 --> 00:06:34.467
+we should not care really about these
+
+00:06:34.467 --> 00:06:36.087
+numbers right now for the rating,
+
+00:06:36.534 --> 00:06:37.733
+because these are things that
+
+00:06:37.733 --> 00:06:39.170
+are going to improve by the time.
+
+00:06:39.500 --> 00:06:42.051
+Now, when you click on your "Purchase" over here
+
+00:06:42.606 --> 00:06:43.660
+and you view the details 
+
+00:06:43.660 --> 00:06:45.398
+- Event Overview - 
+
+00:06:45.398 --> 00:06:47.862
+we can see that in the Browser Pixel, we are having 
+
+00:06:47.862 --> 00:06:56.734
+4,210 events, and we're having also 4,298 events.
+
+00:06:56.734 --> 00:06:58.070
+That means that the Pixel and 
+
+00:06:58.070 --> 00:07:00.155
+the API are working together and
+
+00:07:00.155 --> 00:07:01.918
+we can see that in that case, 
+
+00:07:01.918 --> 00:07:05.351
+we were able to actually have 366
+
+00:07:05.351 --> 00:07:07.370
+more Events Processed because of the API.
+
+00:07:07.740 --> 00:07:09.240
+This is what the API does.
+
+00:07:09.551 --> 00:07:12.000
+They are both reporting the same
+
+00:07:12.000 --> 00:07:14.952
+give or take events, but at the end of the day
+
+00:07:14.952 --> 00:07:16.300
+we have the Duplication, which means that
+
+00:07:16.310 --> 00:07:18.010
+we are not have double reporting.
+
+00:07:18.070 --> 00:07:19.232
+But here we can see that
+
+00:07:19.232 --> 00:07:22.305
+the API actually was able to save
+
+00:07:22.305 --> 00:07:24.385
+some events that if we didn't have the API
+
+00:07:24.385 --> 00:07:28.001
+was not going to be able to save them for us.
+
+00:07:28.310 --> 00:07:29.932
+And that means that we were going to
+
+00:07:29.932 --> 00:07:31.660
+have less data, less results.
+
+00:07:31.670 --> 00:07:34.440
+So API is very important,
+
+00:07:34.450 --> 00:07:35.293
+as you can understand.
+
+00:07:35.648 --> 00:07:38.113
+I cannot explain more how important
+
+00:07:38.113 --> 00:07:40.340
+it is, but you have to do it.
+
+00:07:40.520 --> 00:07:42.304
+Now the other thing that 
+
+00:07:42.304 --> 00:07:44.373
+has changed is the Aggregated Events.
+
+00:07:44.373 --> 00:07:44.898
+Okay.
+
+00:07:44.898 --> 00:07:46.749
+So the moment that 
+
+00:07:46.749 --> 00:07:48.239
+you're going to verify your domain,
+
+00:07:48.239 --> 00:07:51.442
+you have to go to "Manage Events" and
+
+00:07:51.442 --> 00:07:52.920
+I'm going to go on this account for that.
+
+00:07:53.130 --> 00:07:54.980
+And you have to go to "Manage Events".
+
+00:07:55.130 --> 00:07:56.393
+You have to click on.
+
+00:07:56.580 --> 00:07:58.340
+You see that it says 'Domain Verified'.
+
+00:07:58.350 --> 00:08:00.470
+If you don't verify it, you cannot do that.
+
+00:08:00.620 --> 00:08:01.774
+So if you click here,
+
+00:08:01.774 --> 00:08:03.504
+you can manage the events.
+
+00:08:03.504 --> 00:08:04.230
+Okay.
+
+00:08:04.230 --> 00:08:06.950
+Edit and you can actually add an event.
+
+00:08:07.240 --> 00:08:10.210
+Pick your pixel over here and the event.
+
+00:08:10.630 --> 00:08:12.817
+And if you have a custom event,
+
+00:08:12.817 --> 00:08:13.912
+you can pick a custom event
+
+00:08:13.912 --> 00:08:15.399
+and you can actually list it.
+
+00:08:15.577 --> 00:08:18.899
+So now what is really important is that
+
+00:08:18.899 --> 00:08:22.420
+the priority for the stores.
+
+00:08:22.420 --> 00:08:25.367
+It has to be Purchase, Initiate Checkout, Add to Cart, View Content,
+
+00:08:26.580 --> 00:08:27.400
+based on what you want more,
+
+00:08:27.410 --> 00:08:28.960
+the highest priority.
+
+00:08:29.320 --> 00:08:30.738
+And of course, this button here
+
+00:08:30.738 --> 00:08:32.450
+has to be open if you have enough data.
+
+00:08:32.450 --> 00:08:34.228
+The value optimization because
+
+00:08:34.228 --> 00:08:36.071
+it's actually helping you to actually
+
+00:08:36.071 --> 00:08:37.075
+target people based on 
+
+00:08:37.075 --> 00:08:38.384
+how much money they are spending,
+
+00:08:39.039 --> 00:08:41.169
+not only if they're going to buy or not.
+
+00:08:41.380 --> 00:08:43.419
+So this is a very important button.
+
+00:08:43.480 --> 00:08:44.755
+People that they care a lot 
+
+00:08:44.755 --> 00:08:46.339
+about their lifetime value of
+
+00:08:46.339 --> 00:08:47.140
+their customers.
+
+00:08:47.360 --> 00:08:50.163
+They understand how important
+
+00:08:50.163 --> 00:08:50.889
+this button is.
+
+00:08:51.134 --> 00:08:52.990
+So when you do this for the first time, 
+
+00:08:52.990 --> 00:08:55.294
+you will have to wait for 72 hours.
+
+00:08:55.350 --> 00:08:57.980
+If we click here again, "Manage Events".
+
+00:08:58.010 --> 00:08:58.731
+It says,
+
+00:08:58.731 --> 00:09:00.325
+"If you change or remove events
+
+00:09:00.325 --> 00:09:02.246
+from this configuration, you'll need to wait
+
+00:09:02.246 --> 00:09:04.076
+72 hours before you can return
+
+00:09:04.076 --> 00:09:05.090
+to edit them again.
+
+00:09:05.210 --> 00:09:06.541
+Do you want to continue?"
+
+00:09:06.541 --> 00:09:08.825
+Now you have to wait for 72 hours
+
+00:09:08.825 --> 00:09:10.370
+when you do it at the first time.
+
+00:09:10.380 --> 00:09:13.150
+Facebook recently announced that now 
+
+00:09:13.150 --> 00:09:15.766
+if you do a change after you list them,
+
+00:09:17.897 --> 00:09:19.730
+you are not going to wait for 72 hours.
+
+00:09:19.740 --> 00:09:21.600
+You can work immediately on your ads, 
+
+00:09:21.600 --> 00:09:23.017
+but the first time for sure you will
+
+00:09:23.017 --> 00:09:24.170
+have to wait 72 hours.
+
+00:09:24.360 --> 00:09:27.315
+On the other hand, it's Facebook and
+
+00:09:27.315 --> 00:09:28.881
+we cannot trust it completely.
+
+00:09:29.188 --> 00:09:30.501
+So keep in mind that 
+
+00:09:31.085 --> 00:09:31.939
+if you change something,
+
+00:09:31.939 --> 00:09:33.800
+maybe you will have to wait for 72 hours.
+
+00:09:34.090 --> 00:09:36.036
+But the plan is that in the future
+
+00:09:36.036 --> 00:09:37.421
+you will not have to wait
+
+00:09:38.093 --> 00:09:40.107
+if you do any changes in the priority or
+
+00:09:40.107 --> 00:09:41.988
+if you add any new event.
+
+00:09:42.727 --> 00:09:44.982
+Now it's very important for you
+
+00:09:44.982 --> 00:09:46.160
+to list your events over here.
+
+00:09:46.290 --> 00:09:47.267
+If you don't list them,
+
+00:09:47.793 --> 00:09:49.067
+you will not be able to run
+
+00:09:49.067 --> 00:09:51.240
+conversion ads with your events.
+
+00:09:51.450 --> 00:09:53.303
+Okay, so it's very important to
+
+00:09:53.303 --> 00:09:54.209
+have them here.
+
+00:09:54.209 --> 00:09:57.006
+If you don't, you cannot have events with
+
+00:09:57.006 --> 00:09:59.578
+your Pixel and reporting
+
+00:09:59.578 --> 00:10:00.290
+ and Conversion Ads.
+
+00:10:00.712 --> 00:10:02.494
+Now, as you can see here in this account
+
+00:10:03.205 --> 00:10:04.600
+we're having browser to browser.
+
+00:10:04.610 --> 00:10:05.997
+So the API is not working.
+
+00:10:06.766 --> 00:10:09.967
+He wasn't able to actually do
+
+00:10:10.889 --> 00:10:13.741
+the API integration yet.
+
+00:10:14.204 --> 00:10:16.595
+So this is how it's going to look 
+
+00:10:16.595 --> 00:10:18.925
+when you are having an account that
+
+00:10:18.925 --> 00:10:21.190
+you are having the API working. Like this.
+
+00:10:21.200 --> 00:10:22.754
+And this is how it's going to look
+
+00:10:22.754 --> 00:10:23.864
+if your API doesn't work.
+
+00:10:24.151 --> 00:10:26.583
+So now that we discussed about this,
+
+00:10:26.583 --> 00:10:27.910
+there is one last thing that I want to
+
+00:10:28.659 --> 00:10:31.050
+mention is the Aggregated Events measurement.
+
+00:10:32.760 --> 00:10:33.651
+As we know,
+
+00:10:33.651 --> 00:10:35.590
+the aggregated events are the events that
+
+00:10:35.590 --> 00:10:39.251
+Fcaebook is reporting back from
+
+00:10:39.251 --> 00:10:42.359
+any site for the opt-out users.
+
+00:10:43.006 --> 00:10:44.191
+Facebook announced that
+
+00:10:44.191 --> 00:10:46.713
+this is not going to be a workaround
+
+00:10:46.713 --> 00:10:48.684
+for the problem of reporting for 
+
+00:10:48.684 --> 00:10:49.800
+the opt-out users.
+
+00:10:49.800 --> 00:10:50.814
+But at the end of the day
+
+00:10:50.814 --> 00:10:51.917
+it's going to help.
+
+00:10:51.917 --> 00:10:54.580
+At the start the aggreagated events
+
+00:10:54.580 --> 00:10:56.739
+were working only with the
+
+00:10:56.739 --> 00:10:58.490
+attribution setting of one day.
+
+00:10:58.610 --> 00:11:00.427
+If you go to a new campaign here,
+
+00:11:00.427 --> 00:11:03.909
+we can see that on the bottom, on the "Show More" option
+
+00:11:04.850 --> 00:11:06.056
+We can see that 
+
+00:11:06.056 --> 00:11:09.168
+the 7-day click over here and
+
+00:11:09.168 --> 00:11:11.110
+the 1-day click of view 1-day click.
+
+00:11:11.350 --> 00:11:14.110
+So until let's say 2 weeks ago
+
+00:11:14.110 --> 00:11:15.536
+this was working, 
+
+00:11:16.431 --> 00:11:18.071
+no 7 days ago actually
+
+00:11:18.071 --> 00:11:20.187
+This was working with the 1-day click 
+
+00:11:20.187 --> 00:11:21.580
+attribution model only.
+
+00:11:21.730 --> 00:11:24.220
+Now it's working also with a 7-day click.
+
+00:11:25.690 --> 00:11:27.040
+This is why
+
+00:11:28.047 --> 00:11:30.033
+the results are going to improve
+
+00:11:30.033 --> 00:11:30.875
+a little bit now,
+
+00:11:30.875 --> 00:11:32.860
+because we are having the aggregated events.
+
+00:11:32.950 --> 00:11:35.620
+The aggregated events are just bulk events
+
+00:11:35.940 --> 00:11:37.856
+that when they're happening from 
+
+00:11:37.856 --> 00:11:39.482
+the opt-out users, Facebook is going to
+
+00:11:39.482 --> 00:11:41.940
+send them in order to improve the results.
+
+00:11:42.210 --> 00:11:43.122
+The problem is that
+
+00:11:43.122 --> 00:11:44.289
+with the aggregated events, 
+
+00:11:44.289 --> 00:11:46.692
+we don't know who's the person that
+
+00:11:46.692 --> 00:11:48.850
+ has actually did the purchase.
+
+00:11:48.860 --> 00:11:50.800
+So the problem with that is that 
+
+00:11:50.800 --> 00:11:52.024
+Facebook is working like this.
+
+00:11:52.024 --> 00:11:52.436
+It says
+
+00:11:52.436 --> 00:11:53.891
+"Konstantinos bought something,
+
+00:11:53.940 --> 00:11:56.100
+I'm going to target similar people 
+
+00:11:56.100 --> 00:11:57.904
+like Konstantinos", and it's optimizing
+
+00:11:57.904 --> 00:11:59.920
+based on what is happening on the results.
+
+00:12:00.040 --> 00:12:01.921
+So if we're having an aggregated event, 
+
+00:12:01.921 --> 00:12:03.023
+which just says
+
+00:12:03.141 --> 00:12:04.469
+"somebody bought something"
+
+00:12:04.469 --> 00:12:05.772
+this is not helping us 
+
+00:12:05.772 --> 00:12:06.996
+in terms of optimization.
+
+00:12:06.996 --> 00:12:08.876
+Βut on the other hand, 
+
+00:12:08.876 --> 00:12:10.398
+Facebook announced that they are going
+
+00:12:10.398 --> 00:12:12.723
+to introduce something which is going to be
+
+00:12:12.723 --> 00:12:14.435
+called Statistical Modeling.
+
+00:12:14.435 --> 00:12:14.935
+Okay.
+
+00:12:15.488 --> 00:12:17.927
+And I'm going to read it to you
+
+00:12:17.971 --> 00:12:22.321
+as they say over here.
+
+00:12:22.321 --> 00:12:23.771
+So in some cases,
+
+00:12:24.070 --> 00:12:26.490
+statistical modeling may be used to account
+
+00:12:27.318 --> 00:12:29.810
+for some of your campaign conversions.
+
+00:12:29.820 --> 00:12:31.347
+These results may not include all
+
+00:12:31.347 --> 00:12:36.068
+conversions from people using iOS 14 or 14.5
+
+00:12:36.530 --> 00:12:38.455
+So that means that Facebook is going
+
+00:12:38.455 --> 00:12:40.363
+to try to actually identify
+
+00:12:40.363 --> 00:12:42.170
+who are the people that they bought.
+
+00:12:42.260 --> 00:12:43.970
+Okay, can they do that?
+
+00:12:43.980 --> 00:12:45.080
+Of course they can.
+
+00:12:45.090 --> 00:12:47.422
+The Facebook algorithm is very powerful
+
+00:12:47.422 --> 00:12:49.760
+and they're donig other kinds of things.
+
+00:12:49.970 --> 00:12:51.147
+I'm sure that they're going to 
+
+00:12:51.147 --> 00:12:52.013
+do this thing also.
+
+00:12:52.365 --> 00:12:54.248
+Now how important is, though, 
+
+00:12:54.248 --> 00:12:55.721
+the aggregated events and
+
+00:12:55.721 --> 00:12:57.498
+how are they going to help? 
+
+00:12:57.945 --> 00:13:00.283
+At this point, I must say
+
+00:13:00.283 --> 00:13:02.300
+that I'm not super excited about them.
+
+00:13:02.500 --> 00:13:03.724
+This is why
+
+00:13:03.724 --> 00:13:04.762
+at the start of the video,
+
+00:13:04.762 --> 00:13:06.114
+I mentioned that if you think
+
+00:13:06.114 --> 00:13:07.621
+that the aggregate events are going to save your results,
+
+00:13:07.621 --> 00:13:09.185
+you are wrong,
+
+00:13:09.185 --> 00:13:11.459
+because as we can see over here
+
+00:13:12.258 --> 00:13:14.900
+on our normal reporting for the last 28 days
+
+00:13:14.900 --> 00:13:17.405
+we are having 4.6K events.
+
+00:13:17.405 --> 00:13:18.160
+Okay.
+
+00:13:18.170 --> 00:13:19.839
+And in the Aggregated Events
+
+00:13:19.839 --> 00:13:22.937
+we are having only 111.
+
+00:13:23.471 --> 00:13:25.551
+As you can understand, the difference
+
+00:13:25.551 --> 00:13:27.263
+between those two numbers is very big.
+
+00:13:27.480 --> 00:13:28.677
+And if you think that
+
+00:13:28.677 --> 00:13:30.662
+the aggregated events are going to come
+
+00:13:30.662 --> 00:13:32.322
+and they're going to save you
+
+00:13:32.322 --> 00:13:33.268
+and they're going to save you ROAS.
+
+00:13:33.534 --> 00:13:35.755
+Come on, at the end of the day, 
+
+00:13:35.755 --> 00:13:38.910
+we know that it's not going to actually optimize
+
+00:13:38.910 --> 00:13:42.134
+and it's just going to be raw data of a sale.
+
+00:13:42.650 --> 00:13:43.948
+We know that the change 
+
+00:13:43.948 --> 00:13:45.630
+for the 7-day attribution.
+
+00:13:45.630 --> 00:13:46.769
+By the way, 
+
+00:13:46.769 --> 00:13:48.262
+if you're using 1-day attribution,
+
+00:13:48.262 --> 00:13:49.089
+you are wrong.
+
+00:13:49.089 --> 00:13:49.880
+So stop doing it.
+
+00:13:50.580 --> 00:13:51.621
+It's very good news 
+
+00:13:51.621 --> 00:13:52.968
+that we are starting to see now,
+
+00:13:53.115 --> 00:13:54.361
+the aggregated events being used
+
+00:13:54.361 --> 00:13:56.111
+for the 7-days attribution.
+
+00:13:56.700 --> 00:13:58.685
+I must say that for the last 7 days 
+
+00:13:58.852 --> 00:14:01.636
+I can see a very good increase
+
+00:14:01.636 --> 00:14:03.750
+on the results and the ROAS.
+
+00:14:04.230 --> 00:14:08.077
+So maybe this is one of the reasons,
+
+00:14:08.435 --> 00:14:10.731
+but I know that Facebook is going to
+
+00:14:10.731 --> 00:14:12.740
+become better and better and better 
+
+00:14:12.740 --> 00:14:14.360
+when it comes to the aggregated events.
+
+00:14:14.370 --> 00:14:15.068
+They announced that
+
+00:14:15.068 --> 00:14:16.798
+the aggregated events are not the workaround
+
+00:14:16.798 --> 00:14:18.553
+for the opt out users.
+
+00:14:18.553 --> 00:14:20.260
+But I believe that this is
+
+00:14:20.260 --> 00:14:22.598
+what is going to change the events in the future.
+
+00:14:22.722 --> 00:14:24.568
+The API, the Aggregated Events,
+
+00:14:24.568 --> 00:14:26.524
+all of this together as a combination
+
+00:14:26.524 --> 00:14:29.866
+is going to help a lot in the monitoring 
+
+00:14:30.751 --> 00:14:32.095
+and it's going to help also
+
+00:14:32.095 --> 00:14:33.460
+in the optimization.
+
+00:14:33.718 --> 00:14:35.694
+But as you can understand right now, 
+
+00:14:36.444 --> 00:14:38.737
+it's not a very big difference.
+
+00:14:38.737 --> 00:14:41.496
+Okay.
+So just to summarize
+
+00:14:42.154 --> 00:14:43.441
+the most crucial things
+
+00:14:43.441 --> 00:14:44.858
+that you need to take care,
+
+00:14:44.858 --> 00:14:46.112
+whether you're starting now
+
+00:14:46.112 --> 00:14:48.335
+and you haven't advertised for a period
+
+00:14:48.335 --> 00:14:49.410
+or if you haven't done it, 
+
+00:14:49.420 --> 00:14:50.769
+is first of all
+
+00:14:50.769 --> 00:14:51.797
+domain verification,
+
+00:14:51.797 --> 00:14:56.540
+you need to do your domain verification.
+
+00:14:56.550 --> 00:14:59.669
+Second thing is that you need to go
+
+00:14:59.669 --> 00:15:01.091
+and you need to list your events in 
+
+00:15:01.091 --> 00:15:02.397
+the Aggregated Events so that
+
+00:15:02.397 --> 00:15:03.440
+you will be able to use them.
+
+00:15:03.560 --> 00:15:08.885
+Install your API, turn on all the buttons
+
+00:15:08.885 --> 00:15:11.032
+on the Advanced Matching and
+
+00:15:11.837 --> 00:15:13.390
+start receiving better results.
+
+00:15:14.168 --> 00:15:15.577
+If you don't do these changes, 
+
+00:15:16.254 --> 00:15:17.300
+keep in mind that you are going to
+
+00:15:17.300 --> 00:15:18.700
+be struggling and you are going to
+
+00:15:18.700 --> 00:15:20.600
+be left behind in terms of results.
+
+00:15:20.690 --> 00:15:23.110
+So do the changes as fast as you can.
+
+00:15:23.460 --> 00:15:26.760
+And let's wrap it up from here.
+
+00:15:26.770 --> 00:15:27.806
+I'm going to see you
+
+00:15:27.806 --> 00:15:29.214
+for the closing of this video.
+
+00:15:29.638 --> 00:15:32.534
+One last thing that is really bothering me
+
+00:15:32.534 --> 00:15:34.110
+and I actually consider it
+
+00:15:34.120 --> 00:15:35.751
+one of the worst developments
+
+00:15:35.751 --> 00:15:37.493
+on the platform is that the breakdown
+
+00:15:37.493 --> 00:15:39.330
+of results are not available anymore.
+
+00:15:39.330 --> 00:15:40.897
+Whaaaat??
+
+00:15:40.897 --> 00:15:42.725
+And because I'm so pissed about it, 
+
+00:15:42.725 --> 00:15:44.893
+I'm going to do a whole video about this topic.
+
+00:15:45.671 --> 00:15:47.040
+The changes are here to stay.
+
+00:15:47.050 --> 00:15:49.517
+We don't know if Android will follow
+
+00:15:50.087 --> 00:15:52.655
+since this is how the competition works after all.
+
+00:15:52.930 --> 00:15:55.653
+I'm sure that Facebook will find a solution
+
+00:15:55.653 --> 00:15:56.750
+like they always do.
+
+00:15:56.760 --> 00:15:58.446
+If Facebook can't do it, 
+
+00:15:58.446 --> 00:15:59.729
+who's going to?
+
+00:15:59.729 --> 00:16:01.139
+The smaller platforms like
+
+00:16:01.139 --> 00:16:02.184
+TikTok or Snapchat
+
+00:16:02.490 --> 00:16:04.430
+which struggled even more with the changes?
+
+00:16:04.430 --> 00:16:05.364
+I'm not going to say that 
+
+00:16:05.364 --> 00:16:06.833
+it is better now than before 
+
+00:16:06.833 --> 00:16:07.937
+because it's simply not.
+
+00:16:08.490 --> 00:16:09.483
+But we will adapt 
+
+00:16:09.483 --> 00:16:11.345
+as marketers and business owners
+
+00:16:11.345 --> 00:16:12.260
+as we always do.
+
+00:16:12.500 --> 00:16:14.891
+To be honest with you after the changes, 
+
+00:16:14.891 --> 00:16:16.126
+the results on the platform
+
+00:16:16.126 --> 00:16:17.270
+were not stable at all.
+
+00:16:17.522 --> 00:16:19.119
+Several accounts had issues, 
+
+00:16:19.119 --> 00:16:20.946
+but I can see that things are becoming
+
+00:16:20.970 --> 00:16:22.520
+better day by day.
+
+00:16:23.133 --> 00:16:24.080
+Before we wrap up.
+
+00:16:24.090 --> 00:16:26.236
+I need to point out that in my eyes
+
+00:16:26.236 --> 00:16:28.328
+this is a big opportunity for business owners 
+
+00:16:28.328 --> 00:16:29.169
+and marketeers.
+
+00:16:29.169 --> 00:16:31.081
+Whoever can't afford it anymore
+
+00:16:31.081 --> 00:16:33.595
+and whoever can't make the ads work anymore,
+
+00:16:33.595 --> 00:16:36.074
+will leave the platform and in my opinion
+
+00:16:36.074 --> 00:16:38.140
+this will be the reason for the rising cost
+
+00:16:38.140 --> 00:16:39.585
+of advertising on the Facebook platform
+
+00:16:40.113 --> 00:16:41.813
+to at last start dropping
+
+00:16:41.978 --> 00:16:44.208
+instead of increasing steadily every year.
+
+00:16:44.390 --> 00:16:47.060
+Paradoxically, it is an opportunity after all.
+
+00:16:47.210 --> 00:16:47.941
+In any case, 
+
+00:16:47.941 --> 00:16:49.150
+that's all I had for you 
+
+00:16:49.150 --> 00:16:51.290
+about the Facebook iOS 14 changes.
+
+00:16:51.320 --> 00:16:52.301
+Hit the like button 
+
+00:16:52.301 --> 00:16:53.223
+if you like the video
+
+00:16:53.223 --> 00:16:54.000
+and subscribe
+
+00:16:54.000 --> 00:16:55.383
+if you want to see more in the future.
+
+00:16:55.383 --> 00:16:56.313
+But even if you don't, 
+
+00:16:58.290 --> 00:16:59.236
+If you feel like it,
+
+00:16:59.236 --> 00:17:01.315
+leave your comments and questions below
+
+00:17:01.315 --> 00:17:02.855
+with hashtag #AskKonstantinos
+
+00:17:03.254 --> 00:17:04.447
+and your question might be featured
+
+00:17:04.447 --> 00:17:05.221
+in a future video.
+
+00:17:05.707 --> 00:17:07.446
+And don't forget that if you want 
+
+00:17:07.446 --> 00:17:09.326
+to learn more about Facebook Ads
+
+00:17:09.326 --> 00:17:11.540
+you can read my book or check my courses.
+
+00:17:11.550 --> 00:17:12.875
+Links are below in the description.
+
+00:17:13.332 --> 00:17:14.697
+Until we meet again,
+
+00:17:14.697 --> 00:17:16.301
+be creative and consistent!
+

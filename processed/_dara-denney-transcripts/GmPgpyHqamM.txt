@@ -1,0 +1,170 @@
+[0] hey guys welcome to my channel today I'm
+[1] going to show you exactly how I set up
+[3] my columns in facebook ads manager so
+[5] you can be sure to track all the right
+[7] conversions and data so that you can
+[8] keep your facebook ads on track so first
+[10] you're gonna open up into ads manager
+[12] you're gonna click columns and then
+[14] customize columns and then this window
+[16] is gonna pop up for you on the left you
+[18] can see the different categories that
+[20] you can choose from like engagement
+[22] conversions or even settings which
+[24] includes things like names and ID's of
+[26] campaigns Adsense and ads but in the
+[28] middle this is where you're gonna make
+[29] your selection of columns and on the
+[31] right you're gonna be able to arrange
+[32] your column so that it can be in any
+[34] order that you want and when you go back
+[35] to that Center you're gonna see that you
+[37] already have a number of things that are
+[38] already checked off for you and let's go
+[40] ahead and fine-tune that now we're gonna
+[42] keep all the things that are already
+[43] checked off in performance but we're
+[44] also gonna add frequency and then we're
+[46] gonna keep ad relevance Diagnostics but
+[48] I do consider this one as optional under
+[50] costs we're gonna keep the cost for
+[52] result but we're also gonna add in the
+[54] CPM we're gonna leave all the things on
+[56] your page post unchecked same for cost
+[59] paging post and messaging and cost
+[61] messaging in for media I actually like
+[63] to check off video plays at 50 percent
+[65] so I can get a better idea of how much
+[68] of my videos people are actually
+[69] watching under clicks we're gonna leave
+[71] link clicks and then we're gonna add
+[73] link click through rate and under cost
+[75] clicks we're gonna also add in CPC for
+[77] link clicks now just a note about link
+[79] clicks versus all we like to track the
+[81] link clicks because those are the number
+[82] of people that are actually clicking on
+[84] the link that goes to your website or
+[85] landing page when you use all clicks or
+[88] all CPC you're also tracking the amount
+[90] of people who just clicked on different
+[93] places on your ad maybe went back to
+[95] your Instagram or Facebook profile or
+[97] just clicked on your picture so by
+[99] tracking link click so we're getting a
+[100] much better idea of how many people are
+[102] actually clicking through onto the
+[103] website under conversions metrics to
+[105] include we're gonna add in a few things
+[107] here number one being the total Add to
+[109] Cart so that I can see the rate of Add
+[111] to Cart versus purchases we're also
+[113] gonna add in landing page views and
+[115] that's really important so that we can
+[116] look at the discrepancy between link
+[118] links and landing page views to see if
+[120] people are actually landing on the
+[121] website when they intend to if they
+[123] aren't then that might be a sign that
+[124] your website is actually loading too
+[126] slow particularly on mobile another
+[128] thing we're gonna add is total number of
+[130] leaves as well
+[131] cost per lead we're gonna keep the row
+[133] as and for purchases total and value are
+[136] gonna stay but we're also gonna add cost
+[138] so that we can know what the cost per
+[139] purchase is next under object names and
+[142] ID's we're gonna uncheck add set name
+[143] under status and gates we're gonna
+[145] uncheck ends and it's only good really
+[147] for lifetime budgets which I don't tend
+[149] to use and if you're wondering why go
+[152] ahead and click in the video below to
+[153] find out on your goal budget and
+[155] schedule we're gonna be keeping bid
+[157] strategy and budget but we're gonna
+[158] uncheck schedule everything else is good
+[160] and I am gonna keep the last significant
+[162] at edit because I tend to like to push
+[164] that to the very end of my columns now
+[166] I'm gonna spend some time rearranging
+[167] these and like taking out the extra
+[169] things like on Facebook leaves and on
+[171] Facebook purchases but I'll show you an
+[173] end result in just a second
+[175] so this is the end result and I know
+[177] it's a lot of data but for my job I'm
+[179] gonna be looking at most of this every
+[181] single day you know of course we want to
+[182] keep the name we want to keep the
+[184] delivery to make sure that there's no
+[185] problems with delivery and then budget
+[187] amount spent results and cost for us all
+[190] always want to keep those at the front
+[191] because you want to make sure that
+[193] Facebook is actually spending the right
+[195] amount that it's supposed to be after
+[196] that we're gonna be looking at Rho as
+[199] website purchases cost per purchase
+[201] which is often gonna be the same thing
+[203] as your results in your cost per result
+[205] but you might be optimizing for
+[207] something like add to cart or initiate
+[209] checkout if you're still trying to get
+[211] those initial conversions we're gonna
+[213] have add to carts and the reason why we
+[215] want to keep add to cards is because
+[216] ultimately we want to see the rate at
+[218] which those people end up making a
+[220] purchase and the ones who don't another
+[222] thing we want a creep of close eye on is
+[223] frequency particularly for those
+[225] retargeting campaigns so that we don't
+[227] have too much of a budget going to them
+[229] because if we see those getting really
+[230] high like above a 5 then we'll know to
+[232] reduce the budget on those and then we
+[234] also have things like reach and
+[236] impressions link clicks and landing page
+[239] views and I know there's always gonna be
+[240] a little bit of a discrepancy between
+[242] link links and landing page views but if
+[244] you start to notice like something like
+[246] only half of all of your link clicks
+[247] actually make it to the landing page
+[249] then that signifies a really big problem
+[250] and it's something you're gonna want to
+[252] look into and here we have your link
+[253] click-through rates this is really just
+[255] measuring the health of your ads and
+[257] making sure that they're interesting
+[258] enough that people want to click through
+[259] to them we have your CPC and your CPM
+[262] and then the number of leads no I also
+[264] like to track metrics in my leads even
+[266] if I'm not specifically doing a lead
+[268] generation campaign just because I like
+[270] to see the number of people that sign up
+[271] for newsletters and what that looks like
+[273] in comparison to add to cards as well as
+[276] purchases and then again I have my video
+[278] plays at 50% just because I want to know
+[280] what amount of people are actually
+[282] watching the videos and then the last
+[284] four I do just want to keep track of
+[286] that bid strategy
+[287] and then there are the three quality
+[288] rankings and West's significant edit
+[290] which I really like including in
+[292] campaigns or there's multiple people
+[293] working in that account and that's it
+[295] that's exactly how I set up my columns
+[297] and Facebook Ads manager leave a comment
+[299] below let me know how different are
+[301] similar your guyses is because I found
+[303] that there's a pretty big discrepancy
+[305] between almost everybody and what
+[308] data they're tracking and how they
+[309] arrange it but that's all I have really
+[311] okay thanks guys bye

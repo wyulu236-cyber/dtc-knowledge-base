@@ -1,0 +1,188 @@
+name: daily-videos
+
+# 每天 CST 07:00 = UTC 23:00 (前一天) 跑一次 (GitHub scheduled workflow 高峰期可能漂移 ±15 分)
+# 参考: https://crontab.guru/#0_23_*_*_*
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}  # 手动触发按钮 (repo → Actions → daily-videos → Run)
+
+# 同时只跑一个,避免撞见 in-flight 的 discover
+concurrency:
+  group: daily-videos
+  cancel-in-progress: false
+
+permissions:
+  contents: write        # 让 create-pull-request action 能 push branch
+  pull-requests: write   # 开 PR + 用 gh 查已有 PR
+
+jobs:
+  discover-and-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      # Grace: 去 repo → Settings → Secrets and variables → Actions 加
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      GH_TOKEN: ${{ github.token }}   # 给 gh CLI 用
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ---------- 前置: 如果已有 open 的 bot PR, 直接退出 ----------
+      # 昨天开的 PR Grace 还没 merge, 今天再跑会拿到重叠的 new_videos → 双 PR.
+      # 让 Grace 先 merge 上一版, 或手动 close 后 workflow_dispatch 强跑.
+      - name: Skip if pending bot PR exists
+        id: guard
+        run: |
+          set -e
+          open_prs=$(gh pr list --label automated --state open --json number --jq 'length')
+          echo "open_bot_prs=$open_prs"
+          if [ "$open_prs" -gt 0 ]; then
+            echo "· 已有 $open_prs 个 open 的 bot PR, 退出等 Grace merge"
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Python
+        if: steps.guard.outputs.skip == '0'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        if: steps.guard.outputs.skip == '0'
+        run: |
+          pip install --upgrade yt-dlp
+          yt-dlp --version
+
+      # ---------- L1: 发现新视频 ----------
+      # set -e + set -o pipefail: python 崩了直接 fail loud, 别让 new_count 变空串
+      # 让后面步骤误 pass. 空串 "" != "0" 会是 true, 是最阴险的静默失败源头.
+      - name: Discover new videos (RSS diff)
+        if: steps.guard.outputs.skip == '0'
+        id: discover
+        run: |
+          set -euo pipefail
+          python3 scripts/discover_new_videos.py
+          # 输出条数,给下一步判断用
+          count=$(python3 -c "import json; print(len(json.load(open('meta/_new_videos.json'))))")
+          if [ -z "$count" ] || ! [[ "$count" =~ ^[0-9]+$ ]]; then
+            echo "❌ discover 步骤没输出合法整数, 退出"
+            exit 1
+          fi
+          echo "new_count=$count" >> "$GITHUB_OUTPUT"
+          echo "· 新视频数: $count"
+
+      - name: Short-circuit if nothing new
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count == '0'
+        run: |
+          echo "· 没有新视频, 退出 (仍写了 _discover_report.json 供人工排查)"
+
+      # ---------- L2: 拉 metadata + 字幕 ----------
+      # 后面所有 step 都用 "guard.skip=0 && discover.new_count > 0" 双条件, 避免空串误 pass.
+      # (讨过一次: `!= '0'` 对空串是 true, 所以显式测 == '数字' 更稳)
+      - name: Fetch metadata + subtitles for new videos
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        run: python3 scripts/fetch_new_video_meta.py
+
+      # ---------- L3: 提炼 takeaway ----------
+      - name: Extract takeaways (Anthropic Haiku)
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        run: python3 scripts/03_extract_takeaways.py
+
+      # ---------- L4: 聚合 topics + 生 data.json ----------
+      - name: Aggregate topics + build data.json
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        run: python3 scripts/04_aggregate_topics.py
+
+      # ---------- 验证: data.json 必须能 parse,防止前端拿到坏 JSON ----------
+      - name: Validate data.json
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        run: |
+          python3 -m json.tool site/gracexiaoe/assets/data.json > /dev/null
+          echo "✅ data.json JSON schema OK"
+          # 额外基本 shape 校验
+          python3 <<'PY'
+          import json, sys
+          d = json.load(open("site/gracexiaoe/assets/data.json"))
+          for k in ("generated_at","topics","channels","videos","takeaways","topic_meta"):
+              assert k in d, f"data.json 缺 key {k}"
+          assert isinstance(d["takeaways"], list) and d["takeaways"], "takeaways 空"
+          print(f"✅ shape OK: {len(d['takeaways'])} takeaways, {len(d['videos'])} videos")
+          PY
+
+      # ---------- 报告变更 ----------
+      - name: Show diff summary
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        run: |
+          git status --short
+          echo "---"
+          git diff --stat
+
+      # ---------- Draft PR (半自动: Grace 点 merge 才发布) ----------
+      # 提醒: 第一次跑之前, 去 Settings → Actions → General → Workflow permissions
+      # 勾选 "Read and write" + "Allow GitHub Actions to create and approve pull requests".
+      # 否则默认 GITHUB_TOKEN 开 PR 会报 403.
+      - name: Create Draft PR
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "daily: new videos ${{ steps.discover.outputs.new_count }}"
+          branch: bot/daily-videos-${{ github.run_id }}
+          title: "🤖 daily: ${{ steps.discover.outputs.new_count }} 新视频待入库"
+          body: |
+            这个 PR 是每天 CST 07:00 由 `.github/workflows/daily-videos.yml` 自动开的 draft。
+
+            **发现新视频数**: ${{ steps.discover.outputs.new_count }}
+
+            **检查清单** (merge 前 Grace 过一眼就好):
+            - [ ] `meta/_discover_report.json` — 看看哪些博主抓到 / 哪些拉挂了
+            - [ ] `processed/_takeaway_failures.json` (如有) — 是否有视频 LLM 失败
+            - [ ] `meta/*/skipped.json` diff — 是否有意料外的视频被列入永久跳过名单
+            - [ ] `site/gracexiaoe/assets/data.json` diff — takeaway 数、topic 分布是否合理
+
+            merge 后 Cloudflare Pages 会自动触发部署。
+
+            ---
+            > 生成: workflow run ${{ github.run_id }}
+          labels: |
+            automated
+            content
+          draft: true
+          delete-branch: true
+
+      # ---------- 飞书通知 ----------
+      # env.FEISHU_WEBHOOK_URL 空则跳过, 不然 curl -sS "" 会静默失败 Grace 收不到告警.
+      - name: Notify Feishu (success)
+        if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0' && steps.cpr.outputs.pull-request-url != '' && env.FEISHU_WEBHOOK_URL != ''
+        run: |
+          curl -sS -X POST "$FEISHU_WEBHOOK_URL" \
+            -H 'Content-Type: application/json' \
+            -d @- <<JSON
+          {
+            "msg_type": "text",
+            "content": {
+              "text": "🤖 dtc-kb 日更: 发现 ${{ steps.discover.outputs.new_count }} 新视频\nDraft PR: ${{ steps.cpr.outputs.pull-request-url }}"
+            }
+          }
+          JSON
+
+      - name: Notify Feishu (failure)
+        if: failure() && env.FEISHU_WEBHOOK_URL != ''
+        run: |
+          curl -sS -X POST "$FEISHU_WEBHOOK_URL" \
+            -H 'Content-Type: application/json' \
+            -d @- <<JSON
+          {
+            "msg_type": "text",
+            "content": {
+              "text": "❌ dtc-kb daily-videos workflow 失败\nrun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+          }
+          JSON

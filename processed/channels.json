@@ -1,0 +1,355 @@
+[
+  {
+    "slug": "dara-denney",
+    "name": "Dara Denney",
+    "handle": "@DaraDenney",
+    "url": "https://www.youtube.com/@DaraDenney",
+    "platform": "Meta",
+    "role": "DTC creative testing 教母, ex-Tinuiti creative strategist",
+    "why": "讲 creative testing / hook rate / thumbnail-stop 最系统, DTC 视角最纯, 不卖课狗血",
+    "takeaway_count": 25,
+    "video_count": 12,
+    "top_topics": [
+      {
+        "slug": "audience",
+        "count": 12
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 9
+      },
+      {
+        "slug": "optimization",
+        "count": 8
+      },
+      {
+        "slug": "creative-testing",
+        "count": 8
+      },
+      {
+        "slug": "budget",
+        "count": 6
+      }
+    ],
+    "amazon_relevance_dist": {
+      "medium": 10,
+      "low": 6,
+      "high": 9
+    }
+  },
+  {
+    "slug": "andy-stauring",
+    "name": "Andy Stauring",
+    "handle": "@andystauring",
+    "url": "https://www.youtube.com/@andystauring",
+    "platform": "Meta",
+    "role": "Advantage+ 实战派",
+    "why": "Meta Advantage+ 改版后最早一批吃透的 practitioner, 案例多",
+    "takeaway_count": 10,
+    "video_count": 4,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 6
+      },
+      {
+        "slug": "creative-testing",
+        "count": 3
+      },
+      {
+        "slug": "audience",
+        "count": 3
+      },
+      {
+        "slug": "analytics",
+        "count": 3
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 2
+      }
+    ],
+    "amazon_relevance_dist": {
+      "high": 6,
+      "medium": 3,
+      "low": 1
+    }
+  },
+  {
+    "slug": "konstantinos-doulgeridis",
+    "name": "Konstantinos Doulgeridis",
+    "handle": "@KonstantinosDoulgeridis",
+    "url": "https://www.youtube.com/@KonstantinosDoulgeridis",
+    "platform": "Meta",
+    "role": "high-budget DTC scaling 实战",
+    "why": "live ad account 演示 scaling/downscaling 决策过程, 极少见的真实操作画面",
+    "takeaway_count": 6,
+    "video_count": 3,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 4
+      },
+      {
+        "slug": "reporting",
+        "count": 3
+      },
+      {
+        "slug": "analytics",
+        "count": 3
+      },
+      {
+        "slug": "attribution",
+        "count": 2
+      },
+      {
+        "slug": "budget",
+        "count": 2
+      }
+    ],
+    "amazon_relevance_dist": {
+      "high": 5,
+      "medium": 1
+    }
+  },
+  {
+    "slug": "ben-heath",
+    "name": "Ben Heath",
+    "handle": "@BenHeath",
+    "url": "https://www.youtube.com/@BenHeath",
+    "platform": "Meta",
+    "role": "入门到中阶系统教学, Heath Media agency 老板",
+    "why": "覆盖 targeting / 结构 / 文案最全, 500K+ 订阅, 入门补盲必看",
+    "takeaway_count": 30,
+    "video_count": 18,
+    "top_topics": [
+      {
+        "slug": "creative-testing",
+        "count": 14
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 9
+      },
+      {
+        "slug": "copy",
+        "count": 8
+      },
+      {
+        "slug": "scaling",
+        "count": 8
+      },
+      {
+        "slug": "optimization",
+        "count": 7
+      }
+    ],
+    "amazon_relevance_dist": {
+      "low": 5,
+      "medium": 8,
+      "high": 17
+    }
+  },
+  {
+    "slug": "evan-seech",
+    "name": "Evan Seech",
+    "handle": "@evanseech",
+    "url": "https://www.youtube.com/@evanseech",
+    "platform": "Meta",
+    "role": "Meta ads + 漏斗 + B2B/coaching DTC",
+    "why": "Conversion API / match rate / 漏斗 conversion mechanism 讲得细",
+    "takeaway_count": 0,
+    "video_count": 0,
+    "top_topics": [],
+    "amazon_relevance_dist": {}
+  },
+  {
+    "slug": "the-google-pro",
+    "name": "Jyll Saskin Gales",
+    "handle": "@the_google_pro",
+    "url": "https://www.youtube.com/@the_google_pro",
+    "platform": "Google",
+    "role": "ex-Google 6 年, Google Ads coach #1 PPC influencer",
+    "why": "P-Max / Search 框架最稳, 8 个 Google Ads cert + GA4 cert, 不掺水",
+    "takeaway_count": 19,
+    "video_count": 6,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 11
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 7
+      },
+      {
+        "slug": "scaling",
+        "count": 5
+      },
+      {
+        "slug": "landing-page",
+        "count": 5
+      },
+      {
+        "slug": "copy",
+        "count": 4
+      }
+    ],
+    "amazon_relevance_dist": {
+      "medium": 8,
+      "high": 10,
+      "low": 1
+    }
+  },
+  {
+    "slug": "aaron-young",
+    "name": "Aaron Young",
+    "handle": "@AaronYoungGoogleAds",
+    "url": "https://www.youtube.com/@AaronYoungGoogleAds",
+    "platform": "Google",
+    "role": "Define Digital Academy 创始人, e-com Google Ads 实操派",
+    "why": "#1 Google Ads YouTube channel (130K+ subs), 实操步骤极细",
+    "takeaway_count": 46,
+    "video_count": 17,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 31
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 21
+      },
+      {
+        "slug": "bidding",
+        "count": 15
+      },
+      {
+        "slug": "analytics",
+        "count": 13
+      },
+      {
+        "slug": "copy",
+        "count": 12
+      }
+    ],
+    "amazon_relevance_dist": {
+      "high": 32,
+      "medium": 13,
+      "low": 1
+    }
+  },
+  {
+    "slug": "ed-leake",
+    "name": "Ed Leake",
+    "handle": "edleake",
+    "url": "https://www.youtube.com/edleake",
+    "platform": "Google",
+    "role": "Midas Media 14 年 agency owner, $500M+ ad spend managed",
+    "why": "反套路, Smart Bidding scaling 框架 (God Tier Ads), 不爱搞 hype",
+    "takeaway_count": 28,
+    "video_count": 16,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 24
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 10
+      },
+      {
+        "slug": "analytics",
+        "count": 10
+      },
+      {
+        "slug": "creative-testing",
+        "count": 7
+      },
+      {
+        "slug": "bidding",
+        "count": 6
+      }
+    ],
+    "amazon_relevance_dist": {
+      "high": 21,
+      "medium": 7
+    }
+  },
+  {
+    "slug": "ppc-mastery",
+    "name": "Miles & Bob — PPC Mastery",
+    "handle": "@ppcmasterycom",
+    "url": "https://www.youtube.com/@ppcmasterycom",
+    "platform": "Google",
+    "role": "Miles McNair + Bob, PPC Hub 社群创始人",
+    "why": "Demand Gen / SST / enhanced conversions / 现代 Search 结构最有体系, 长视频干货",
+    "takeaway_count": 24,
+    "video_count": 9,
+    "top_topics": [
+      {
+        "slug": "optimization",
+        "count": 7
+      },
+      {
+        "slug": "attribution",
+        "count": 7
+      },
+      {
+        "slug": "copy",
+        "count": 6
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 5
+      },
+      {
+        "slug": "landing-page",
+        "count": 5
+      }
+    ],
+    "amazon_relevance_dist": {
+      "low": 2,
+      "medium": 5,
+      "high": 17
+    }
+  },
+  {
+    "slug": "andrew-lolk",
+    "name": "Andrew Lolk",
+    "handle": "@AndrewLolkTalksPPC",
+    "url": "https://www.youtube.com/@AndrewLolkTalksPPC",
+    "platform": "Google",
+    "role": "SavvyRevenue 创始人, e-com Google Ads only ($10K-$1M/月 客户)",
+    "why": "只做 e-com, 挑战 Google 官方 best practice, AI 分析 PPC data 系列, DTC 场景命中率高",
+    "takeaway_count": 51,
+    "video_count": 19,
+    "top_topics": [
+      {
+        "slug": "bidding",
+        "count": 23
+      },
+      {
+        "slug": "optimization",
+        "count": 19
+      },
+      {
+        "slug": "campaign-structure",
+        "count": 19
+      },
+      {
+        "slug": "reporting",
+        "count": 15
+      },
+      {
+        "slug": "analytics",
+        "count": 14
+      }
+    ],
+    "amazon_relevance_dist": {
+      "medium": 17,
+      "high": 29,
+      "low": 5
+    }
+  }
+]

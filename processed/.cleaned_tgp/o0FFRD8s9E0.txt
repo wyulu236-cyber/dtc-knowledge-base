@@ -1,0 +1,496 @@
+[0s] hey there i'm jill and i'm here with ann
+[2s] peacock the founder of the playful
+[4s] peacock i'm really excited to share this
+[6s] exclusive interview with ann one of my
+[8s] great friends who's going to share with
+[10s] you some of the things she's learned
+[11s] over the last year of starting her
+[13s] business and specifically some of the
+[14s] shopify apps that have been
+[16s] transformational for her business thank
+[18s] you so much for joining me today anne
+[20s] yeah thanks for having me
+[22s] so to get started you launched your uh
+[25s] toy shop on shopify in was it april of
+[29s] 2021 april of april of last year
+[32s] got it and what motivated you to become
+[34s] an e-commerce entrepreneur
+[37s] well um
+[39s] i'm one of those parents that during the
+[41s] pandemic uh found myself in a position
+[43s] where i was caring for my children
+[44s] full-time at home time full-time at home
+[47s] and i became obsessed with toys and play
+[49s] to keep them entertained and it became
+[52s] an obsession turned passion and i
+[54s] thought that i would start
+[56s] an online store because i spent all this
+[58s] time curating products for my kids
+[61s] and i had
+[63s] clean a gap in the canadian market where
+[64s] a lot of these products weren't
+[65s] available and so i was shipping them
+[67s] overseas and working with makers from
+[69s] overseas and i just thought you know
+[71s] what i can run this from my home and
+[73s] help fill a gap in a candy market and
+[75s] bring great toys to parents in canada
+[78s] and across the world
+[79s] and i'm so glad you do full disclosure
+[81s] so and i met on tick tock and i'm
+[83s] actually one of her top customers right
+[84s] now i get all of my baby gifts and toys
+[87s] and everything from the playful peacock
+[89s] which is one of the many reasons i'm so
+[91s] excited you're joining me today
+[94s] so let's jump right in um you launch
+[96s] your shopify store you start running for
+[98s] a few months and then of course one of
+[100s] the number one things any entrepreneur
+[102s] but especially ecommerce entrepreneurs
+[104s] have to think about is conversion rate
+[106s] getting that website traffic to actually
+[109s] end up in sales uh so one of the things
+[112s] that i saw you implemented a couple of
+[113s] months ago was live chat so can you tell
+[115s] me a little bit more about how you
+[117s] decided to implement it and which live
+[119s] chat app you use
+[121s] yeah so live chat was something um
+[124s] so there's two things i was getting a
+[126s] lot of customer messages in my emails
+[128s] and what i was finding was that um
+[131s] there wasn't really
+[133s] a simple way to automate the
+[135s] communication through email in a way
+[136s] that i thought was like very customer
+[138s] service oriented versus just like
+[139s] templates going out
+[141s] and i had done a free shopify training
+[144s] for black friday oh one of the things
+[146s] that all of the people on the panel had
+[148s] said was you need to get a live chat
+[150s] um and this was specifically for black
+[152s] friday just because of the volume and
+[154s] the customer issues that can arise
+[156s] because there's so much traffic that's
+[158s] expected to your site
+[159s] and so i decided to take the plunge and
+[161s] install a live chat um and it's been
+[164s] transformational to my business i wish i
+[166s] had installed it from day one
+[170s] and i use the chat that i use is called
+[172s] tidio
+[173s] and uh one of the great things about it
+[175s] is that you can automate um a lot of
+[178s] buttons up front so when people do open
+[180s] up the live chat option
+[181s] you can help to automate certain
+[184s] navigation points for them so that
+[185s] they're not always coming and asking
+[188s] repetitive questions
+[189s] and that's also been very
+[191s] transformational in terms of just
+[192s] freeing up a lot of my time to customer
+[194s] requirements
+[195s] and air traffic control
+[197s] yes exactly exactly and the other great
+[200s] thing about the app is that
+[201s] you know you're getting a direct
+[203s] communication line to your customer
+[204s] which has an e-commerce business that's
+[206s] something you don't get i mean if i had
+[208s] a physical store i'd be
+[209s] seeing my customers in person and
+[211s] creating that connection as an online
+[213s] store
+[214s] it's difficult to build that um personal
+[216s] connection with your customers so the
+[218s] live chat gives you an opportunity to
+[220s] connect more with your customers but it
+[222s] also shows you the roadblocks right
+[224s] where they're getting stumped on your
+[225s] site and so the first week that i
+[226s] implemented the live chat
+[229s] people were asking me the same question
+[230s] they all wanted to know do i offer local
+[232s] pickup really and i have a whole page
+[235s] since that yeah
+[237s] but people didn't know how to get to
+[238s] that page it wasn't easy for them to
+[240s] navigate and so
+[242s] one of the buttons i stalled when you
+[244s] open up the chat is a local pickup so
+[247s] you can click on that and it will tell
+[248s] you all about our local pickup and that
+[250s] was just something where
+[252s] uh it gave me so much insight into where
+[254s] my customers were getting stuck and if
+[256s] they couldn't find local pickup and they
+[257s] didn't want to pay for shipping then
+[258s] maybe they're not going to convert to a
+[260s] sale right and so that completely opened
+[263s] my eyes to a lot of customer issues and
+[264s] how they were navigating my
+[266s] website at such a great point for me as
+[268s] a service provider someone comes to my
+[270s] website they don't just buy the thing
+[272s] they do is reach out to me and then i
+[274s] have the opportunity to talk to them one
+[275s] to one and try to close the sale but as
+[278s] an e-commerce business you don't have
+[279s] that and so it sounds like live chat
+[280s] gives you the opportunity for those who
+[282s] are really serious serious enough to
+[284s] want to engage with you you can have
+[286s] that you know one-on-one closing the
+[288s] sale yeah and i have walked so many
+[290s] customers over over the conversion line
+[293s] like literally walking through the
+[295s] entire process
+[296s] um especially like grandparents like
+[298s] grandparents are a huge thing one of my
+[300s] customer base
+[301s] and not that grandparents aren't tech
+[303s] savvy but sometimes they get frustrated
+[305s] with technology so i've i've walked so
+[307s] many people over that conversion line
+[309s] that's directly resulted in the sale so
+[311s] when i say it's been transformational
+[313s] for my business it really has
+[315s] that's so great to hear and so you
+[317s] actually got the idea you mentioned from
+[318s] shopify's black friday workshop that
+[320s] anyone with a shopify store can attend
+[322s] right yeah yeah they have these um
+[325s] like local online meetups where in the
+[328s] one that i had done it was um like
+[330s] toronto uh based one and it was just
+[332s] online because of pandemic but it was a
+[334s] bunch of shopify
+[336s] successful shopify e-commerce uh
+[338s] businesses and it was like a panel and
+[340s] they had an agenda and a schedule and we
+[342s] got to ask questions and one of the big
+[343s] things were you know their favorite apps
+[345s] that they like to use and so
+[347s] um i'm sure they do more than just for
+[349s] black friday but the black friday one
+[350s] was incredible so if you're
+[353s] running a shopify store i would try to
+[355s] connect with that community or sign up
+[356s] for those types of events because you're
+[359s] getting first-hand experience from
+[360s] people that live and breed shopify
+[362s] especially when it comes to you know
+[364s] which apps they like to use
+[366s] absolutely and so as you mentioned live
+[368s] chat was great advice you got directly
+[370s] from shopify and you've implemented and
+[372s] it's transformed your business and
+[374s] really helped your conversion rate and
+[376s] your customer service uh what's another
+[378s] app that you use now that you couldn't
+[380s] live without
+[382s] so
+[383s] um
+[384s] probably my second favorite app is
+[386s] called judge me um judge me is a
+[389s] customer review app so after a certain
+[391s] period of time from a sale the judge me
+[394s] app will send an email to a customer
+[396s] asking them for a review of the product
+[398s] um what's great about it is that the
+[400s] review process is very simple in the
+[401s] email you you can just fill it out there
+[403s] you just click a star button and you can
+[405s] write a two sentence and it sends it
+[408s] sends the review
+[409s] um so it's very quick for the customer
+[411s] which is great because really no one
+[412s] likes writing reviews um
+[415s] and when it sends it to me i can publish
+[418s] it or i can hide it so i've
+[421s] i do believe in full transparency
+[423s] because someone doesn't have you know
+[424s] critical feedback about i would post it
+[427s] but i have had some very
+[429s] odd ones that weren't factual and so
+[432s] i've chosen not to put those on
+[434s] um because i just didn't think they were
+[436s] factual based um it also allows you to
+[439s] um
+[440s] request an edit so i've had some
+[442s] customers where
+[444s] they've had a few spelling mistakes or
+[446s] they're actually referring to an
+[447s] incorrect product and so i've been able
+[449s] to edit
+[450s] that you know just like one or two words
+[452s] and send it back to them for review and
+[454s] then they can approve it before we
+[456s] before we post it so when you go to my
+[458s] website the bottom will be all those
+[459s] reviews and then when you go to the
+[461s] product page those reviews will be there
+[462s] as well
+[463s] and it again it's just it's it's social
+[466s] proof i mean it's
+[468s] people look at reviews before they want
+[470s] to purchase with you and that is one of
+[472s] the apps that i wish i had also just
+[474s] installed on day one
+[476s] um
+[477s] because customer feedback and customer
+[479s] um
+[482s] customer reviews just absolutely uh help
+[485s] to convert for future orders
+[487s] and it sounds like what's great about
+[489s] judgment as well is it's verified
+[490s] customers you know i think people often
+[492s] worry about with having their google
+[494s] business profile or their facebook page
+[495s] is just any joe schmo who can come write
+[498s] a review and then it's there forever and
+[500s] so what's nice about this and again i'm
+[501s] a customer i've received these before is
+[503s] only if someone has bought a product and
+[505s] they review that product and then you as
+[507s] a business owner can help make sure that
+[509s] that review is accurate and spelled
+[511s] correctly and all that stuff before it's
+[513s] published for good on your website the
+[515s] verification is really important because
+[516s] again it gives further credibility the
+[518s] other thing that's great about the app
+[520s] is that
+[521s] um so say you bought five different
+[523s] things for me um the app automatically
+[525s] picks the most expensive product to send
+[527s] a review but say that i've got like six
+[530s] reviews on that and there's one product
+[532s] that i really want to review on i can
+[534s] actually go into the app and change
+[536s] which product i'm asking the customer to
+[538s] review
+[539s] um
+[540s] so that's really great in terms of just
+[542s] getting reviews across a whole bunch of
+[543s] different products
+[545s] and you have that ability to tweak that
+[547s] you can also send multiple reviews for
+[549s] multiple customers um what i also like
+[552s] is that if you've shopped in a certain
+[554s] period of time the app won't send
+[557s] frequent reviews for all the products
+[559s] annoying that we have acquired the
+[561s] customer so there's a lot of great
+[562s] features and that again that's called
+[564s] judgement they have an incredible um
+[567s] reputation with shopify as like one of
+[569s] the best uh review apps
+[572s] and so i i would highly highly recommend
+[574s] that
+[575s] and i'll make sure to put the link to
+[576s] all these down below for those who want
+[578s] to check out these apps for themselves
+[580s] yeah and then one more thing i know that
+[581s] you and i spoken about before ann is
+[583s] that especially as a small business
+[584s] owner when you're starting out it can be
+[586s] really hard to hold a lot of inventory
+[589s] and so something now that you
+[590s] implemented for the holiday season as
+[591s] well um is back in stock notifications
+[595s] and
+[595s] pre-orders so can you tell us about how
+[598s] you're using shopify apps to kind of
+[599s] manage your inventory and supply and
+[602s] demand
+[603s] yeah so i have um so two other apps i
+[605s] have are back in stock
+[607s] um i'll have to send you the name of the
+[609s] app but there's a back in stock uh
+[611s] application that i have
+[612s] um so that's basically when when a
+[614s] product sells out if a customer wants to
+[616s] be notified of the when we get them back
+[618s] in stock they'll basically get an email
+[620s] and it's nice because this one
+[621s] specifically doesn't sign you up for
+[622s] email marketing like customers are often
+[624s] worried about doing back and stock
+[626s] notifications because
+[627s] if they don't want to be bombarded with
+[629s] marketing emails so this one very
+[631s] specifically i've tweaked to say you're
+[632s] just going to get notified of the
+[634s] product when it's back in stock
+[636s] um and that's really great too because
+[637s] you can see
+[638s] the customer demand right so when
+[640s] something sells out and if no one's
+[642s] signing up for the back in stock you
+[644s] know even though it's sold out you might
+[645s] there might not be a demand for that as
+[648s] as much as you thought and so i might
+[650s] choose to
+[652s] maybe replenish another product where i
+[654s] see that there's 10 or 20 back in stock
+[656s] signups so let's say maybe i'll order 30
+[658s] of those and then they all just order
+[660s] you know six or seven of the other one
+[661s] whereas i was going to do you know 20 of
+[663s] each of them so it really again it gives
+[665s] you customer insight into like what is
+[667s] the demand of certain products
+[669s] and uh helps you manage that inventory
+[672s] and then the other app that i have is um
+[675s] it's called uh low scarcity
+[678s] so it allows you to
+[680s] um say how many products you have left
+[682s] in stock
+[683s] so for me
+[686s] that scarcity mentality
+[688s] i think directly correlates with
+[690s] conversion right like i know i've been a
+[691s] sector that oh my gosh there's only two
+[693s] left i have to get it right
+[694s] and we've all been in that situation
+[696s] where
+[697s] you you want this product you're like
+[699s] i'll go back next week and bite you go
+[700s] back next week and it's sold out and
+[702s] you're just like ah right so this app
+[705s] allows you to um set up for whatever
+[707s] number you want so for me it's five so
+[709s] when a product one of my inventory gets
+[711s] down to five the low scarcity app goes
+[714s] up so when you go to the product page it
+[715s] will it kind of flashes and toggles and
+[718s] it says yeah low stock only five left or
+[721s] four left or three left or two about so
+[723s] um and you can change that and tweak
+[724s] that to whatever you want it to say um
+[727s] but i've
+[728s] again something i wish i had implemented
+[730s] right from the beginning but that has
+[732s] been something i've seen direct like
+[733s] customers have reached out to me and
+[734s] said oh i'm so glad i got the last one
+[737s] or oh you know there are only two left
+[738s] and i have to get both because i know a
+[740s] friend that might want it right so
+[742s] it's it's really helped with conversion
+[745s] and what i like about all these
+[746s] different apps whether it's the live
+[747s] chat or the product reviews or the
+[750s] pre-order it's all about trust right
+[752s] they're all these little things like
+[753s] there's only two and left it must be
+[755s] popular or like seeing the star review
+[757s] someone else has bought this that's
+[758s] great or i have a question i can do it
+[760s] there there are all the different ways
+[762s] to help build that trust so you can take
+[764s] all that great traffic that you're
+[765s] attracting and get people to actually
+[768s] buy and close that exactly
+[770s] exactly you know traffic was never a
+[771s] problem for me it was always conversion
+[773s] and i think that's what's so frustrating
+[775s] when you're starting out you're like you
+[776s] see the traffic you're like people like
+[777s] me people like me but like no one's
+[779s] buying anything right and my conversion
+[781s] rate i think was like point
+[783s] zero seven or so i mean it was just
+[785s] awful and now i'm
+[787s] i think 1.5 which for not even a year in
+[789s] business is
+[790s] you know really impressive it's pretty
+[792s] good right yeah and you know being
+[794s] understanding customer behavior and
+[796s] understanding
+[797s] you know that
+[798s] again social proof scarcity mentality um
+[801s] the back in stock and just the live chat
+[803s] like building connection building trust
+[805s] and
+[806s] allowing that buying experience for your
+[808s] customer to be just seamless across
+[811s] everything right so um those apps that
+[813s] shopify offer are just there's so many
+[816s] great choices and there's so many that i
+[818s] think if you're thinking about opening a
+[819s] store put them in from day one like
+[821s] don't wait six months just
+[823s] have reviews from day one have live chat
+[826s] from day one right start building that
+[828s] connection interest and your conversions
+[830s] will happen
+[831s] and something else that's so instructive
+[833s] as well from your example is just that
+[834s] your shopify store doesn't have to be
+[836s] static
+[837s] you can launch and then you can keep
+[839s] adding ads taking away apps adding more
+[841s] and more and more and you know it's like
+[844s] like lego putting your own kind of
+[846s] experience together and so it's cool to
+[848s] see how you've taken all these different
+[849s] opportunities to just really improve
+[851s] conversion rate by stacking all these
+[853s] different apps on top of each other yeah
+[855s] and you know it's it's a constant
+[856s] evolution and again like i'd love to
+[858s] redo my website
+[860s] you know a million ways over but
+[862s] you know i'd rather invest that money
+[864s] and other things at the moment right but
+[866s] the apps
+[867s] that transform your business like that
+[869s] and you know for some of them i think
+[870s] they're you know maybe 10 bucks a month
+[872s] like that's a good investment right so i
+[874s] have a template a shopify template that
+[876s] my website's built off of
+[878s] um it's nothing fancy it's easy to
+[880s] navigate and for me product you know
+[882s] like it showcases product well and then
+[884s] these apps have just been oh sorry i
+[886s] realized my screen was
+[889s] um these apps
+[890s] i know my life however um
+[893s] the apps have just been transformational
+[896s] yeah that's great so it sounds like you
+[898s] know if you had one piece of advice for
+[899s] someone who's planning to start an
+[900s] e-commerce business in 2022 well first
+[903s] of all you seem a very happy shopify
+[905s] store owner but secondly to really
+[907s] experiment with those that are going to
+[909s] support conversion rate yes yes exactly
+[911s] and again there's a lot of choices and
+[913s] so i think when you're looking shopping
+[915s] for apps as well again look at the
+[917s] customer views a lot of them offer free
+[919s] trials which is great so like i've done
+[921s] i've done i've added lots of other apps
+[922s] that just haven't worked for my business
+[924s] and so most of them offer a free trial
+[927s] um
+[928s] so it's great because you can try before
+[930s] you buy and make that investment in your
+[932s] business
+[933s] which we always like to be able to do as
+[934s] consumers yeah
+[936s] [Laughter]
+[937s] great well and thank you so much for
+[939s] joining me today and for sharing your
+[940s] expertise with all the viewers of this
+[942s] video and my newsletter subscribers who
+[944s] are going to get access to this
+[945s] interview first i really appreciate it
+[947s] and i know they do too thank you nice
+[949s] nice chatting with you

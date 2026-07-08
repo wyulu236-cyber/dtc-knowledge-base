@@ -1,0 +1,448 @@
+[0] [Applause]
+[0] [Music]
+[4] what's up you guys Bob here from BBC
+[7] Mastery and in this episode I want to
+[9] talk about first party data segment
+[11] ideas for your audience signals to be
+[14] used inside of your Google ads campaigns
+[16] and this can be PMX campaigns but also
+[18] dedicated Opera funnel campaigns like
+[21] demand gen display YouTube whatever so
+[25] let's quickly start off with the wise
+[28] why is it so important to leverage first
+[30] party data well there are basically
+[32] Three core reasons and the first one is
+[35] better segmentation
+[37] first party data can be segmented the
+[40] way you like as an Advertiser and this
+[42] allows for more refined audience
+[44] targeting and segmentation in comparison
+[47] to all of the standard Google ads
+[49] audience segments like the in-market
+[51] audience segments and the Affinity lists
+[53] we all know number two is it leads to
+[56] higher relevancy first party data
+[59] reflects direct interactions with your
+[62] brand leading to more relevant signals
+[64] and therefore more relevant targeting
+[67] inside of your campaigns at least that's
+[69] what we're hoping for number three is a
+[72] competitive Advantage so your first
+[75] party data is unique to your brand and
+[77] it cannot be replicated by your direct
+[79] competitors so the better your you are
+[82] in utilizing your first body data and
+[85] creating very valuable segments the more
+[89] of an edge you will create in comparison
+[91] to your competitors
+[93] so in this video I want to touch on four
+[97] main verticals or buckets so to say we
+[101] have two main audience segment ideas for
+[105] different verticals that can be applied
+[107] to Legion software as a service and Ecom
+[111] and we have the other three buckets
+[114] Legion software as a surface SAS and
+[118] Ecom so we're going to touch on all of
+[119] these in this small episode so let's
+[123] quickly start off with the overall first
+[127] party data segments that can be used for
+[129] every type of business
+[130] so the first audience segment you can
+[133] create is engaged visitors
+[136] so these are uses who have spent a
+[139] significant amount of time on your
+[141] website or have visited multiple pages
+[144] so they have shown a genuine interest in
+[147] the content but haven't yet converted so
+[150] think about users who visited more than
+[153] two or three pages on your website and
+[156] or spend more than two minutes browsing
+[159] around all of the pages on your website
+[161] and ideally you want to segment out
+[164] users that have visited high value Pages
+[167] such as specific Services service Pages
+[171] or product detail Pages or feature pages
+[175] that feature specific segments of your
+[178] products for example your software tool
+[181] so this is the first
+[183] high value audience signal that you can
+[186] use based on a simple filtered
+[188] remarketing list for example
+[191] the second one is newsletter subscribers
+[193] and this can be applied to every single
+[195] business as well so people that have
+[198] subscribed to your newsletter have shown
+[201] interest in your services or products so
+[204] you want to upload all current active
+[207] newsletter subscribers or segment your
+[210] list into addresses with high open rates
+[213] so ideally you want to only target well
+[216] users that are highly engaged and that
+[219] are your ideal customer profiles so if
+[222] you have high volumes it's better to
+[225] segment out your newsletter list into
+[227] separate high value segments like the
+[230] the people that are engaging with your
+[233] newsletter every every single week
+[235] so those two
+[237] segments can basically be applied to all
+[241] of the different businesses then we have
+[244] the other three buckets so to say legion
+[247] Ecom and software as a service and let's
+[250] start off with some first party data
+[253] segment ideas for Legion the first one
+[256] that is well can be really impactful is
+[260] ungated content downloaders so these are
+[263] users who have downloaded ungated white
+[266] papers ebooks or other lead magnets on
+[269] your site but haven't really filled a
+[272] primary lead gen form like a contact
+[274] form or a demo request or a type of
+[277] order lead form that really defines them
+[280] as a lead so the key word here is
+[283] ungated
+[284] so these uses can be tracked by tracking
+[287] custom events and using these events to
+[290] populate a gf4 remarketing list that can
+[293] then be imported inside of your Google
+[294] ads account and that can then be used
+[296] inside of your audience segment ideas
+[299] audience segment targeting so let's see
+[302] first one ungated content downloaders
+[304] the second one is form abandoners so
+[308] people who have started filling out the
+[310] lead generation form but didn't complete
+[313] the process are highly interesting
+[316] profiles since they are very close to
+[320] converting and might just need a little
+[322] push from filling out the form to
+[324] actually becoming a lead so it's very
+[328] interesting to Target these kinds of
+[330] users inside a segmented list as well to
+[333] then use as a signal if you really lack
+[336] volumes in lists like primary leads or
+[340] qualified leads or even customers then
+[343] this is a great audience segment to use
+[345] in my opinion
+[346] number three is event attendees so these
+[351] are uses who have registered for
+[353] webinars seminars or workshops and
+[357] basically this shows a higher level of
+[358] interest and commitment so a few months
+[361] ago Mars and I hosted a PPC Mastery
+[365] event for our Discord members and well
+[369] every one that basically registered for
+[371] that event can be used as an audience
+[374] signal for one of our future campaigns
+[377] we're definitely not going to do that
+[378] since everything we do is basically all
+[381] organic but it is just an example
+[384] because all of these people can be well
+[386] can be potential clients of one of our
+[389] products for example
+[391] number four is qualified leads so those
+[395] who have shown interest in the past and
+[397] have been captured and marked as
+[398] qualified leads are highly interesting
+[401] profiles to be used inside of audience
+[404] segments as well so
+[407] preferably you want to Target qualified
+[409] leads and not leads as a total but if
+[414] you do not have the if you do not have a
+[417] lead scoring process in place or if you
+[420] lack the volumes to do so it's it's also
+[423] a great way to just upload all of the
+[425] leads that have well filled in a primary
+[427] form like a contact request a demo
+[430] request or whatever so basically those
+[433] are two options within number four
+[435] qualified leads or all of the leads
+[438] number five is basically all of your
+[442] past customers create a list of all
+[445] recent customers preferably segmented by
+[448] your ideal customers for example high
+[451] value customers and these are the leads
+[453] that have previously made significant
+[455] purchases because well you want to
+[458] Target or you want to upload the most
+[462] valuable customers to your audience list
+[465] eventually to give Google an idea about
+[468] who your ideal customer profiles are
+[470] because they represent your top tier in
+[474] terms of revenue generated and you would
+[476] like to have more of them if your list
+[479] becomes too small and if you have just a
+[482] few really high value customers and you
+[485] have more customers in your mid and low
+[487] range then consider to upload all of
+[490] these segments and just consider
+[492] uploading One customer list but it's
+[495] always better to segment them out if you
+[497] have the volumes and tell Google what
+[499] your will your ideal customer profiles
+[502] really are so there you have it five
+[504] ideas for Legion already
+[507] ungate the content downloaders form
+[509] abandoners event attendees qualified
+[512] leads or leads or high value customers
+[515] or customers if you lack the volume
+[518] so let's continue with SAS software as a
+[522] service
+[522] the first first party data segment idea
+[525] over here is free trial users so you
+[529] want to Target users who have already
+[531] signed up for a free trial but haven't
+[533] really upgraded to a paid plan yet what
+[537] you can do is basically use this list if
+[540] your customer list is too small or if
+[544] you want to Target more potentially
+[546] irrelevant Google users that are similar
+[549] to the ones that signed up for your free
+[551] trial so it's a great way to fill your
+[554] audience list and audience targeting
+[556] upon number two is incomplete setups
+[560] so these are uses we'll begin setting up
+[563] their software account or their product
+[565] or tool but didn't really complete all
+[568] the necessary steps so if you lack the
+[571] volumes once again in terms of customer
+[573] profiles people that actually are paying
+[576] for a plan right now then this can be an
+[579] interesting list to upload as well this
+[582] is not my go-to list but if you're
+[584] missing volumes then it could be an
+[586] interesting one to consider number three
+[590] are frequent users and these are really
+[594] regularly regular users who can
+[597] potentially be brand Advocates since
+[599] they are using your product or tool
+[601] every single day and way more frequent
+[604] than similar profiles so if this list is
+[607] big enough you can use this list to
+[609] Signal Google ads how your ideal
+[611] customer profile looks like and that you
+[614] want to Target more of them and your
+[617] goal is in essentially to obtain as many
+[619] as potentially potential brand Advocates
+[622] Advocates as possible so this can be a
+[625] highly interesting audience signal to be
+[628] you to be used as well
+[630] number four is users per different tier
+[634] level so if you are using different
+[638] tiers for your product or tool then you
+[641] want to create segments per tier for
+[644] example if you have a basic premium
+[647] Enterprise level a subscription model
+[650] then make sure to upload your customers
+[653] according to the plan they have been
+[655] subscribed to right now
+[657] then ideally if your lists are big
+[661] enough you want to Target the segments
+[663] that are of most value to you and the I
+[667] and and by that you signal to Google The
+[671] Google Google profiles that you would
+[673] like to Target well more of that you
+[676] would like to have more of so if you
+[677] have the volumes Target for example the
+[680] Enterprise level subscribers or the
+[682] premium level subscribers if you lack
+[685] the volumes then just Target all of the
+[689] people currently subscribe to your
+[690] product or service
+[692] number five is labsed customers so if
+[696] previous segments are small then you can
+[700] consider uploading customers who have
+[702] already had a subscription but have
+[705] canceled in the past so you can also
+[707] create different segments if you'd like
+[710] you can also a segment Labs customers on
+[713] their tier level basic premium
+[716] Enterprise level whatever materials
+[718] you're using you can also segment based
+[721] on customer lifetime value how valuable
+[723] they have been to you in the past
+[725] Etc so if you lack volumes lapsed
+[729] customers is always is also a great
+[730] signal to use inside of your audience
+[733] list targeting
+[735] all right there we have it so to recap
+[737] five audience signal ideas for SAS free
+[741] trial users incomplete setups frequent
+[744] users that can be your brand Advocates
+[746] uses per different tier level ideally in
+[750] the the tier that may that is the most
+[752] valuable to you and where you would like
+[754] to sell sell more of and lastly labsed
+[758] customers that have been and that that's
+[761] subscribed in the past
+[763] then finally we have the last bucket
+[766] e-commerce so firstly you can create a
+[770] audience list based on wish list
+[773] creators if you have a wish list and
+[776] these are people who have interacted
+[778] with your site and have added certain
+[779] products or multiple products to their
+[782] wish lists or favorite lists they have a
+[785] clear intent and basically you can tell
+[789] Google that you want to Target more
+[791] Google users like them because they have
+[794] shown interest and hopefully they are
+[797] close to converting so that's audience
+[800] signal idea number one number two and
+[804] that's a combined one and this one is
+[805] really familiar to most of you that is
+[808] abundant Behavior audience signals so we
+[812] basically have two variants we have one
+[814] cart abandoners and two checkout
+[817] drop-offs so looking at Carter banners
+[820] these are individuals users with added
+[823] products to their cards but didn't
+[825] finalize the purchase so they are one of
+[828] the hottest segments to Target because
+[830] they have also shown clear intent but
+[832] didn't didn't went through and started
+[835] the checkout process then we have to
+[837] check out drop-offs these are users that
+[840] have shown a higher intent to purchase
+[842] compared to those who just added items
+[845] to the cart so they have taken several
+[848] steps to complete the transaction but
+[851] left for some reason right before making
+[853] the purchase so these are all
+[856] remarketing lists that you can populate
+[859] through gf4 for example and import to
+[862] Google stats and then use as a segment
+[865] within your audience signal or segment
+[869] number three is best purchases so you
+[873] can create different segments based on
+[877] the purchase and purchase Behavior the
+[880] purchase history and the purchase
+[881] behavior of your clients so we we
+[885] basically have five core segments of
+[888] past purchases so the first one is
+[891] category repeat buyers and these are
+[894] people who often buy from the same
+[896] category so let's say you have 10 main
+[901] categories in place and you want to
+[904] create a audience segment of people that
+[907] are buying diapers every single month so
+[910] what you can do is create multiple
+[912] audience segments for those types of
+[915] repeat category buyers that you can then
+[917] Target in specific category audience
+[920] segments like let's say you want to run
+[922] a performance Max campaign for selling
+[925] diapers then you can Target repeats
+[928] category buyers of people that regularly
+[931] buy diapers so to say and no I'm not
+[933] having a kid yet this is just something
+[935] that just popped up in my head so number
+[938] two is seasonal Shoppers users will
+[941] mainly shop during specific Seasons or
+[944] holidays for example those who bought
+[947] winter gear last year might be
+[948] interested in New Winter rifles next
+[951] year or this year and this is
+[954] particularly interesting for fashion
+[957] e-commerce e-commerce store owners let's
+[959] say a new season season stock drops next
+[964] month then you can basically create a
+[966] list of every single customer that have
+[969] purchased within the first couple of
+[971] weeks of that new stock drop last year
+[974] and then try to Target or signal to
+[978] Google that those are the profiles
+[979] you're looking for because those might
+[982] be the first movers the first one that
+[984] likes to like to shop as soon as a new
+[987] product category stock gets dropped for
+[991] example
+[992] then we have a brand loyalist so those
+[996] are Shoppers who consistently buy a
+[999] specific brand from your store so let's
+[1002] say you have a big store and you see
+[1004] that some of your clients frequently buy
+[1007] Samsung Galaxy mobile phones every
+[1010] single year so every single year you
+[1012] have a bunch of clients buying the same
+[1015] product over and over again once a new
+[1018] version has been released so you can
+[1020] Target those kinds of brand loyalists
+[1022] that are an ideal segment to use if you
+[1025] are running specific the campaigns or ad
+[1029] groups or asset groups for a specific
+[1032] brands or specific Brands times
+[1035] categories so you can go highly specific
+[1039] for these segments and these segments
+[1042] are mainly interesting for the big boys
+[1045] the ones that are sitting on a lot of
+[1047] data points a lot of customer customer
+[1049] profiles but maybe if you're doing less
+[1053] lesser volume these can be interesting
+[1055] for you as well just make sure that
+[1058] you're big just make sure that your list
+[1060] stays big enough
+[1062] so then we have discount hunters and
+[1064] this is an interesting list as well
+[1066] especially if you are if you are pushing
+[1068] specific campaigns during sale periods
+[1071] or big events like Black Friday or Cyber
+[1074] Monday what you can do is basically
+[1076] create a list of all users that
+[1079] frequently make purchases during sales
+[1083] or sale periods and or use specific
+[1086] discount codes so once again this is
+[1089] ideal if you want to Target lookalike
+[1092] profiles that also tend to shop during
+[1095] well sale periods or events like Black
+[1098] Friday and Cyber Monday that are coming
+[1100] up in a few months already
+[1102] and lastly we can make a high ticket
+[1105] buyer segment of the people that have
+[1108] purchased in the past and those are
+[1111] users will frequently make high value
+[1113] purchases you can use this list in your
+[1116] audience segment signals to let Google
+[1119] look for users with similar
+[1121] characteristics so if you want more High
+[1124] ticket buyers then well you might want
+[1128] to instruct Google to to go and look
+[1131] after them using a separate segmented
+[1134] past purchases list
+[1137] so lastly we have a idea
+[1142] that is around a loyalty program
+[1145] so what you can do is if you have a
+[1147] loyalty program set up as an e-commerce
+[1149] player this can be online and or offline
+[1152] you can create a segment of all of your
+[1155] most loyal customers that are frequent
+[1159] buyers of you of yours that are well
+[1161] coming back and using their loyalty
+[1163] cards almost every single time and you
+[1166] upload them as a customer list instead
+[1169] of Google ads use it as a signal to
+[1171] Signal Google ads that you want to look
+[1174] for more Google profiles that have
+[1176] similar characteristics so that's the
+[1178] last one that could be highly
+[1180] interesting to be to use if you have a
+[1183] loyalty program of course so let's recap
+[1186] for Ecom we have wishlist creators we
+[1190] have Carter banners checkout drop-offs
+[1193] we have the big segment past purchases
+[1196] which can be segmented out in category
+[1199] repeat buyers seasonal Shoppers brand
+[1202] loyal loyaltists discount Hunters and
+[1205] high ticket buyers and lastly we have
+[1208] loyalty program members so these are
+[1212] just some of the first party segment
+[1215] list ideas you can create there are way
+[1218] more but I think these are the most
+[1220] interesting segments that you can create
+[1222] per vertical or per account type so
+[1226] hopefully this was of a great value to
+[1228] you if it was let me know below this
+[1230] post below this video and hopefully see
+[1233] you in the next video ciao
+[1235] [Music]
+[1239] thank you

@@ -1,0 +1,772 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:03.544
+Margin based campaigns in Google is a broken strategy
+
+00:00:03.545 --> 00:00:05.528
+and I'm here to tell you why they don't
+
+00:00:05.529 --> 00:00:07.448
+work and what you should do instead.
+
+00:00:07.449 --> 00:00:09.872
+Margin based campaigns are still not only being
+
+00:00:09.873 --> 00:00:12.000
+run in Google Ad accounts, but are still
+
+00:00:12.001 --> 00:00:15.592
+being recommended by people, which just constantly surprises
+
+00:00:15.593 --> 00:00:17.696
+me because the foundation for that type of
+
+00:00:17.697 --> 00:00:20.120
+campaign structure is just full of holes.
+
+00:00:20.121 --> 00:00:22.256
+Margin based campaigns is this thing where
+
+00:00:22.257 --> 00:00:23.992
+you set up different Google shopping campaigns
+
+00:00:23.993 --> 00:00:27.184
+or different PMAX campaigns for different groups
+
+00:00:27.185 --> 00:00:28.816
+of products based on their margin.
+
+00:00:28.817 --> 00:00:31.048
+It'll typically look something like this.
+
+00:00:31.049 --> 00:00:34.952
+You have a high margin campaign targeting 300% ROAS, you
+
+00:00:34.953 --> 00:00:38.312
+have a mid margin campaign targeting 500% ROAS, and you
+
+00:00:38.313 --> 00:00:42.048
+have a low margin campaign targeting at 700% ROAS.
+
+00:00:42.049 --> 00:00:44.312
+Whatever these targets are, it doesn't really matter.
+
+00:00:44.313 --> 00:00:46.120
+But basically what we're trying to do here is
+
+00:00:46.121 --> 00:00:49.928
+you're trying to bid high for high margin product
+
+00:00:49.929 --> 00:00:52.272
+and thereby get a lot of volume, maximize revenue.
+
+00:00:52.273 --> 00:00:54.288
+And for the lower margin products, you're basically
+
+00:00:54.289 --> 00:00:56.832
+trying to protect them so they're not unprofitable.
+
+00:00:56.833 --> 00:00:59.924
+Having all these products in the same
+
+00:00:59.925 --> 00:01:02.708
+campaign is on paper really bad.
+
+00:01:02.709 --> 00:01:04.916
+And it makes a lot of sense to break them
+
+00:01:04.917 --> 00:01:07.732
+up because obviously you want to get, you want to
+
+00:01:07.733 --> 00:01:10.524
+protect your lower margin products from not overspending.
+
+00:01:10.525 --> 00:01:11.700
+Plus you want to get as much
+
+00:01:11.701 --> 00:01:13.812
+out of your high margin products.
+
+00:01:13.813 --> 00:01:17.364
+The problem is that it assumes the consumers buy
+
+00:01:17.365 --> 00:01:19.204
+what they click on, which isn't the case.
+
+00:01:19.205 --> 00:01:22.260
+I've done this analysis in many, many accounts and
+
+00:01:22.261 --> 00:01:25.220
+every single time I review it, at least 3,50%
+
+00:01:25.221 --> 00:01:28.364
+of consumers buy a completely different brand or completely
+
+00:01:28.365 --> 00:01:31.284
+different category than the product that they clicked on.
+
+00:01:31.285 --> 00:01:34.084
+The second problem is that the way that Google reports
+
+00:01:34.085 --> 00:01:37.716
+on this, many assume that because Google show clicks and
+
+00:01:37.717 --> 00:01:41.604
+conversions tied back to the individual product or item id,
+
+00:01:41.605 --> 00:01:43.756
+then it's showing what people actually bought.
+
+00:01:43.757 --> 00:01:44.892
+This is also wrong.
+
+00:01:44.893 --> 00:01:47.716
+Google reports on what products were clicked on,
+
+00:01:47.717 --> 00:01:49.868
+not the product that was actually bought.
+
+00:01:49.869 --> 00:01:52.188
+Although you can expand your conversion tracking with cart
+
+00:01:52.189 --> 00:01:54.588
+data and get all this information, it still doesn't
+
+00:01:54.589 --> 00:01:57.672
+change my point of view on margin based campaigns.
+
+00:01:57.673 --> 00:01:58.976
+The third problem is that
+
+00:01:58.977 --> 00:02:00.592
+you're splitting up your data.
+
+00:02:00.593 --> 00:02:02.816
+If you have a thousand conversions a month, then
+
+00:02:02.817 --> 00:02:04.816
+it's not, it's not a super big deal.
+
+00:02:04.817 --> 00:02:07.376
+But anything below a thousand conversions per
+
+00:02:07.377 --> 00:02:09.464
+month and smart bidding starts underperforming.
+
+00:02:09.465 --> 00:02:11.456
+Maybe it's not an issue for some of
+
+00:02:11.457 --> 00:02:16.880
+your campaigns, but across all, across all three
+
+00:02:16.881 --> 00:02:19.024
+margin based campaigns, it can be a problem.
+
+00:02:19.025 --> 00:02:20.864
+Let's take this example for.
+
+00:02:20.865 --> 00:02:22.960
+Let's take this as an example.
+
+00:02:22.961 --> 00:02:24.734
+You have 1000 conversions in total.
+
+00:02:24.735 --> 00:02:28.142
+You have 500 in your mid margin campaigns, you
+
+00:02:28.143 --> 00:02:30.446
+have 350 in your high margin campaign, but you
+
+00:02:30.447 --> 00:02:33.790
+only have 150 in your low margin campaign which
+
+00:02:33.791 --> 00:02:36.046
+also has a pretty high roas target.
+
+00:02:36.047 --> 00:02:38.542
+Suddenly smart bidding is having an awful lot
+
+00:02:38.543 --> 00:02:40.782
+of trouble optimizing your low margin campaign.
+
+00:02:40.783 --> 00:02:42.526
+With a high roas target and
+
+00:02:42.527 --> 00:02:44.350
+only five conversions a day.
+
+00:02:44.351 --> 00:02:48.302
+This results in a lower overall performance because again,
+
+00:02:48.303 --> 00:02:51.406
+just splitting up all your data, some of your
+
+00:02:51.407 --> 00:02:53.470
+campaigns will have very, very little data to work
+
+00:02:53.471 --> 00:02:55.690
+based on and that can hu the performance.
+
+00:02:55.691 --> 00:02:58.906
+So even though you are going from 1,000 conversions and
+
+00:02:58.907 --> 00:03:01.850
+splitting those up, you might end up having those 150
+
+00:03:01.851 --> 00:03:04.666
+conversions in your low margin campaign actually end up being
+
+00:03:04.667 --> 00:03:08.010
+120 or 110 or not hitting the row start you
+
+00:03:08.011 --> 00:03:11.210
+actually intended it to be just because the system has
+
+00:03:11.211 --> 00:03:12.970
+less data to work with.
+
+00:03:12.971 --> 00:03:14.690
+So what works best instead?
+
+00:03:14.691 --> 00:03:17.338
+There's two ways to go about this.
+
+00:03:17.339 --> 00:03:19.850
+One is consolidate campaigns into high and low
+
+00:03:19.851 --> 00:03:22.930
+margin to retain as much data as possible.
+
+00:03:22.931 --> 00:03:25.426
+You just need to acknowledge that you
+
+00:03:25.427 --> 00:03:28.310
+can't 100% know what people buy.
+
+00:03:29.250 --> 00:03:30.730
+But it's better than nothing.
+
+00:03:30.731 --> 00:03:32.514
+If you truly have two different
+
+00:03:32.515 --> 00:03:36.266
+categories like speakers and a couch.
+
+00:03:36.267 --> 00:03:37.490
+And a couch you have 10%
+
+00:03:37.491 --> 00:03:39.738
+margin and the speaker 50% margin.
+
+00:03:39.739 --> 00:03:41.986
+You can kind of know that people are not going
+
+00:03:41.987 --> 00:03:44.162
+to jump from one category to the other there.
+
+00:03:44.163 --> 00:03:46.154
+But if it is that you have 10, 20, 30,
+
+00:03:46.155 --> 00:03:49.090
+40, 50 different brands within one category and they all
+
+00:03:49.091 --> 00:03:53.862
+have very different margins, then it's a very, very flawed
+
+00:03:53.863 --> 00:03:56.290
+strategy to use a margin based campaign.
+
+00:03:56.830 --> 00:04:00.174
+So the actual proper way to fix this
+
+00:04:00.175 --> 00:04:02.742
+is to implement a gross profit tracking method.
+
+00:04:02.743 --> 00:04:05.246
+Or it's also, you can also
+
+00:04:05.247 --> 00:04:06.742
+say you're tracking contribution margin.
+
+00:04:06.743 --> 00:04:09.774
+It depends like I say gross profit, while others
+
+00:04:09.775 --> 00:04:12.358
+call it profit, some call it pos like profit
+
+00:04:12.359 --> 00:04:15.062
+on ad spend, some call contribution margin.
+
+00:04:15.063 --> 00:04:16.814
+It's kind of all the same thing.
+
+00:04:16.815 --> 00:04:18.526
+What we're in essence what we're trying to do
+
+00:04:18.527 --> 00:04:20.766
+is we're trying to track the gross profit from
+
+00:04:20.767 --> 00:04:23.830
+a sale instead of revenue, which, which means that
+
+00:04:23.831 --> 00:04:26.622
+you bypass the need to run margin based campaigns.
+
+00:04:26.623 --> 00:04:29.486
+Each transaction tells Google exactly what margin
+
+00:04:29.487 --> 00:04:33.102
+or contribution, contribution margin or gross profit
+
+00:04:33.103 --> 00:04:34.846
+that's derived from that transaction.
+
+00:04:34.847 --> 00:04:37.030
+So it knows that product A has a low
+
+00:04:37.031 --> 00:04:39.430
+margin and product B has high margin which it
+
+00:04:39.431 --> 00:04:42.310
+can use to set the bids accordingly because it
+
+00:04:42.311 --> 00:04:44.806
+gets the data right from the get go.
+
+00:04:44.807 --> 00:04:46.230
+If we take this example, then
+
+00:04:46.231 --> 00:04:49.168
+gross profit is calculated like this.
+
+00:04:49.169 --> 00:04:52.904
+So what we right now sending to Google is just revenue.
+
+00:04:52.905 --> 00:04:55.056
+On the other hand, if we send in
+
+00:04:55.057 --> 00:04:57.616
+profit or gross profit or contribution margin, then
+
+00:04:57.617 --> 00:05:01.280
+we're sending in revenue minus Discounts minus cost
+
+00:05:01.281 --> 00:05:04.184
+of goods sold, minus shipping costs, minor payment
+
+00:05:04.185 --> 00:05:06.460
+cost, minus packaging and handling.
+
+00:05:07.120 --> 00:05:09.600
+And this is such a monumentally better way
+
+00:05:09.601 --> 00:05:12.656
+to implement a nuanced biz bidding method when
+
+00:05:12.657 --> 00:05:14.792
+you have different margins for different products.
+
+00:05:14.793 --> 00:05:17.274
+Profit based bidding like this allows
+
+00:05:17.275 --> 00:05:18.710
+you to do several things.
+
+00:05:19.730 --> 00:05:22.194
+One, it track what roas level
+
+00:05:22.195 --> 00:05:24.730
+drives the highest profit in volume.
+
+00:05:24.731 --> 00:05:28.298
+Instead of an arbitrary number like roas, it allows
+
+00:05:28.299 --> 00:05:30.754
+smart bidding to bid higher for high margin products
+
+00:05:30.755 --> 00:05:34.050
+and keywords, segments, devices and all that.
+
+00:05:34.051 --> 00:05:35.578
+And it gives you insight to exactly
+
+00:05:35.579 --> 00:05:37.130
+when you lose money on a sale.
+
+00:05:37.131 --> 00:05:40.370
+We in savvy use this to know how
+
+00:05:40.371 --> 00:05:41.978
+low we can actually go for an upper
+
+00:05:41.979 --> 00:05:44.770
+funnel keyword before we start actually losing money.
+
+00:05:44.771 --> 00:05:46.082
+It helps drive a ton of
+
+00:05:46.083 --> 00:05:48.478
+growth when implemented the right way.
+
+00:05:48.479 --> 00:05:51.806
+So to compare this the right way, the things that
+
+00:05:51.807 --> 00:05:54.134
+I say is the right way at least is profit
+
+00:05:54.135 --> 00:05:56.838
+based bidding tracks what actually happens in a transaction.
+
+00:05:56.839 --> 00:06:00.126
+It also tracks how many products are in there.
+
+00:06:00.127 --> 00:06:03.974
+It tracks if you have a high margin, low margin
+
+00:06:03.975 --> 00:06:06.694
+product in the same cart, et cetera, et cetera.
+
+00:06:06.695 --> 00:06:09.310
+And the wrong way today as I believe it is,
+
+00:06:09.311 --> 00:06:12.654
+the margin based campaigns track what people click on, but
+
+00:06:12.655 --> 00:06:14.950
+it doesn't show what people actually end up buying.
+
+00:06:14.951 --> 00:06:16.638
+So you don't get the effect
+
+00:06:16.639 --> 00:06:18.640
+you're actually trying to get.
+
+00:06:18.641 --> 00:06:24.152
+So the problems that I have with profit tracking or contribution margin
+
+00:06:24.153 --> 00:06:27.760
+tracking is that when you run a sale like 10% off, 20%
+
+00:06:27.761 --> 00:06:32.096
+off, 30% off, the changes in data can hurt a lot in
+
+00:06:32.097 --> 00:06:35.208
+terms of how smart bidding works because all of a sudden it's
+
+00:06:35.209 --> 00:06:38.672
+used to saying, let's say you get $100 in value, all of
+
+00:06:38.673 --> 00:06:40.944
+a sudden it gets 80 or 70.
+
+00:06:40.945 --> 00:06:44.810
+So in essence the ROAS that it works based
+
+00:06:44.811 --> 00:06:47.034
+off just drops from one day to another.
+
+00:06:47.035 --> 00:06:50.650
+And doesn't know why that's a problem because like during
+
+00:06:50.651 --> 00:06:52.866
+a sale we actually wanted to drive more volume.
+
+00:06:52.867 --> 00:06:55.346
+So that can really be a challenge.
+
+00:06:55.347 --> 00:06:56.810
+Now there's ways to get around this.
+
+00:06:56.811 --> 00:06:59.226
+Conversion rate goes up during a sale, so
+
+00:06:59.227 --> 00:07:00.922
+all of a sudden it performs better.
+
+00:07:00.923 --> 00:07:03.066
+But for some businesses that run a lot of
+
+00:07:03.067 --> 00:07:05.554
+sales, this is a really big issue because smart
+
+00:07:05.555 --> 00:07:08.882
+bidding doesn't have this stable data anymore.
+
+00:07:08.883 --> 00:07:10.706
+The second thing is that very low margin
+
+00:07:10.707 --> 00:07:13.242
+businesses might have so little data that it
+
+00:07:13.243 --> 00:07:14.362
+becomes really hard to work with.
+
+00:07:14.363 --> 00:07:15.410
+Smart bidd.
+
+00:07:15.411 --> 00:07:20.862
+So if you consistently run at 120% profit on Aspen
+
+00:07:20.863 --> 00:07:24.726
+or POAS or ROAS, target changing to from 120 to
+
+00:07:24.727 --> 00:07:28.646
+115 or 110, it's basically cutting your profit in half.
+
+00:07:28.647 --> 00:07:32.790
+But Google Ads have like it's such a Small
+
+00:07:32.791 --> 00:07:36.650
+change for Google Ads going from 120% to 110%.
+
+00:07:37.190 --> 00:07:38.486
+So it can really be tough to
+
+00:07:38.487 --> 00:07:40.102
+work with smart baming at that level.
+
+00:07:40.103 --> 00:07:43.766
+It can also for some people I found it now
+
+00:07:43.767 --> 00:07:46.166
+that they can see the profit from every sale, then
+
+00:07:46.167 --> 00:07:49.698
+they start being way too focused on profitability and like
+
+00:07:49.699 --> 00:07:52.226
+every single day or week where they're not hitting a
+
+00:07:52.227 --> 00:07:55.890
+certain profit level in a Google Ads account, then they
+
+00:07:55.891 --> 00:07:58.138
+just, they just, they just go crazy.
+
+00:07:58.139 --> 00:08:01.650
+They, they just, they decrease bids, decrease bids to
+
+00:08:01.651 --> 00:08:04.154
+try to be more profitable and their volume goes
+
+00:08:04.155 --> 00:08:06.970
+down and it just hurts everything here. It's, it's.
+
+00:08:06.971 --> 00:08:09.066
+You need to also use something like a blended
+
+00:08:09.067 --> 00:08:12.150
+roas, new customers or any other data point.
+
+00:08:13.100 --> 00:08:14.796
+Also I would like to say if you
+
+00:08:14.797 --> 00:08:17.396
+have the same margin on all products, unnecessary.
+
+00:08:17.397 --> 00:08:21.116
+If you have the same margin on like 90% of your
+
+00:08:21.117 --> 00:08:25.020
+revenue, it still doesn't matter to do any of these things.
+
+00:08:25.021 --> 00:08:27.180
+It's just unnecessary to do.
+
+00:08:27.181 --> 00:08:29.428
+Last thing I wanted to mention is Google has a profit
+
+00:08:29.429 --> 00:08:31.756
+based betting in beta at the moment and it should come
+
+00:08:31.757 --> 00:08:36.476
+out during the early days of the early months of 2025.
+
+00:08:36.477 --> 00:08:37.916
+But it opens three issues.
+
+00:08:37.917 --> 00:08:40.916
+You can't troubleshoot it like you can yourself
+
+00:08:40.917 --> 00:08:44.600
+or with an A software like Profit Metrics.
+
+00:08:45.320 --> 00:08:48.136
+If I put on my tinfoil hat, then you
+
+00:08:48.137 --> 00:08:51.856
+also give Google your cogs and exact margins.
+
+00:08:51.857 --> 00:08:53.536
+This is a tinfoil hat theory.
+
+00:08:53.537 --> 00:08:55.160
+But I'm very worried about what
+
+00:08:55.161 --> 00:08:56.208
+that can do to your auction.
+
+00:08:56.209 --> 00:08:59.660
+If Google knows exactly how hard to squeeze you
+
+00:09:00.440 --> 00:09:02.376
+and it doesn't account for things like shipping and
+
+00:09:02.377 --> 00:09:04.432
+handling, they're minor things in the bigger picture.
+
+00:09:04.433 --> 00:09:06.936
+But for some businesses it's important to
+
+00:09:06.937 --> 00:09:09.640
+calculate that as part of their profitability.
+
+00:09:09.641 --> 00:09:13.208
+So to summarize before we go to actions from here,
+
+00:09:13.209 --> 00:09:15.840
+what consumers click on does not equal what they end
+
+00:09:15.841 --> 00:09:19.232
+up buying or adding to the cart alongside the product.
+
+00:09:19.233 --> 00:09:21.288
+Splitting your data into multiple campaigns
+
+00:09:21.289 --> 00:09:23.048
+is not ideal for smart bidding.
+
+00:09:23.049 --> 00:09:25.328
+Only a lot of data can allow this to work.
+
+00:09:25.329 --> 00:09:27.200
+So that's why margin based campaigns can actually
+
+00:09:27.201 --> 00:09:30.368
+hurt your performance better than improving it.
+
+00:09:30.369 --> 00:09:32.720
+Profit based bidding with a software like something
+
+00:09:32.721 --> 00:09:34.960
+like Profit Metrics gives smart bidding much better
+
+00:09:34.961 --> 00:09:38.016
+data to bid directly on profit which can
+
+00:09:38.017 --> 00:09:39.700
+open up for much better performance.
+
+00:09:40.250 --> 00:09:42.266
+Profit based bidding is not just applicable to
+
+00:09:42.267 --> 00:09:45.242
+shopping, but works well with shopping as well,
+
+00:09:45.243 --> 00:09:48.186
+which everybody seems to ignore in this thing.
+
+00:09:48.187 --> 00:09:50.650
+So if we put up a margin based campaign for
+
+00:09:50.651 --> 00:09:52.754
+shopping, why don't we do the same thing for search?
+
+00:09:52.755 --> 00:09:54.650
+Why don't we do set different targets for them?
+
+00:09:54.651 --> 00:09:58.050
+Most people just ignore that and you avoid
+
+00:09:58.051 --> 00:10:00.746
+all of this margin based campaign structure which
+
+00:10:00.747 --> 00:10:02.882
+opens the door to create a more sophisticated
+
+00:10:02.883 --> 00:10:05.202
+campaign structure in shopping on pmax.
+
+00:10:05.203 --> 00:10:09.472
+Because if you're splitting if you're already splitting your
+
+00:10:09.473 --> 00:10:13.616
+shopping campaigns in margins then splitting them again and
+
+00:10:13.617 --> 00:10:16.336
+you're really splitting your data too much.
+
+00:10:16.337 --> 00:10:17.840
+So you can't that you usually just have
+
+00:10:17.841 --> 00:10:20.648
+one shot to split your shopping campaigns.
+
+00:10:20.649 --> 00:10:24.728
+So by using that one shot you have for margins
+
+00:10:24.729 --> 00:10:27.632
+is just not the best way to get better performance.
+
+00:10:27.633 --> 00:10:29.552
+So based on this, if you have a lot
+
+00:10:29.553 --> 00:10:32.480
+of different brands, a lot of different categories with
+
+00:10:32.481 --> 00:10:35.456
+different margins, I highly, highly recommend to look at
+
+00:10:35.457 --> 00:10:38.932
+profit metrics or custom code profit tracking yourself.
+
+00:10:38.933 --> 00:10:40.380
+It is doable.
+
+00:10:40.381 --> 00:10:42.240
+Profit metrics skips all that.
+
+00:10:42.780 --> 00:10:45.004
+Second thing, implement it into your account.
+
+00:10:45.005 --> 00:10:46.316
+I have another video on how
+
+00:10:46.317 --> 00:10:48.500
+to actually implement profit based bidding.
+
+00:10:48.501 --> 00:10:50.556
+And the third, try to try to
+
+00:10:50.557 --> 00:10:52.324
+play around with the with the targets.
+
+00:10:52.325 --> 00:10:55.076
+Just make sure you use something like blended roas
+
+00:10:55.077 --> 00:10:57.756
+or you look at new customer acquisition data or
+
+00:10:57.757 --> 00:10:59.644
+something else as a secondary data point.
+
+00:10:59.645 --> 00:11:01.276
+Again, don't just look at your
+
+00:11:01.277 --> 00:11:03.132
+numbers in your Google Ads account.
+
+00:11:03.133 --> 00:11:04.108
+That was it for me.
+
+00:11:04.109 --> 00:11:05.164
+I hope you loved it.
+
+00:11:05.165 --> 00:11:07.980
+Remember to subscribe for more tips and that way
+
+00:11:07.981 --> 00:11:10.280
+you get the new one whenever it comes out.
+

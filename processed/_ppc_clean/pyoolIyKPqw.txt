@@ -1,0 +1,553 @@
+[0] [Applause]
+[0] [Music]
+[4] what's up and welcome to this new the
+[7] PPC Mastery podcast episode about demand
+[10] gen best practices and in this episode I
+[13] quickly want to discuss some best
+[14] practices around the main gen campaigns
+[17] already that are well basically best
+[20] practice from my end the stuff that I
+[23] know already but also a lot of best
+[25] practice from from Google themselves so
+[28] I have been lucky to test the dimension
+[32] campaign type within just one account
+[34] already this is a bigger International
+[36] client I haven't really gathered a lot
+[39] of data and a lot of learnings already
+[40] but I want to share some best practices
+[43] and some know-how already so maybe you
+[46] can well you can utilize this
+[48] information when you're going to set up
+[50] your First Dimension campaign a lot of
+[52] this information is going to be based on
+[55] well Google's best practices as well as
+[58] well what they basically meant us as
+[61] advertisers to do when setting up a
+[63] dimension campaign so let's dive in
+[65] let's dive in so in this episode I want
+[68] to zoom in on six key areas which are
+[71] conversion tracking structure budgets
+[74] bidding strategy
+[75] creatives and audiences so let's quickly
+[79] go through them and let's start off with
+[82] the conversion tagging part so I think
+[86] it is important to implement a Google
+[88] ads conversion tracking conversion
+[91] action which is basically a Gtech pixel
+[94] because you want to rely on a Gtech
+[97] pixel sa conversion action for your
+[100] upper funnel campaigns since the
+[103] attribution is a little bit more clear
+[104] and you're able to leverage additional
+[107] features like future and engage
+[109] conversions as well but what I see from
+[112] practice is when you are going to
+[114] utilize a offline conversion tracking
+[117] import for example that your OCT
+[120] conversion action is well is is having
+[124] troubles properly attributing the
+[127] offline conversion towards your mid and
+[130] upper funnel campaign types so what I
+[132] have seen happening in my accounts
+[134] especially looking at this display
+[136] Discovery and YouTube campaigns is that
+[139] the regular Gtech the Google as
+[141] conversion tracking pixel is able to
+[143] attribute a lot of more conversions
+[146] towards your upper frontal campaign
+[148] types than octs so make sure to to
+[151] leverage this conversion action when
+[154] you're going to experiment with
+[155] Dimension also which is quite obvious
+[158] make sure to have data driven
+[159] attribution enabled so Google is well
+[162] giving you more information about the
+[165] customer journey and the conversion path
+[167] from your dimension campaign all the way
+[170] up to your well Low Bottom water funnel
+[173] search shopping campaign in the near
+[175] future
+[176] what you also want to do when going to
+[180] experiment with a dimension campaign is
+[182] utilizing a third-party software tool so
+[185] what I've seen happening is that Google
+[187] ads is really becoming quite aggressive
+[190] saying that certain conversions are
+[194] coming from their end and their
+[195] ecosystem whereas other well other
+[199] campaign types that are well off
+[202] platform like meta ads or LinkedIn ads
+[205] or even other channels like organic
+[207] email also basically had a attribution
+[210] towards the conversion so if you're
+[212] going to experiment with the dimension
+[215] campaign type make sure to
+[217] incorporate a third-party attribution
+[219] tool like North beam or Rocker Box or
+[223] whatever you you like to fully
+[225] understand what's happening at the back
+[228] so you can properly well take a look at
+[230] the attribution and properly report on
+[233] what's actually happening from your
+[234] dimension campaign because Google ads
+[236] might be over attributing a lot when
+[240] when when utilizing a campaign type like
+[243] this so next up campaign structure well
+[247] basically when we're going to look at
+[249] the campaign structure best practices a
+[252] lot of the best practices apply to other
+[255] campaign types as well so if you take a
+[256] look at BMX or search basically you want
+[260] to consolidate whenever possible you
+[262] want to consolidate on ad group level
+[263] and you want to consolidate on ad group
+[265] you want to consolidate on campaign
+[267] level and on ad group level whenever
+[269] that is possible and it makes sense and
+[272] that applies to demand gen campaign
+[274] types as well when you're going to
+[277] experiment with a dimension campaign you
+[281] want to make sure that you do not make
+[283] any changes in the first couple of two
+[286] weeks which is a well learning period
+[289] for the dimension campaign because
+[291] Google is saying that it needs at least
+[294] 50 conversions to properly understand
+[297] where your audience is hanging out in
+[299] their ecosystem and you do not want to
+[301] well mess with the algorithm before the
+[305] first 50 conversions are being well are
+[309] being measured so you want you do not
+[313] want to make any changes in the first
+[314] two weeks and you want to wait for at
+[317] least 50 conversions before making any
+[320] changes so that's a lot of volume you
+[322] need in order to well make the first
+[324] couple of optimizations within the
+[326] Mansion already
+[327] then when we take a look at the budget
+[330] side of things the recommended minimum
+[334] budget is really really really high so
+[337] this new campaign type is basically only
+[341] applicable to the bigger advertisers
+[344] across the world because you need at
+[347] least 100 to 500 euros per day per ad
+[352] group so that's not even talking about
+[354] campaign level so the recommended test
+[357] budget according to Google is 15 to 50K
+[362] across a period from four to six weeks
+[366] so that's a lot of budgets so that means
+[369] that this new campaign type is not being
+[373] applicable or not being the best choice
+[376] for a lot of small to medium size
+[378] advertisers so you need a lot of budget
+[381] in order to test with this campaign type
+[385] so and that testing budget isn't even
+[387] going going to guarantee you any results
+[389] so you need to be able to allocate this
+[392] test budget and be able to fully drain
+[396] it as well if it cannot drive you any
+[399] results luckily the bigger advertisers
+[401] have already experimented or have
+[405] Incorporated Discovery campaigns already
+[407] and basically demand gen is going to
+[411] replace Discovery so if you have some
+[415] historical data from your Discovery
+[417] campaigns already you might be able to
+[420] tell if the man gen is going to work for
+[422] you or not at the same time
+[424] Dimension incorporates a video action
+[428] campaign or like well ad type and also
+[431] best practices so you can also take a
+[435] look at your video action campaigns if
+[437] you have if you rent these in the best
+[439] or maybe you're even running them right
+[442] now to see if dimanjian could be a wise
+[445] option for you to to incorporate within
+[448] your campaign structure so be very
+[451] mindful about flipping the switch and
+[454] testing with the man gen because you
+[456] need a lot of budget 15 to 50K over a
+[459] period of four to six weeks to properly
+[461] test this for your account and you
+[464] should be able to to waste this if it
+[467] isn't going to give you any traction so
+[470] keep that in mind if you take a look at
+[473] the
+[474] at the at the bidding strategy well this
+[476] is where it becomes a little bit
+[477] interesting as well so according to
+[479] Google ads documentation you need to set
+[484] a minimum budget that is times 20 your
+[489] average order value divided by your
+[492] target row as or if you want to bid on a
+[496] Target CPA bidding strategy then you
+[500] need a budget that is at least 15 times
+[503] as high as your target CPA or expected
+[507] CPA if you do not have a Target CPA from
+[510] the very first beginning so let's say
+[512] you have a non-branded search GPA of 100
+[515] euros then I like to use the rule of
+[519] fist of multiplying that times two in
+[522] order to well start off with a Target
+[525] CPA for my mid and upper funnel
+[527] campaigns so if I were to run a display
+[529] or YouTube video for action campaign
+[532] then I like to use the times to
+[535] non-branded search GPA as my well new
+[538] Target so let's say your target CPI is
+[541] 200 Euros for a dimension campaign then
+[544] you need to multiply that multiply that
+[546] by 15 times and that will be your
+[550] average daily budget
+[552] so 15 times 200 Euros is I guess three
+[556] three thousand Euros per day and that's
+[559] a lot of money that's a lot of money so
+[561] if you were to multiply multiply that
+[563] daily budget by
+[565] 30 days then well you can calculate what
+[569] your minimum monthly spent will be in
+[571] order to fully give the algorithms the
+[574] room to search for your ideal customer
+[576] profile that it's actually going to
+[578] convert and they will need this
+[581] information to and these volumes to find
+[584] your ideal customer in order to properly
+[587] give you consistent consistent returns
+[591] and the chances are that you aren't
+[594] going to see any conversion at all and
+[596] that you are going to be wasting your
+[598] budget during the test period so that is
+[600] a very very very big disclaimer that you
+[603] should be able to well
+[605] yeah that that you should keep in mind
+[608] before doubling in so that's budget wise
+[611] you need a lot of budgets and a lot of
+[613] daily budget in order to to allocate
+[616] this within your account structure so
+[618] just to recap this I think the main gen
+[620] is only applicable for the biggest
+[622] advertisers that are really looking for
+[625] ways to scale and to plant the seeds
+[627] into their ideal customer Minds in the
+[630] mid and upper funnel for Mid and small
+[634] size advertisers you really really want
+[637] to max out the bottom of the funnel
+[639] campaign types first like search
+[641] shopping maybe even BMX then I would
+[644] suggest experimenting with a campaign
+[647] specific types like display and video
+[650] for action and then if you are seeing
+[653] somewhat great returns from those or
+[656] profano emit of the funnel campaign
+[658] types already then you want to start
+[660] experimenting with the man gen I do not
+[662] think you want to experiment any sooner
+[664] as a small color to mid-size Advertiser
+[668] and I think the same could be applicable
+[669] for the larger advertisers as well so
+[672] keep that in mind
+[675] then looking at bidding strategies well
+[677] if you take a look at bidding strategies
+[679] you can
+[680] select up to five bidding strategies
+[683] inside of the man gen so you have the
+[685] possibility to select a campaign goal in
+[688] the first step of the campaign Wizard
+[691] and those are conversions clicks or
+[694] conversion value and up and based on the
+[698] selection based on your campaign goal
+[700] you will see up to five different
+[703] bidding strategies so if you select
+[705] conversions you will be able to select
+[708] maximize conversions and that is the
+[711] applicable or the recommended starting
+[713] point if you want to focus on maximize
+[715] conversions while you want to make the
+[718] switch towards a specific Target CPA
+[721] once you have reached the 50 conversions
+[723] thresholds so if you select this
+[726] campaign goal you can then later on
+[728] select a Target CPA as well if you
+[732] select clicks you're able to well only
+[735] select one bidding strategy and you
+[738] aren't really able to select this
+[739] bidding strategy because the campaign
+[742] widget will do it for you and that is
+[743] maximize clicks and lastly when you
+[747] select conversion value as a campaign
+[750] goal you will see two options either
+[753] maximize conversion value and that is
+[755] the recommended starting point for you
+[757] if you are well measuring
+[759] varying conversion values as a Ecom
+[763] player for example or a SAS player and
+[766] later on you can make the switch to
+[768] Target row as if you have gathered
+[771] minimum 50 conversions within this
+[775] campaign type during the testing phase
+[777] so those are the the different bidding
+[780] strategies that you can utilize once
+[782] again the ideal starting point should be
+[785] maximize conversions or maximize
+[787] conversion value and then make this
+[788] transition to either Target CPA or
+[790] target.s once you have 50 conversions in
+[793] place and I think you only want to use
+[796] the maximize clicks bidding strategy if
+[799] you do not have a performance goal to be
+[801] completely honest I think if you were to
+[804] select maximize clicks you will be
+[806] wasting your budgets quite heavily
+[808] because Google will definitely just
+[811] fill in the low quality placements
+[815] inside of their ecosystem first well
+[818] since they do not have to look at the
+[820] possible conversions of a placement so
+[824] if you are not going to utilize maximize
+[827] conversions or maximize conversion value
+[829] and later on target drawers or Target
+[831] CPA then I would stay away because I
+[836] think you will be definitely wasting
+[837] your budget if you're going to utilize
+[839] maximize clicks
+[841] okay then let's take a look at creatives
+[844] well basically what you can do inside of
+[847] the campaign wizard is you can create
+[849] multiple ad groups and within each ad
+[852] group you have the
+[854] opportunity or the possibility to create
+[856] multiple different ads and multiple
+[859] different ad types so you can select
+[862] three different ad types a video ad a
+[866] single image ad and a carousel image ad
+[868] which is new within every single ad
+[872] group and that is quite interesting on
+[875] ad group level you're able to select a
+[877] audience so basically you want to
+[880] consolidate your your audiences
+[885] on ad group level and then create
+[887] specific different ad types for the
+[891] specific placement Types on ad group
+[893] level per audience so to say so if
+[896] you're looking at the video ads you have
+[899] the possibility to add up to five
+[901] different videos including shorts
+[903] there's no specific short option so you
+[908] cannot really select a a I want to only
+[911] Leverage The YouTube shorts format so
+[914] you have to incorporate different
+[916] in-stream YouTube ads and different
+[920] short ads inside of that one specific
+[923] video at placement type so add up to
+[927] five videos then you're able to add up
+[929] to five headlines five long headlines
+[932] that contains 90 characters each five
+[935] description lines that also contain 90
+[937] characters each
+[938] you can then select a call to action a
+[941] business name a business logo and you
+[944] can select up to well I think four site
+[946] links and these site links can be shown
+[949] together with your in-stream at for for
+[952] example and if you have been running
+[954] dedicated video action campaigns before
+[957] then you should know that you can also
+[960] include site links over there as well so
+[963] well that's it for video ads then if you
+[966] take a look at single image ads that is
+[969] quite similar to a responsive display ad
+[972] so you can add up to 20 images
+[975] into three different aspect ratios so a
+[979] landscape mode a portrait mode a square
+[983] a ratio so preferably you want to
+[986] utilize every single aspect ratio then
+[989] you can add up to five different logos
+[991] into different aspect ratios as well
+[994] five headlines with 40 characters
+[996] instead of 30 characters each then five
+[999] description lines and one call to action
+[1001] and a business name
+[1003] and then we have the carousel image ads
+[1005] type which is new and this is quite cool
+[1008] in my opinion and this is where you can
+[1010] basically create a carousel ads that
+[1013] consists consists up to 10 different
+[1016] cards that are swipeable and every
+[1019] single card has up to three Unique
+[1022] Images or three images that could be the
+[1025] same into three different aspect ratios
+[1027] as well so Square portrait and landscape
+[1030] modes and for every single card you can
+[1033] also utilize a unique fun URL and a
+[1037] unique call to action and this is
+[1040] basically a carousel ad that is quite
+[1041] similar to The Meta ads Carousel ad and
+[1044] well this can be shown into the Discover
+[1047] page the Discover feed inside of the
+[1050] Google app on Android devices for
+[1053] example so that's quite interesting
+[1055] because I haven't seen this before and
+[1057] we haven't seen this before inside of
+[1059] other campaign types so for all of the
+[1062] assets and all of the ads you really
+[1065] want to leverage your own creatives so
+[1067] since you really need a high test budget
+[1070] of at least 15 to 50K in the first four
+[1073] to six weeks you really want to pay
+[1077] attention to the quality of your ads and
+[1079] your assets so you do not want to
+[1082] leverage any stock images stock videos
+[1085] or long crappy business videos for your
+[1089] well video ads for example because this
+[1092] will definitely not work and this will
+[1095] definitely not work on well YouTube
+[1097] short placements because these really
+[1099] need to be optimized for all of these
+[1101] specific placements that you that your
+[1103] dimension at can can deliver on so since
+[1107] the minimum budget is so high I think a
+[1110] case could be made to allocate a few
+[1113] thousands of Euros in order to properly
+[1117] create ads yourself for this new type as
+[1122] well so if you're going to experiment
+[1124] with this with this and you're going to
+[1126] allocate let's say 30k during the test
+[1129] period then well I think it is more than
+[1132] reasonable to allocate up to 5K for
+[1136] Creative creation as well to hire a
+[1139] video agency to create in-stream YouTube
+[1141] ads YouTube short specific ads really
+[1145] nice images that can complement your
+[1148] video ads as well that are optimized for
+[1151] mobile screens there's all there are a
+[1154] lot of best practices I would recommend
+[1156] looking up the ABCD framework for video
+[1159] ads for example this is the attract
+[1161] brand connect direct framework that
+[1164] YouTube basically uses as a best
+[1167] practice to generate and create YouTube
+[1169] ads and YouTube shorts for so really pay
+[1172] attention to your own creatives before
+[1174] doubling into Dimension campaign types
+[1176] also what you can do and what you can
+[1179] think about is to replicate your video
+[1182] action campaigns since I think YouTube
+[1186] placements are going to be a very big
+[1188] part of well the spent allocation within
+[1191] the main gen campaigns so if you have
+[1194] done video action campaigns in the past
+[1196] you might want to take a look at what
+[1199] has worked well for you and what well
+[1201] what didn't work so you can afford
+[1204] making mistakes or you can avoid using
+[1208] creatives that are really giving you
+[1211] poor or gave you poor performing results
+[1213] so
+[1215] take a look at your historical data as
+[1217] well
+[1218] also keep in mind the channel
+[1219] temperature and this is a very very big
+[1222] one because you're going to be
+[1224] advertising in the top of the funnel and
+[1226] mid of the funnel instead of the Google
+[1228] ads ecosystem and that means that a lot
+[1231] of people will not know your brand and
+[1233] will not know about your service so make
+[1236] sure to use a call to action or use a
+[1240] offer that matches the channel
+[1243] temperature so do not copy your
+[1246] performance Max headlines and
+[1248] description lines for example that are
+[1250] focused towards book a consultation now
+[1252] or book a demo now or take a look at our
+[1256] prices or whatever or contact us today
+[1258] those are way too
+[1261] hot and way too warm call to actions
+[1264] that are really applicable for search
+[1266] bottom of the funnel Focus performance
+[1269] Max campaigns but they are really not
+[1271] applicable for upper funnel and mid
+[1273] funnel campaign types like the man gen
+[1275] YouTube display and until now Discovery
+[1279] so make sure to really think about hey
+[1282] what creatives and what kind of offers
+[1286] and call to actions can we use to to
+[1289] introduce our brand interview introduce
+[1292] our Solutions introduce our services
+[1295] products to our to our ICP ideal
+[1298] customer profile that makes sense and
+[1301] that isn't really hard to complete so
+[1303] think about this real good before
+[1305] starting to create your assets and
+[1309] before you're actually going to set live
+[1311] your dimension campaign
+[1313] then well during the testing phase you
+[1316] really need some budget first and you
+[1318] really need to give it some space so at
+[1320] least two weeks after the launch then
+[1323] you can start making changes inside of
+[1326] your assets and audiences for example if
+[1329] you see bad performing assets then try
+[1332] to swap swap them out as soon as
+[1333] possible in order to optimize your
+[1336] dimension campaigns right from the start
+[1338] so to say
+[1340] so that's it yeah with regards to
+[1342] creatives then let's take a look at
+[1345] audiences real quick and this is the
+[1347] last part and this is quite interesting
+[1349] as well because we have seen some new
+[1351] features over here that might be that
+[1354] might be rolling out inside of other
+[1355] campaign types in the near future as
+[1357] well so
+[1359] basically what we have seen and this is
+[1362] the new feature we have seen new
+[1364] look-alike audiences that basically give
+[1368] you the opportunity to expand upon your
+[1372] seed lists and your seed lists are
+[1375] basically your first party data lists
+[1377] that can be remarketing lists that can
+[1380] be customer list and it is really up to
+[1383] you how segmented these lists are inside
+[1386] of your audience inside of Dimension you
+[1389] can select up to 10 well seat lists and
+[1394] you can create a custom combination of
+[1396] remarketing lists customer lists that
+[1398] can be segmented or not yourself and
+[1402] then based on those seedless you can ask
+[1405] Google ads to expand on those lists and
+[1409] you basically have the opportunity to
+[1411] create a very narrow expansion that
+[1415] starts with two and a half percent up to
+[1417] a broad expansion that goes to 10
+[1420] percent and that basically looks at your
+[1423] ideal
+[1424] first party customer data segments and
+[1427] then expands on the top two and a half
+[1430] five ten percent of your first party
+[1433] data to look for well new potential
+[1437] customers and this is the first
+[1440] expansion that you can actually do based
+[1442] on your first party data segments then
+[1445] on ad group level you have also the
+[1447] opportunity to select optimize targeting
+[1450] so you can first create a look-alike
+[1454] segment based on your first party data
+[1456] which is already going more Broad and
+[1460] then on ad group level you can decide to
+[1462] whether or not create optimized
+[1465] targeting that will even that will will
+[1468] broaden up your audience targeting even
+[1470] more
+[1471] so keep in mind that your audiences
+[1475] inside of Dimension are targeting they
+[1480] are not signals like you are used to
+[1483] within BMX but they become signals if
+[1486] you decide to enable optimize targeting
+[1489] and when you're going to experiment with
+[1491] your look-alike segments starting from
+[1493] narrow up till abroad so that's quite
+[1496] interesting this is a new feature and I
+[1499] think how it looks yeah what I think I

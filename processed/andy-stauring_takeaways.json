@@ -1,0 +1,112 @@
+[
+  {
+    "id": "andy-stauring-fbYrIezehKo-1",
+    "video_id": "fbYrIezehKo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "广告账户结构错误每天烧掉数千美元",
+    "summary_zh": "Andy 开篇直接抛出警告：广告账户结构错误是吃利润的隐形杀手，每天可能让你损失数千美元而不自知。投手要先把账户骨架搭对（campaign 目标、adset 切分、CBO/ABO 选择），再谈创意和受众优化。背景是 Shopify dropshipping，但同样适用于 Amazon 投手——campaign 命名混乱、目标错配、预算分配粗放都会放大损耗。原理是 Meta/Amazon 算法都依赖结构来分配学习预算，结构错误会让算法在错的层级上做错的优化。",
+    "quote_en": "you could be losing thousands of dollars every single day with a simple structural error when running Facebook ads",
+    "topics": ["campaign-structure", "optimization"],
+    "timestamp_seconds": 3,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-2",
+    "video_id": "fbYrIezehKo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "单兴趣 ABO 测试每个广告组 5 美元",
+    "summary_zh": "测试新品时 Andy 用 cold single interest ABO 结构：每个 adset 只放一个兴趣词，预算固定 5 美元/天，10 个兴趣同时跑就是 50 美元/天的测试预算。这套方法的核心是把变量隔离到只有受众一个维度，3-5 天后看哪些 adset 出 ROAS、哪些直接关掉。Amazon 投手的同构做法：一个 SP/SB campaign 只测一个 keyword cluster 或 ASIN target，固定低预算跑 single-variable test，避免多变量混在一起无法归因。",
+    "quote_en": "we're going cold single interest single interest meaning that we're going to be testing one interest per ad set five dollar ad set daily budget",
+    "topics": ["creative-testing", "audience", "campaign-structure", "budget"],
+    "timestamp_seconds": 586,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-3",
+    "video_id": "fbYrIezehKo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "受众规模甜区 50 万到 7500 万",
+    "summary_zh": "Andy 测试受众的硬规则：低于 50 万太窄，算法学不出泛化模式，CPM 飙高且很快烧穿；高于 7500 万到 1 亿太宽，算法找不到信号、转化质量差。最佳区间是 50 万-7500 万，留给算法足够样本但又不至于无的放矢。Amazon 投手类比：keyword search volume 和 audience targeting size 也有甜区，太窄的长尾词没量、太宽的大词预算瞬间被 broad match 吃光，要选中等竞争度、有数据基础的词。",
+    "quote_en": "I don't like to go anything below 500,000 nothing more to 75 to 100 million you want to be in that sweet spot",
+    "topics": ["audience", "creative-testing"],
+    "timestamp_seconds": 738,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "andy-stauring-fbYrIezehKo-4",
+    "video_id": "fbYrIezehKo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "广告文案钩子用统计数字加幽默",
+    "summary_zh": "Andy 写广告文案的开头公式：抛一个反直觉的统计数字，紧跟一句轻松调侃，再自然过渡到产品卖点。例子是手机消毒灯——'你知道美国人平均每 12 分钟看一次手机吗？想象一下手机上累积的脏东西。' 数字制造可信度和注意力，幽默降低戒备并把痛点具象化。Amazon 投手用在 SB 视频广告或 listing A+ 文案的开头同样有效：先抛行业数据吸引点击，再用一句生活化语言把痛点放大。",
+    "quote_en": "did you know Americans on average check their phones every 12 minutes now just imagine all the gunk that gets clustered onto it let's fix that with our new and improved UV phone sanitizer",
+    "topics": ["copy", "creative-testing"],
+    "timestamp_seconds": 850,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "andy-stauring-Tsrx2UxWNpo-1",
+    "video_id": "Tsrx2UxWNpo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "再营销预算占比控制在 15 到 20",
+    "summary_zh": "Andy 的 RTG 预算分配：15-20% 给 retargeting，剩下 80-85% 给冷流量 prospecting。逻辑是 RTG 受众池天然有限（最多 30-180 天回看），多投只会重复触达、抬高频次和 CPM，把转化率拉低。Amazon 投手没有传统 retargeting 概念（投放是引流到 Amazon listing，平台不暴露 cart abandoner pool），但同样原理可借鉴到 SD product-targeting 上：competitor ASIN 防御性投放预算占比也不该过高，主预算给 prospecting 类的 keyword/category targeting。",
+    "quote_en": "I would say at least fifteen to twenty percent you should be dedicating to retargeting",
+    "topics": ["budget", "audience"],
+    "timestamp_seconds": 313,
+    "amazon_relevance": "low"
+  },
+  {
+    "id": "andy-stauring-Tsrx2UxWNpo-2",
+    "video_id": "Tsrx2UxWNpo",
+    "channel_slug": "andy-stauring",
+    "title_zh": "促销折扣上限控制在 10 到 15",
+    "summary_zh": "Andy 给 RTG 受众的折扣码不超过 10-15%，警告不要发 70% off 这种激进折扣。原因有三：一是 70% off 直接把品牌定价锚点砸碎，下次用户不会全价买；二是利润率被吃光、ROAS 看着好但净利负数；三是会训练算法去找 deal hunter 而非真实买家。Amazon 投手的同构警示：listing coupon 和 promotion 的力度要算回 net margin，长期看 5-15% 比 50% off + free shipping 的 lifetime profit 高得多。",
+    "quote_en": "you don't want to give like a 70 off discount code maybe i'd say anything from 10 to 15",
+    "topics": ["copy", "optimization"],
+    "timestamp_seconds": 377,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "andy-stauring-dDpZWkesL5A-1",
+    "video_id": "dDpZWkesL5A",
+    "channel_slug": "andy-stauring",
+    "title_zh": "看利润率不看营收 3000 美元 45 利润胜过 1 万低利润",
+    "summary_zh": "Andy 反复强调投手该盯利润率而不是 GMV。一个 3000 美元/天 45% 利润率的店，净利 1350 美元；一个 10000 美元/天 8% 利润率的店，净利只有 800 美元，还要承担 3 倍的运营复杂度和退货风险。原理是 paid ads 的 BE-ROAS 决定盈利门槛，提利润率比拉营收更省力。Amazon 投手的直接应用：评估 campaign 不能只看 sales attributed，要算回 ACoS、TACoS 和 net margin，低利润高 GMV 的 SKU 烧广告反而失血。",
+    "quote_en": "I'd much rather do a 3k day at 45 profit margin than do a 10k day at like an 8 profit margin",
+    "topics": ["optimization", "reporting", "analytics"],
+    "timestamp_seconds": 27,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "andy-stauring-dDpZWkesL5A-2",
+    "video_id": "dDpZWkesL5A",
+    "channel_slug": "andy-stauring",
+    "title_zh": "免运费门槛要 AB 测试不要拍脑袋",
+    "summary_zh": "Andy 拒绝凭感觉设免运费门槛，全部 A/B 测：50 美元 vs 75 美元 vs 无门槛跑 6-7 天 50/50 流量分配，比 AOV 和 conversion rate 综合得出最优解。原理是免运费门槛是 AOV 杠杆，门槛过低吃运费成本，过高拖垮转化。Amazon 投手类比：listing 的 bundle 组合、coupon 阈值、Subscribe & Save 折扣比例都该用 split test 验证，而不是抄竞品或拍脑袋定。",
+    "quote_en": "instead of just guessing what works best i'd actually a b test this and see what shipping minimum gets you the highest average order value while still maintaining a high conversion rate",
+    "topics": ["optimization", "analytics", "landing-page"],
+    "timestamp_seconds": 92,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "andy-stauring-dDpZWkesL5A-3",
+    "video_id": "dDpZWkesL5A",
+    "channel_slug": "andy-stauring",
+    "title_zh": "购后追加销售在确认页加单不影响转化",
+    "summary_zh": "Andy 的 AOV 提升大招是 post-purchase upsell：用户付完款进确认页，再弹一个 one-click upsell（不重新过支付），愿意加的就加，不影响主转化。逻辑是已经付款的用户信任度最高、阻力最低，加单率经常 15-25%，纯增量利润。Amazon 投手没有这个产品形态，但同构思路可用在 listing 的 'Frequently bought together' 和 Brand Story 模块——把高毛利配件放到购买决策完成后的视觉位置，吃增量 AOV。",
+    "quote_en": "post-purchase upsells are upsells that come after the customer has already purchased the main item meaning that they don't disrupt the conversion rate at all",
+    "topics": ["optimization", "landing-page"],
+    "timestamp_seconds": 198,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "andy-stauring-JsAfA99wp-0-1",
+    "video_id": "JsAfA99wp-0",
+    "channel_slug": "andy-stauring",
+    "title_zh": "AB 测试用 50 50 流量分配跑足 6 到 7 天",
+    "summary_zh": "Andy 用 Ship Scout 这类 split test app 做 AOV 测试的标准流程：50/50 流量切分、最少 6-7 天观察窗口（覆盖工作日和周末两个完整周期），样本量够才下结论。短于 6 天的测试会被周末/工作日转化率差异污染，大概率得出错误结论。Amazon 投手的对应工具：Manage Your Experiments（A+ 内容、main image、title 测试），同样要跑满官方推荐的 8-10 周或至少有统计显著样本，禁止 3 天就改结论。",
+    "quote_en": "i highly recommend doing a 50 50 split test for at least six to seven days that way you cover both weekdays and weekends",
+    "topics": ["optimization", "analytics"],
+    "timestamp_seconds": 285,
+    "amazon_relevance": "high"
+  }
+]

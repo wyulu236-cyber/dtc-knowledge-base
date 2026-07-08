@@ -1,0 +1,68 @@
+[
+  {
+    "id": "konstantinos-doulgeridis-933qAz1UjtQ-1",
+    "video_id": "933qAz1UjtQ",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "归因窗口选 7 天点击,别用 1 天",
+    "summary_zh": "iOS 14.5 后 Facebook 大量数据丢失,归因窗口选择直接影响能看到多少转化。Konstantinos 强调 1 天点击归因会严重低估广告效果,7 天点击才能反映真实转化路径,因为很多用户不会立刻下单。这个原则对 Amazon 同样关键: SD/SB 默认 14 天归因,看长归因窗口能避免误杀真实在出单的活动,做决策时不要只看 1 天。",
+    "quote_en": "if you're using 1-day attribution, you are wrong. So stop doing it. It's very good news that we are starting to see now, the aggregated events being used for the 7-days attribution.",
+    "topics": ["attribution", "reporting"],
+    "timestamp_seconds": 825,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "konstantinos-doulgeridis-933qAz1UjtQ-2",
+    "video_id": "933qAz1UjtQ",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "数据丢失期反而是抬高出价机会窗",
+    "summary_zh": "Konstantinos 反向看 iOS 14.5 后的混乱期: 大量中小广告主因为投不动会离场,广告竞价压力下降,留下来的人反而能享受更低 CPM。原理是行业洗牌时存活者有红利。Amazon 同理: 旺季前后大量同行因 ACoS 暴涨暂停广告时,反而是抬出价抢位的好时机,Sponsored Display 拍卖竞争降低,Bid 策略可以更激进。",
+    "quote_en": "Whoever can't afford it anymore and whoever can't make the ads work anymore, will leave the platform and in my opinion this will be the reason for the rising cost of advertising on the Facebook platform to at last start dropping",
+    "topics": ["bidding", "budget", "scaling"],
+    "timestamp_seconds": 1990,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "konstantinos-doulgeridis-MGXeVY0uTRY-1",
+    "video_id": "MGXeVY0uTRY",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "店铺评分低于 3 分流量质量必崩",
+    "summary_zh": "Facebook 内部对每个主页有 1-5 分的 Feedback Score,低于 3 分账户流量质量明显变差,低于 1 分直接封号。原因是平台用客户满意度反向决定广告分发权重。Amazon 完全对应: listing 的 review 评分、退货率、A-to-Z 索赔率会进入 Account Health,差评 listing 投 SD/SB 会被压曝光、抬高 CPC。Grace 投放前应先看 listing 健康度,差的 ASIN 不要硬推。",
+    "quote_en": "from 1 to 3, the ad account is going to have very bad quality of traffic and the results are going to be extremely bad. And then above 3 to 5, you are having very good score.",
+    "topics": ["brand", "optimization", "analytics"],
+    "timestamp_seconds": 1403,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "konstantinos-doulgeridis-aiNnRajmpIQ-1",
+    "video_id": "aiNnRajmpIQ",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "Dynamic Creative 拆分必看素材级数据",
+    "summary_zh": "Konstantinos 演示在 Dynamic Creative 广告里点 Breakdown by Dynamic Creative,可以看到哪条视频/哪条文案带来大部分销售。原理是 DCA 把多素材打包跑,不拆数据等于黑盒,无法迭代。Amazon SB 视频广告和 SD 多创意位等价场景: 必须按 creative ID 拆 ACoS 和 CTR,把没出单的素材关掉,把胜出的素材复制到新 campaign 加预算,而不是让算法替你决定。",
+    "quote_en": "we can come to breakdown and we can do by Dynamic Creative, we can see about images and we can see that now we have this segmentation and we know that this video for example has the majority of the sales.",
+    "topics": ["creative-testing", "reporting", "optimization"],
+    "timestamp_seconds": 386,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "konstantinos-doulgeridis-aiNnRajmpIQ-2",
+    "video_id": "aiNnRajmpIQ",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "别盲信平台自动化,要用外部数据验证",
+    "summary_zh": "Konstantinos 怀疑 Facebook Automatic Placements 把钱故意花在低产出版位,只是为了让平台多收钱。他建议用 UTM + Google Analytics 做外部交叉验证,不要只信广告后台。Amazon 同样陷阱: Sponsored Display auto-targeting 和 SB 自动版位会把预算撒到低 ROAS 的位置。Grace 应该用 Brand Analytics、Search Query Performance、ASIN 级 Business Report 做第二信源,验证广告后台的 ACoS 是不是真实情况。",
+    "quote_en": "what if this is a conspiracy, okay, what if Facebook wants you to spend in all of the placements, even if they know that it's going to optimize at the end of the day for Facebook Feed and Instagram Feed and Instagram Stories.",
+    "topics": ["analytics", "attribution", "optimization", "reporting"],
+    "timestamp_seconds": 1444,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "konstantinos-doulgeridis-aiNnRajmpIQ-3",
+    "video_id": "aiNnRajmpIQ",
+    "channel_slug": "konstantinos-doulgeridis",
+    "title_zh": "看不到细分就靠花钱方向反推效果",
+    "summary_zh": "Breakdown 报告下线后,Konstantinos 用一个变通方法: 看 Facebook 把钱花在哪个年龄段/版位上,反推算法判断的高产出群体。如果整体 ROAS 健康,说明算法判断对; 如果不健康,这些花钱方向就是问题源。Amazon 类似场景: 当 Search Term Report 数据滞后或缺失时,看 campaign 里哪些 ASIN/keyword 拿走最多 spend,如果整体 ACoS 烂,优先关掉吃预算最多的那几个。",
+    "quote_en": "You won't be able to see the exact number of sales but you will be able to know where Facebook is spending your money and guess what if the cost per result is okay, and my business and my campaign is working then perfect!",
+    "topics": ["optimization", "budget", "analytics"],
+    "timestamp_seconds": 510,
+    "amazon_relevance": "medium"
+  }
+]

@@ -1,0 +1,271 @@
+[0] Hey guys, welcome to my channel. Today,
+[1] we're going to go into all of the
+[3] audiences that you need to target on
+[5] your Facebook ads. Now, maybe you're
+[7] currently using Facebook ads and
+[9] currently your campaigns aren't working,
+[11] or maybe you're just starting off and
+[13] you have no idea where to begin. Start
+[15] with this list. I'm going to be
+[17] including audiences not only for your
+[19] prospecting top of funnel cold
+[21] audiences, but also for your retargeting
+[24] warm audiences so that you have all of
+[26] your bases covered and you can start
+[27] getting those initial sales and leads in
+[30] your campaigns. This is also a great
+[32] list for experienced advertisers because
+[34] let's face it, our jobs are never done.
+[36] We are always testing. I'm going to be
+[38] starting off with my favorite interest
+[40] targeting tactics for the top of funnel,
+[42] which is perfect for those of you who
+[44] have brand new stores and new pixels
+[47] that don't have enough data for those
+[48] super powerful look-alike audiences. The
+[51] first interest targeting tactic I love
+[52] testing out is actually creating an ad
+[55] set with all of the publications that
+[57] your potential customers read. If you
+[59] think about it, the publications we read
+[61] tell a lot about us, and the more that
+[63] you include, the more that you're going
+[65] to be zeroing in on your potential
+[67] customer. So, I always love including,
+[69] you know, where does my potential
+[71] customer get the news? New York Times,
+[73] Fox News, CNN, BBC. I like choosing one
+[77] of those, but then I also like going
+[78] into what they read for fun. So, maybe
+[82] I'm marketing a women's fashion brand,
+[84] so I'll include Refinery 29, I'll
+[86] include Vogue, I'll include PopSugar.
+[89] But maybe they're more into science, so
+[91] I'll include something like Popular
+[93] Science. And, you know, if they have
+[95] other interests like architecture, I'll
+[98] do Architectural Home. But if you think
+[101] about it, there are tons of publications
+[103] out there, and a lot of them are
+[104] available on Facebook ads targeting,
+[107] which is why I love including it. And
+[109] the more diverse your list is, the more
+[111] you're actually honing in on your
+[113] potential customer. I would try and keep
+[115] it to at least 10 publications or more
+[118] ideally inside this interest audience ad
+[121] set. Another interest ad set I love
+[122] testing out is competitors and that
+[124] includes both your aspirational and
+[126] direct competitors. Now, maybe your
+[128] direct competitors are small enough so
+[131] that you can't actually target them on
+[132] Facebook ads. That's why I include your
+[134] aspirational competitors and those are
+[136] your competitors that you aspire to be
+[138] like but they have a big enough brand
+[139] and following that you can target them
+[142] on Facebook ads. The next ad set I love
+[145] testing is compiling a list of all the
+[147] brands that your potential customers
+[150] spend money on. I call this the brand
+[152] spending ad set. And the key here is to
+[155] not just look at your competitors where
+[157] your potential customers might be
+[158] spending money. It's to look at all the
+[160] places that they spend money. So, you
+[162] would look at things like where do they
+[163] spend money on food? Do they go to Whole
+[166] Foods or do they go to a local co-op?
+[167] Where do they spend money on their
+[168] clothes? Do they go to H&amp;M or do they go
+[171] to something a little bit higher end?
+[172] And then I would take a look at their
+[174] specific hobbies where they are spending
+[176] money. So, if they do yoga, what kind of
+[178] yoga clothes do they buy? What kind of
+[179] equipment do they buy? The key here is
+[181] to look at multiple facets of your
+[184] potential customers life and look at
+[186] where they are spending money because
+[188] Facebook has this data and the more
+[190] varied you are, the more you're going to
+[192] be able to hone in on your potential
+[193] customer. But the key is is that you're
+[196] going to have their purchase data which
+[197] makes it a lot more powerful than just
+[200] looking at their potential interests. I
+[202] also like to create several custom
+[205] avatar audiences which is pretty much
+[207] just a compilation of all of the other
+[209] ad sets that we had tested but for
+[211] specific avatars. So, maybe you're
+[213] targeting yogis so you're going to be
+[215] looking at yoga publications, you're
+[217] going to be looking at yoga competitors
+[219] but you're also going to be looking at
+[220] where other places yoga people might be
+[223] spending their money. Now, we're going
+[224] to look at the look-alike audiences you
+[227] need to test in your Facebook ad
+[228] campaigns. Now, look-alike audiences are
+[230] the bread and butter of Facebook ads
+[232] targeting. They're the most powerful
+[234] targeting option tool that you have. So,
+[236] if you have enough data in your store
+[238] and in your pixel, you definitely have
+[240] to test these out. So, the most obvious,
+[241] but frankly most powerful look-alike you
+[243] need in your Facebook ads campaign is a
+[245] look-alike based on purchases. But,
+[247] there's tons of ways to do this and I
+[248] recommend that you try them all. Number
+[250] one, you can create a pixel purchase
+[252] look-alike based on data directly from
+[255] your your pixel. Of course, do that.
+[257] But, you should also be creating a
+[259] custom list from all the people who have
+[262] ever purchased from your Shopify store
+[263] and then create a look-alike based on
+[265] that custom list. Another look-alike I
+[267] like doing off of purchases is a new
+[270] customer look-alike. So, these are
+[271] people who have purchased within the
+[273] last 30 days. I particularly like doing
+[276] this around Black Friday, Cyber Monday,
+[278] or other big sales because it really
+[279] opens yourself up to newer audiences.
+[282] And the other one that I like to do, and
+[285] you're going to need quite a few
+[286] purchases for this, are your VIP
+[288] customers. These are customers with a
+[290] particularly high average order value or
+[293] maybe multiple customers. I would
+[295] recommend taking that VIP customer list,
+[298] exporting it from Shopify. But, another
+[300] way that you can also do this is by
+[302] creating an LTV or lifetime value
+[305] look-alike audience directly in Facebook
+[307] ads from your pixel data, which I would
+[309] also highly recommend. Another
+[311] look-alike audience I always recommend
+[312] trying is based on social engagers. So,
+[315] I tend to combine Facebook and Instagram
+[318] into one look-alike audience, but if you
+[320] have a particularly strong following on
+[322] Instagram and then not really much on
+[324] Facebook, I would just do Instagram so
+[326] that you can be sure you have the
+[328] highest quality list possible. If you
+[330] don't have enough data to create a
+[332] purchase look-alike, you can still
+[334] create look-alikes based on your website
+[336] visitors. And I actually do recommend
+[338] this for brands that are just starting
+[339] off. What I like to do is I like to
+[341] create a look-alike audience based on
+[343] website visitors all the way up to 180
+[345] days. And then I also like to include a
+[348] look-alike audience based on the top 25%
+[351] of users on the site, which is based on
+[353] site time. I also like doing a
+[355] look-alike audience based on users who
+[358] have been to a specific product page on
+[361] the website. This is probably most
+[362] likely going to be a best-selling
+[364] product that you have. Next, we're going
+[366] to go into your retargeting audiences.
+[368] Now, these are people that have already
+[370] had some kind of interaction with your
+[372] brand. But, the reason why it is so
+[374] important to set up a cohesive
+[376] retargeting funnel is because 80% of
+[379] people do not convert on the first
+[381] touchpoint. So, if you only get in
+[383] contact with you, you know, your cold
+[385] audiences once, people aren't going to
+[387] convert. You could make a lot more money
+[389] if you took the time to also install a
+[391] cohesive retargeting funnel. If this is
+[394] your first time setting up a cohesive
+[396] retargeting funnel, what I would do is I
+[398] would go ahead and add one ad set
+[400] targeting your social engagers at a time
+[402] window of 365 days. And I would add
+[405] another ad set for all of your website
+[407] visitors up to 180 days, which is the
+[410] max limit. If you're worried about
+[412] targeting people with too big of a time
+[414] window, I would not worry about it
+[415] because for these retargeting campaigns,
+[417] you're going to be optimizing for a
+[419] purchase. So, if Facebook doesn't think
+[420] that these people are going to purchase,
+[422] they're not going to show the your ad to
+[424] them over and over again. As long as you
+[426] keep a budget that is in line with the
+[428] audience size. So, in order to track
+[431] that, you're going to be looking closely
+[432] at the frequency. For retargeting
+[434] campaigns, I like to keep my frequency
+[436] at a four or below. So, as long as you
+[438] follow that guideline, you're not going
+[439] to be hitting the same people up over
+[441] and over again that have no interest in
+[443] purchasing. Another campaign that I love
+[445] to include in a retargeting funnel is a
+[447] catalog sales objective campaign that
+[450] contains dynamic product ads. Now, what
+[452] this is going to do is it's going to
+[453] retarget your potential customers with
+[456] products that they've already viewed or
+[458] added to cart, which is super powerful.
+[460] And I go ahead and begin that campaign
+[462] by retargeting those people with a 7-day
+[464] window look back. So, if your main goal
+[466] is to get those first purchases,
+[469] definitely just start off with seven,
+[470] but if you start to see success there,
+[472] then I would start opening it up to
+[474] longer retargeting windows, such as 14,
+[476] 30, 60, and all the way up to 180. If
+[480] you're wondering why I have such big
+[482] time windows for the retargeting
+[483] campaign for social engagers and website
+[486] visitors versus the dynamic product ads
+[488] or catalog sales, the reason is because
+[490] I've actually found a lot more success
+[492] with the retargeting funnels for social
+[494] media engagers and website visitors with
+[497] a lot bigger time window. And I think
+[498] that that is because we're much more
+[500] often changing up the creative there, as
+[503] opposed to the dynamic product ads,
+[504] those are most likely just going to be
+[506] images of your products that are taken
+[508] directly from your product catalog, so
+[509] they probably have a white background
+[511] and they look a little boring. So, I
+[512] tend to find that, you know, we're able
+[514] to get a lot more people purchasing
+[516] through those other retargeting funnels
+[518] using more diverse creative. But with
+[520] that said, for your dynamic product ads
+[523] catalog sales campaigns, go ahead and
+[524] start at seven days, but when you find
+[526] success with it, go ahead and bump it up
+[528] to 14, bump it up to 21 or 30, and keep
+[531] on going until you find that your
+[533] campaigns aren't as successful anymore.
+[535] You can go up to 180 days on dynamic
+[538] product ads. If you found this video
+[540] helpful, please hit subscribe so that
+[542] you can see all of my videos about how
+[544] to make your business more successful
+[546] using Facebook ads. If you have any
+[548] questions about how to use Facebook or
+[550] Instagram to grow your business, leave
+[552] me a comment below with your question,
+[554] and I will create a video reply
+[556] especially for your question. Okay,
+[558] thanks guys. Bye.

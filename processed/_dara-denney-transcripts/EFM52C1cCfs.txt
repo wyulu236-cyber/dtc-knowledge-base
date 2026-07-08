@@ -1,0 +1,167 @@
+[0] hey guys my name is Dora and I'm the
+[3] director of paid social at a fully
+[5] remote marketing agency today I wanted
+[8] to share with you guys the easiest way
+[11] to upload a product catalog
+[13] to Facebook Ads manager and look I hate
+[17] doing this kind of stuff I hate
+[19] installing the pixel I hate testing
+[21] event tracking you know I really feel
+[25] like I'm more well-versed in the
+[27] creative end in things and when it gets
+[28] a little bit more technical like I don't
+[30] feel comfortable with this kind of stuff
+[31] so when I discovered this super easy way
+[34] to do this I wanted to share with you
+[36] guys so that you could take advantage of
+[38] one of Facebook's most powerful tools
+[41] when it comes to advertising online and
+[44] the reason why you guys should do this
+[47] is because the product catalog allows
+[50] you to actually re target customers with
+[54] products that they've already indicated
+[56] interest in so on my daraa does
+[60] marketing fake Shopify store yeah please
+[64] don't go here you can see I have a
+[67] featured collection filled with some
+[70] products of dog costumes and clothing so
+[75] what a product catalog would actually
+[77] allow us to do is say a customer clicked
+[82] on this the soho sweatshirt and added to
+[86] cart the next time that they went to
+[89] facebook or instagram you could actually
+[92] dynamically retarget those people so
+[95] that they see this exact product in
+[98] their social media feeds which is really
+[101] really powerful in this method I'm gonna
+[104] share with you guys this is exactly what
+[106] I do at the agency and also with my
+[108] personal clients so let's dive in okay
+[113] so we're gonna be starting at your
+[116] Shopify homepage and from here we're
+[119] gonna go to apps so we will be
+[122] downloading an app to do the heavy
+[124] lifting on installing this product
+[126] catalog so we're going to visit the
+[129] Shopify app store
+[133] and we'll be downloading an app called
+[136] flex if I suite right here so flex if I
+[145] is free for up to your first 1000
+[149] products there is a premium version
+[152] which allows you to have better control
+[154] over the way that your image is show up
+[158] in Facebook or Instagram but just
+[161] starting off just install the free
+[163] version I definitely use it for the free
+[169] version for a number of clients so it's
+[171] totally fine
+[171] so when you first download it you'll see
+[177] this screen you will not be seeing this
+[180] little notice it's just because I
+[182] deleted it so that I could show you the
+[185] exact process for getting to for
+[189] downloading your product catalog so if
+[192] you click on apps again you can see that
+[196] you have this flex pay Facebook product
+[199] feed and this is where your apps gonna
+[201] live so go ahead and click on that and
+[204] again you won't see this little notice
+[207] but what you're gonna do is you're going
+[211] to add the collection so yes you are
+[215] gonna have to have a collection already
+[218] made in Shopify and for this purpose you
+[221] want to create one with all of your
+[223] products so that no matter which product
+[226] one of your customers lands on you can
+[228] be able to retarget them so we have the
+[231] all products collection selected you
+[235] want to make sure to click on this use
+[237] SEO titles and description so that
+[239] google has an easier time finding you
+[244] and some of these are just premium
+[247] upgrades so for this purpose you're not
+[250] gonna have to worry about them you're
+[252] also going to be able to see what your
+[254] images are going to look like both in
+[256] facebook for the corrupt option and for
+[260] the fill option as you can see all those
+[263] all tend to look the same and if they do
+[265] that's a good indication
+[267] that you don't need to upgrade unless
+[269] you have more than a thousand products
+[273] this right here is a feed generation
+[275] time so with Flex off' i it's actually
+[278] going to look at your Shopify account
+[282] for you at a specific time every day to
+[285] update those products as long as the
+[289] products that you're adding to your
+[291] Shopify site is in that catalog so I
+[294] like to do this in the middle of the
+[296] night like 4 a.m. these are other
+[300] premium features and then last easy step
+[305] is to save your feed and now so this is
+[311] actually where your feed lives which is
+[313] super cool so we want to go ahead and
+[315] copy that and then we're going to head
+[318] on over to Facebook ads manager so once
+[324] you're here what you're going to do is
+[326] you're going to go ahead and click on
+[328] catalog manager you're gonna go ahead
+[332] and click on data sources add products
+[336] and here we're gonna be choosing a bulk
+[340] upload and because we do not want to add
+[344] all of our products one by one and we're
+[346] not going to be using the pixel for this
+[349] and when you see here that we actually
+[352] have another few options to choose from
+[355] and here we're gonna select scheduled
+[358] feed and enter URL so here is where
+[361] we'll be entering the URL from our flex
+[366] if I app so we'll go ahead and enter it
+[368] there click Next and now you're gonna be
+[374] planning your update to so really we
+[380] only want to do this once a day and I
+[383] would recommend to do this again in the
+[386] middle of the night
+[387] kind of like when when flex off' i is
+[393] going to be uploading from Shopify so
+[396] the way that it's working is that flex
+[399] if I is syncing
+[401] to the product catalog and then flex if
+[404] I it is then sinking to ads manager so
+[408] let us do okay that's fine and then here
+[418] we want to name the data source so you
+[420] can go ahead and just keep the the
+[424] regular name and you want to select your
+[426] currency for this purposes it's the USD
+[429] and then you're gonna hit upload so
+[432] depending on how many products you're
+[434] uploading this first time around
+[437] shouldn't really take super long and
+[441] there we go very quick and it says that
+[444] I have eight products in the data feed
+[447] and that's exactly how many products I
+[448] have on my Shopify so that's perfect and
+[452] now you're ready to create your first ad
+[456] so let's go ahead and see what that
+[460] looks like actually so now you've
+[464] already you know you've done all the
+[465] heavy lifting your product catalog is
+[467] installed but I want to show you what
+[470] you can do with that so so when you're
+[478] in ads manager we're going to go ahead
+[481] and create a campaign this is going to
+[485] be considered catalog sales and here
+[490] you're going to see this catalog portion
+[492] pop-up and you can see that I have many
+[495] catalogs even two for this purpose sorry
+[498] guys but just make sure that you can see
+[503] your products come in here so go ahead
+[505] and click on that one let's not go wild
+[511] let's do a daily budget of five just for
+[513] this purpose
+[520] I'm not going to do any of the targeting
+[523] really what I want to do is I just want
+[525] to show you guys what your ads will look
+[529] like
+[533] you

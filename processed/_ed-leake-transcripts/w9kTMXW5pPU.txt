@@ -1,0 +1,41 @@
+[4] Matt has asked me, "I'm currently
+[5] bidding on the broad match term
+[6] employment law employers. I would have
+[9] assumed my ad would only show if all
+[11] three of these words appeared. Instead,
+[13] I'm showing for loads more terms." So,
+[16] Matt, the issue here is that Google is
+[18] triggering related words and synonyms.
+[21] For example, law may trigger legal and
+[24] employment may trigger employer,
+[27] employee, and the like. So, the official
+[29] line from Google on this is that
+[31] modified broad match lets you specify
+[34] certain broad match terms or their close
+[36] variants, but they can trigger your ad
+[39] if those include misspellings, singular,
+[43] plural forms, abbreviations,
+[46] acronyms, and stemmings. Uh, quite an
+[50] extensive list. Uh, for example, floor
+[53] and flooring would be considered the
+[55] same in the eyes of Google Adwords. So
+[56] the only way to tighten this up and by
+[58] the way this happens with exact match as
+[60] well. It's not it's not exactly exact
+[62] but um particularly in the case of broad
+[64] modified it's even worse if you're not
+[67] wanting to trigger for employee for
+[68] example you need to negative that out
+[70] and you need to negative out all the
+[72] specific words that you don't want. So
+[74] any close variants that you can think
+[76] of. Um a good thing to do is use a
+[79] thesaurus for this sort of thing. Add
+[80] them to the negatives as individual
+[83] single words. Uh, and you may even find
+[85] a few phrase matches you want to throw
+[86] in there. Otherwise, your broads, even
+[89] though they're broad modified, will
+[92] trigger for loads of stuff that you
+[94] probably don't want. I hope that helps,
+[96] Matt. Cheers.

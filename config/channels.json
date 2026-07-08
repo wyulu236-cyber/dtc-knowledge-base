@@ -1,0 +1,135 @@
+{
+  "_comment": "10 个 DTC 投放方向博主。Grace 可手动增删,改完后重跑 scripts/01_collect_video_urls.sh。verify=true 表示 channel handle 还需肉眼确认。",
+  "_version": "1.0",
+  "_topics_whitelist": [
+    "P-Max",
+    "Advantage+",
+    "creative-testing",
+    "scaling",
+    "attribution",
+    "negative-keywords",
+    "bidding",
+    "audience",
+    "campaign-structure",
+    "reporting",
+    "copy",
+    "landing-page",
+    "budget",
+    "optimization",
+    "analytics",
+    "brand",
+    "niche"
+  ],
+  "channels": [
+    {
+      "slug": "dara-denney",
+      "name": "Dara Denney",
+      "handle": "@DaraDenney",
+      "url": "https://www.youtube.com/@DaraDenney",
+      "videos_url": "https://www.youtube.com/@DaraDenney/videos",
+      "platform": "Meta",
+      "role": "DTC creative testing 教母, ex-Tinuiti creative strategist",
+      "why": "讲 creative testing / hook rate / thumbnail-stop 最系统, DTC 视角最纯, 不卖课狗血",
+      "verify": false
+    },
+    {
+      "slug": "andy-stauring",
+      "name": "Andy Stauring",
+      "handle": "@andystauring",
+      "url": "https://www.youtube.com/@andystauring",
+      "videos_url": "https://www.youtube.com/@andystauring/videos",
+      "platform": "Meta",
+      "role": "Advantage+ 实战派",
+      "why": "Meta Advantage+ 改版后最早一批吃透的 practitioner, 案例多",
+      "verify": false
+    },
+    {
+      "slug": "konstantinos-doulgeridis",
+      "name": "Konstantinos Doulgeridis",
+      "handle": "@KonstantinosDoulgeridis",
+      "url": "https://www.youtube.com/@KonstantinosDoulgeridis",
+      "videos_url": "https://www.youtube.com/@KonstantinosDoulgeridis/videos",
+      "platform": "Meta",
+      "role": "high-budget DTC scaling 实战",
+      "why": "live ad account 演示 scaling/downscaling 决策过程, 极少见的真实操作画面",
+      "verify": false
+    },
+    {
+      "slug": "ben-heath",
+      "name": "Ben Heath",
+      "handle": "@BenHeath",
+      "url": "https://www.youtube.com/@BenHeath",
+      "videos_url": "https://www.youtube.com/@BenHeath/videos",
+      "platform": "Meta",
+      "role": "入门到中阶系统教学, Heath Media agency 老板",
+      "why": "覆盖 targeting / 结构 / 文案最全, 500K+ 订阅, 入门补盲必看",
+      "verify": false
+    },
+    {
+      "slug": "evan-seech",
+      "name": "Evan Seech",
+      "handle": "@evanseech",
+      "url": "https://www.youtube.com/@evanseech",
+      "videos_url": "https://www.youtube.com/@evanseech/videos",
+      "platform": "Meta",
+      "role": "Meta ads + 漏斗 + B2B/coaching DTC",
+      "why": "Conversion API / match rate / 漏斗 conversion mechanism 讲得细",
+      "verify": true
+    },
+    {
+      "slug": "the-google-pro",
+      "name": "Jyll Saskin Gales",
+      "handle": "@the_google_pro",
+      "url": "https://www.youtube.com/@the_google_pro",
+      "videos_url": "https://www.youtube.com/@the_google_pro/videos",
+      "platform": "Google",
+      "role": "ex-Google 6 年, Google Ads coach #1 PPC influencer",
+      "why": "P-Max / Search 框架最稳, 8 个 Google Ads cert + GA4 cert, 不掺水",
+      "verify": false
+    },
+    {
+      "slug": "aaron-young",
+      "name": "Aaron Young",
+      "handle": "@AaronYoungGoogleAds",
+      "url": "https://www.youtube.com/@AaronYoungGoogleAds",
+      "videos_url": "https://www.youtube.com/@AaronYoungGoogleAds/videos",
+      "platform": "Google",
+      "role": "Define Digital Academy 创始人, e-com Google Ads 实操派",
+      "why": "#1 Google Ads YouTube channel (130K+ subs), 实操步骤极细",
+      "verify": false
+    },
+    {
+      "slug": "ed-leake",
+      "name": "Ed Leake",
+      "handle": "edleake",
+      "url": "https://www.youtube.com/edleake",
+      "videos_url": "https://www.youtube.com/edleake/videos",
+      "platform": "Google",
+      "role": "Midas Media 14 年 agency owner, $500M+ ad spend managed",
+      "why": "反套路, Smart Bidding scaling 框架 (God Tier Ads), 不爱搞 hype",
+      "verify": true
+    },
+    {
+      "slug": "ppc-mastery",
+      "name": "Miles & Bob — PPC Mastery",
+      "handle": "@ppcmasterycom",
+      "url": "https://www.youtube.com/@ppcmasterycom",
+      "videos_url": "https://www.youtube.com/@ppcmasterycom/videos",
+      "platform": "Google",
+      "role": "Miles McNair + Bob, PPC Hub 社群创始人",
+      "why": "Demand Gen / SST / enhanced conversions / 现代 Search 结构最有体系, 长视频干货",
+      "verify": false
+    },
+    {
+      "slug": "andrew-lolk",
+      "name": "Andrew Lolk",
+      "handle": "@AndrewLolkTalksPPC",
+      "url": "https://www.youtube.com/@AndrewLolkTalksPPC",
+      "videos_url": "https://www.youtube.com/@AndrewLolkTalksPPC/videos",
+      "platform": "Google",
+      "role": "SavvyRevenue 创始人, e-com Google Ads only ($10K-$1M/月 客户)",
+      "why": "只做 e-com, 挑战 Google 官方 best practice, AI 分析 PPC data 系列, DTC 场景命中率高",
+      "verify": true
+    }
+  ]
+}

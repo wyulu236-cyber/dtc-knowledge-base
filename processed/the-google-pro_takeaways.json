@@ -1,0 +1,211 @@
+[
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-1",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Performance Max 起步预算最低 100 美元/天",
+    "summary_zh": "Liam 实战经验:P-Max 单一 campaign 同时跑 search/shopping/display/YouTube/Gmail/discovery 七个网络,日预算低于 100 美元会把流量分摊到饿死,前 4-5 周还有 rocky learning period。建议要么准备好 100 美金/天熬过学习期,要么跑常规 search campaign 起步。Amazon SP/SD 同样适用:自动投放/产品定向 campaign 起步预算太低会卡住学习期,跑不出成交数据。",
+    "quote_en": "Have enough budget behind it to go ahead and spill it out into all those different kind of networks because otherwise you're just going to choke it. Got to make sure at least a hundred dollars a day on budget.",
+    "topics": ["P-Max", "budget", "scaling"],
+    "timestamp_seconds": 226,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-2",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Broad match 必须独立 campaign + 每天看 search term",
+    "summary_zh": "Liam 反对在主 campaign 用 broad match,但建议起一个独立 campaign 给小预算专门跑 broad match,绑定 negative keyword list,每天看 search terms 报告捞出真正转化好的词,反向加回 phrase/exact match 主 campaign。这是低风险的关键词探索手法。Amazon SP 自动投放完全是同样思路:用自动投放挖掘新词,挖到的转化词加进手动投放,自动投放保留作为持续探索。",
+    "quote_en": "Start out its own campaign with its own dedicated budget and set it to just broad match keywords and kind of import the negative keyword list. Just sit on that account every single day go through those search terms and actually find those keywords that are really performing.",
+    "topics": ["negative-keywords", "campaign-structure", "optimization"],
+    "timestamp_seconds": 547,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-3",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "出价策略先 max conversions 累积 30 单再切 tROAS",
+    "summary_zh": "Liam 与 Jyll 一致经验:电商出价不能一上来就用 target ROAS/target CPA,机器学习没数据会被限制器卡死,直接零流量。先用 maximize conversions 跑到 30 天内 30-50 单再切目标类策略。Amazon SP 同理:新建 campaign 先用动态出价 down only 或固定出价喂数据,转化数据沉淀够后再切 ACoS 目标或 RoAS 目标。",
+    "quote_en": "Start off with like a max conversions for ecommerce and then after you keep getting about 30 to 50 conversions a month over a 30-day period that's when you kind of start to turn on those target ROAS or a target CPA.",
+    "topics": ["bidding", "scaling", "optimization"],
+    "timestamp_seconds": 2155,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-4",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "竞品对标必须看 SERP 不是后台",
+    "summary_zh": "Liam 直言:大多数广告投手把时间花在后台改设置,但真正的 ad copy 优化要去 google 实际搜你出价的关键词,看竞品 headline/description/site link extension,然后逐项 one-up。空泛卖点(\"5 stars since 1973\")没人 care,要打用户真实痛点(蜘蛛在房间想立刻除掉)。Amazon listing 同理:打开 SERP 看竞品标题/主图/A+,逐句对标用户搜该词时真实的 intent。",
+    "quote_en": "Go out onto the search engine and Google what keywords you're actually presenting on. You want to be looking at your competitors their ad copy and seeing how they're addressing the market. People spend way too much time in the back end of Google playing with all the buttons.",
+    "topics": ["copy", "optimization", "campaign-structure"],
+    "timestamp_seconds": 2005,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-5",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "P-Max 跑 lead-gen 必须传质量信号回 Google",
+    "summary_zh": "P-Max 容易出量但 lead 质量差,这不是 P-Max 的锅,是 conversion tracking 没设好。做法:lead form 加资格问题(预算/服务类型),合格 lead 跳 thank-you-A,不合格跳 thank-you-B,只把合格 lead 当 conversion 回传,不合格的勾掉 \"include in optimization\"。机器学习只优化合格 lead。Amazon 同样:Sponsored Ads 应优化的是 NTB 订单或高客单产品,而不是所有点击转化。",
+    "quote_en": "If they answer the right question and say your budget's over ten thousand dollars a month we'll send them to thank you page A and if it's under we send them to thank you page B. So you're only sending the conversions back of the leads that are qualified.",
+    "topics": ["attribution", "optimization", "P-Max"],
+    "timestamp_seconds": 354,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-6",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Smart Campaign 是黑箱坑,新账号一定要切 Expert mode",
+    "summary_zh": "Google 新账号默认逼你建 Smart Campaign(Jyll 直接叫 \"dumb campaign\"),拿不到关键词/出价/网络的可见度,有 agency 看到客户在 smart campaign 烧 1-2 万美金都不知道钱花到哪。务必切 Expert mode 才能逐项控制 spend。Amazon 类比:Sponsored Display Audience 自动定向虽然方便但不透明,要尽量用 Sponsored Products 关键词手动投放,可控可优化。",
+    "quote_en": "There's so many times that I've gone ahead and jumped into an account and they'll still be on the smart campaign and they'll be spending 10 20 grand and I'm like okay cool we have no control over this kind of system at the moment we can't even see where your dollars and cents are kind of being spent.",
+    "topics": ["campaign-structure", "optimization", "reporting"],
+    "timestamp_seconds": 893,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-7",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "竞品 conquesting 投放必须配 vs comparison 落地页",
+    "summary_zh": "Jyll 教学:在搜竞品词时投广告别只改 ad copy 把流量打到首页,quality score 会很低导致 CPC 飞涨。要做 \"我们 vs 竞品\" 比较页,relevance 拉满。同时 conquesting 仅对已访问过自家网站的用户开(RLSA),纯陌生用户在竞品搜索词上不会被竞品名转化过来,纯烧钱。Amazon SP 类比:对竞品 ASIN 出价定向时,自家 listing 主图必须明显呈现差异化(对比卡或独立卖点)。",
+    "quote_en": "If you're just sending them straight to your home page and the only thing you've changed is a bit of ad copy you're going to have a really low quality score because you're not being seen as relevant and your cost per click is going to be through the roof. So throwing that little comparison page on top will really make that stuff on fire.",
+    "topics": ["landing-page", "campaign-structure", "audience"],
+    "timestamp_seconds": 1820,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-8",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "投放是即时出量但盈利要 3 个月预期管理",
+    "summary_zh": "Jyll 与 Liam 共识:Google ads 开就来量,但 \"流量即时\" ≠ \"转化和利润即时\"。新账号需要 3 个月学习期把流量调到目标 CPA/ROAS,前期波动大客户不能慌。Liam 自家 agency 强制 90 天最低合作期 + 100% 退款保证。Amazon 同理:新品/新 campaign 不能拿前 14 天数据下结论,至少看 30-90 天的 trend 再判断要砍要加预算。",
+    "quote_en": "The traffic is instant that doesn't mean that the conversions and the profitability are instant and that can take time. Within my own agency we actually have a three-month minimum of people coming on board because people do get scared within those first few months and they see that traffic kind of going up and down.",
+    "topics": ["scaling", "optimization", "reporting"],
+    "timestamp_seconds": 2280,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-8IDPVbMOTzQ-9",
+    "video_id": "8IDPVbMOTzQ",
+    "channel_slug": "the-google-pro",
+    "title_zh": "DSA + RLSA 用搜索召回老访客,复购成本压到几分钱",
+    "summary_zh": "Liam 头号电商 hack:Dynamic Search Ads 配 Remarketing List 组合使用。先靠 brand/shopping/P-Max 把人引到网站,被 tagged。然后 DSA+RLSA campaign 在 google search 守株待兔,只对访问过你网站、又在搜任何相关词的用户出广告,带回站点几乎是 cents on the dollar。Amazon 没有 RTG 概念,但相似思路是 Sponsored Display 的 Views Remarketing 对 7-30 天看过 listing 的用户重新触达。",
+    "quote_en": "DSA plus RLSA so that's a dynamic search ads with a remarketing list attached to that. This DSA plus RLSA campaign will go out onto the Google search platform and kind of sit out there and just wait for somebody that's been to your website already and then to type something else.",
+    "topics": ["audience", "campaign-structure", "scaling"],
+    "timestamp_seconds": 1700,
+    "amazon_relevance": "low"
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-1",
+    "video_id": "UYavShpRnRY",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Search impression share 失分先看是 budget 还是 rank",
+    "summary_zh": "Jyll 推荐 search impression share 维持至少 10%,失分时不能盲调,要在 keyword 层级加两列:\"lost IS due to budget\" 和 \"lost IS due to rank\"。budget 失分→加预算或砍地理/关键词缩小定向;rank 失分→quality score 太低或出价太低,先看 quality score 再决定改 ad copy / 落地页 / 提价。Amazon 类比:广告位失分先看是不是 budget cap 限制还是出价不够,不要乱加预算。",
+    "quote_en": "I recommend your campaign has at least 10 impression share if you're not sure why you're losing impression share you want to add two columns you want to add how much you're losing due to budget and how much you're losing due to rank if you're losing more due to budget add more budget.",
+    "topics": ["reporting", "bidding", "optimization"],
+    "timestamp_seconds": 1330,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-2",
+    "video_id": "UYavShpRnRY",
+    "channel_slug": "the-google-pro",
+    "title_zh": "高曝光低点击的页面先改 metadata 再说",
+    "summary_zh": "Kirsten SEO 实操:Google Search Console 里筛 \"impressions 高 + clicks 低\" 的页面是最容易拿到的 quick win——曝光说明已经在排名,点击低意味着 metadata(title/description)对用户没吸引力。改 metadata 不是长期解,但能立刻把现有排名变现。Amazon 完全适用:listing 已被搜索结果展示但 CTR 低,先改主图和标题(SERP 视觉元素),再去优化更深层的 A+ 内容。",
+    "quote_en": "If you go on search console you're able to see what pages people are seeing they have high impressions but they have low clicks. Those are easy wins that is the you fix the metadata for that page. It's not a long-term solution but it will let you start getting more people on your site.",
+    "topics": ["copy", "optimization", "analytics"],
+    "timestamp_seconds": 977,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-3",
+    "video_id": "UYavShpRnRY",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Conversion rate × AOV < 2 美元就别投 paid 广告",
+    "summary_zh": "Jyll 给电商小卖家硬规则:转化率 × 平均订单金额低于 2 美元的店铺不要烧广告,因为这两数据决定了你能承受的 max CPC——CPC 大概率会高于这数字。先做 SEO/organic 把转化率拉上去再投广告。Amazon 类比:listing 自然 CR 低于 5-8%(品类基准)、平均客单不到 20 美金时,SP 广告烧出来 ACoS 必然爆掉,先优化 listing 转化再投放。",
+    "quote_en": "Unless your conversion rate times your average order value is at least two dollars don't run ads focus on SEO instead.",
+    "topics": ["bidding", "budget", "landing-page"],
+    "timestamp_seconds": 1949,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-UYavShpRnRY-4",
+    "video_id": "UYavShpRnRY",
+    "channel_slug": "the-google-pro",
+    "title_zh": "电商 shopping ads 起步预算 30 美元/天,SKU 多就翻倍",
+    "summary_zh": "Jyll 给 shopping ads 的最低预算建议:本地小店、单 SKU 至少 30 美元/天 × 30 天起步。多 SKU/多品类/全国投放 shopping 是自动定向无关键词控制,需要更多预算让算法学习。Amazon 类比:Sponsored Products 自动投放在多 ASIN 时也要按 SKU 数量乘预算,不然算法只能学到头部 1-2 个 SKU。",
+    "quote_en": "Shopping ads are automated you don't pick your keywords and with automated campaign types you generally need to spend more. If you're one of these businesses that only has one or two products a handful of skus and you're going local not national that maybe thirty dollars a day is a starting point.",
+    "topics": ["budget", "campaign-structure", "scaling"],
+    "timestamp_seconds": 2032,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-6uZdIVYLORA-1",
+    "video_id": "6uZdIVYLORA",
+    "channel_slug": "the-google-pro",
+    "title_zh": "YouTube 视频广告 ABCD 框架直接迁移到 Amazon Video Ads",
+    "summary_zh": "Google 自家创意框架 ABCD(Attract/Brand/Connect/Direct):前 5 秒紧凑画面+人脸吸引;前 5 秒必须出现品牌(视觉+音频);用故事/情绪让用户共鸣;最后给明确 CTA 与紧迫感。Amazon Sponsored Brand Video / DSP 视频创意完全可以套这套——前 3 秒钩子+品牌露出+核心卖点+\"Add to Cart\" CTA,可直接提升广告转化。",
+    "quote_en": "YouTube's own framework for creating great ads is called ABCD attract brand connect direct. Attract is about hooking your audience in from the start tight framing fast-paced human faces. Brand is about putting your brand front and center introduce it in the first five seconds.",
+    "topics": ["creative-testing", "copy", "brand"],
+    "timestamp_seconds": 2,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-KLSECfBs-2w-1",
+    "video_id": "KLSECfBs-2w",
+    "channel_slug": "the-google-pro",
+    "title_zh": "搜索关键词可直接复用作为 YouTube 受众",
+    "summary_zh": "Google YouTube ads 有个常被忽视的功能:用 search keywords 反向定向 YouTube 受众——用户在 google 搜过这些词的人会在 YouTube 看到广告。这是用 high-intent search 信号驱动 awareness/Top of funnel 视频展示的实战手法。Amazon 没有跨场景搜索→视频投放,但思路提示:Sponsored Brand Video 关键词应优先选已被 SP 验证转化的高 ROAS 词,而不是凭空猜测。",
+    "quote_en": "You can target people based on what they're searching for on Google so you can actually repurpose your search keywords as YouTube audiences. Can target based on what kind of apps or websites people use then you can create combinations of all those audiences.",
+    "topics": ["audience", "campaign-structure", "creative-testing"],
+    "timestamp_seconds": 22,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-0mvTfuHWSdc-1",
+    "video_id": "0mvTfuHWSdc",
+    "channel_slug": "the-google-pro",
+    "title_zh": "用 UTM 参数区分付费/自然/邮件流量来源",
+    "summary_zh": "Jyll 解释 UTM 三要素:source(tiktok/instagram/google)、medium(organic/paid/email/referral)、campaign(自定义活动名)。重点:跨平台投广告时(如 Facebook ads)不加 utm_medium=cpc,Google Analytics 会把付费流量记成 organic referral,无法区分。Amazon 卖家在站外引流(网红/红人/邮件)到 Amazon listing 时,attribution link 同样要加 UTM-style sub-tag,否则无法判断哪条 channel 真正带来转化。",
+    "quote_en": "If you're running facebook ads and you don't put in custom utm parameters then all the people who come to your website from ads will look the exact same in google analytics as people who came organically. We don't want that so in facebook ads you would want to put a custom medium of cpc cost per click.",
+    "topics": ["attribution", "analytics", "reporting"],
+    "timestamp_seconds": 85,
+    "amazon_relevance": "medium"
+  },
+  {
+    "id": "the-google-pro-o0FFRD8s9E0-1",
+    "video_id": "o0FFRD8s9E0",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Traffic 不是问题,conversion 才是——先修转化率再加预算",
+    "summary_zh": "电商主理人讲述自己 Shopify 店从 0.07% 转化率(near-zero)爬到 1.5% 的实战:她的诊断是流量从来不缺,缺的是转化承接。所以她先不加投放预算,而是上 live chat、reviews、scarcity 等 trust-building apps 把转化率拉起来。对应 Amazon:不要看到 SP 出单不理想就加 bid 加预算,先去检查 PDP 的 main image / A+ / reviews 是否在拉低转化,把 listing 修好再 scale 投放。",
+    "quote_en": "Traffic was never a problem for me it was always conversion. My conversion rate i think was like point zero seven or so i mean it was just awful and now i'm i think 1.5 which for not even a year in business is really impressive.",
+    "topics": ["optimization", "landing-page", "analytics"],
+    "timestamp_seconds": 770,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-o0FFRD8s9E0-2",
+    "video_id": "o0FFRD8s9E0",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Day-1 就装 reviews/live-chat/scarcity——别等六个月",
+    "summary_zh": "她的复盘是不应该等到第六个月才上 trust-building 工具,从 day-1 就该铺好 reviews app(社会证明)、low-stock 提醒(scarcity)、live chat(异议处理)。这些 trust signal 各自只动几个百分点,但叠加起来对 conversion 是质变。Amazon 对应:新品期就要规划好 vine 评论、Q&A 内容、A+ 模块、品牌故事,别上完链接才补,前两周流量+评论权重 window 错过了再补成本翻倍。",
+    "quote_en": "Have reviews from day one have live chat from day one right start building that connection interest and your conversions. If you're thinking about opening a store put them in from day one like don't wait six months.",
+    "topics": ["optimization", "landing-page", "brand"],
+    "timestamp_seconds": 818,
+    "amazon_relevance": "high"
+  },
+  {
+    "id": "the-google-pro-o0FFRD8s9E0-3",
+    "video_id": "o0FFRD8s9E0",
+    "channel_slug": "the-google-pro",
+    "title_zh": "Low-stock 显示 = scarcity 心理,直接拉转化",
+    "summary_zh": "她装的 low-scarcity app 阈值设为 5:库存降到 5 件时商品页自动闪烁显示 'Only 5 left'(包含 4 / 3 / 2 自动倒数)。客户反馈直接说 'glad I got the last one' 或 'I'll grab two so my friend can have one'——稀缺性触发即时购买决策,避免用户 bookmark 后流失。对应 Amazon:listing bullet point 可以提稀缺性钩子(限时 / 限量),Sponsored Brand 视频也能强调稀缺,但库存数本身 Amazon 系统不主动展示,需自己写文案触发同样的紧迫感。",
+    "quote_en": "When a product one of my inventory gets down to five the low scarcity app goes up so when you go to the product page it flashes and toggles and it says low stock only five left. Customers have reached out and said oh i'm so glad i got the last one.",
+    "topics": ["copy", "landing-page", "optimization"],
+    "timestamp_seconds": 690,
+    "amazon_relevance": "medium"
+  }
+]

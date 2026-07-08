@@ -1,0 +1,41 @@
+[0s] what exactly is ai and why are you
+[2s] hearing about it everywhere i used to
+[3s] work at google so let me break it down
+[5s] for you artificial intelligence is not
+[7s] actual intelligent it just means that a
+[9s] really intelligent human has programmed
+[11s] a computer with a really long list of
+[13s] directions for what to do for a computer
+[15s] to play chess using ai it doesn't
+[17s] actually know how chess works it's just
+[19s] been given a long list of directions the
+[21s] rules of chess and what it can do in
+[23s] every possible situation the advantage
+[25s] that computers have over humans is they
+[26s] can hold a lot more data in their brains
+[28s] than we can but that doesn't make ai
+[31s] smart just really good at following
+[33s] direction now machine learning or ml
+[35s] works a bit differently rather than
+[37s] teaching a computer to play chess by
+[39s] programming in all the rules instead you
+[41s] teach it to play chess by letting it
+[42s] watch millions of different chess games
+[45s] and it sucks up all that data and from
+[47s] that draws its own conclusions about how
+[49s] chess is played this is how humans learn
+[51s] language we don't read babies the
+[53s] dictionary we talk around them and read
+[55s] around them that's what makes machine
+[57s] learning so cool the machine is actually
+[59s] learning something but only based on the
+[61s] data that humans give it which is why
+[63s] just because something's decided by an
+[64s] algorithm it does not mean it's not
+[66s] biased so when you hear people throwing
+[68s] around words like ai or ml it doesn't
+[71s] mean the machines are taking over it
+[72s] just means that really intelligent
+[74s] humans have trained machines to augment
+[77s] what we know about the world and what we
+[78s] can accomplish
