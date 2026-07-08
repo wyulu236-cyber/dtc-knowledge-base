@@ -1,13 +1,14 @@
 name: daily-videos
 
-# 【当前状态: 仅手动触发】
-# Grace 暂时没配 ANTHROPIC_API_KEY(不想充钱), 所以关掉了每日自动 cron,
-# 只保留 workflow_dispatch 手动按钮。
-# 想恢复每日自动: 把下面 schedule 那两行的 # 去掉, 并在 repo Secrets 里加 ANTHROPIC_API_KEY。
-# 参考 cron: https://crontab.guru/#0_23_*_*_*  (UTC 23:00 = CST 07:00)
+# 每天 CST 07:00 = UTC 23:00 (前一天) 跑一次 (GitHub scheduled workflow 高峰期可能漂移 ±15 分)
+# 参考: https://crontab.guru/#0_23_*_*_*
+#
+# 用 Gemini API (免费 1500 RPD, 用不完), 不烧钱. 想切回 Anthropic 需要:
+#   - workflow env 里改回 ANTHROPIC_API_KEY
+#   - scripts/03_extract_takeaways.py 换回 call_anthropic
 on:
-  # schedule:
-  #   - cron: "0 23 * * *"
+  schedule:
+    - cron: "0 23 * * *"
   workflow_dispatch: {}  # 手动触发按钮 (repo → Actions → daily-videos → Run)
 
 # 同时只跑一个,避免撞见 in-flight 的 discover
@@ -25,7 +26,9 @@ jobs:
     timeout-minutes: 60
     env:
       # Grace: 去 repo → Settings → Secrets and variables → Actions 加
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      #   GEMINI_API_KEY: 去 https://aistudio.google.com/apikey 免费拿
+      #   FEISHU_WEBHOOK_URL: 群机器人 webhook (可选, 没配不会崩)
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
       GH_TOKEN: ${{ github.token }}   # 给 gh CLI 用
 
@@ -94,7 +97,7 @@ jobs:
         run: python3 scripts/fetch_new_video_meta.py
 
       # ---------- L3: 提炼 takeaway ----------
-      - name: Extract takeaways (Anthropic Haiku)
+      - name: Extract takeaways (Gemini 2.5 Flash)
         if: steps.guard.outputs.skip == '0' && steps.discover.outputs.new_count != '' && steps.discover.outputs.new_count != '0'
         run: python3 scripts/03_extract_takeaways.py
 

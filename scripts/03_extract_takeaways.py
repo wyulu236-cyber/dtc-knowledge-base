@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 # scripts/03_extract_takeaways.py
-# 对每个 raw/<slug>/<vid>.en.vtt 调 Anthropic API 提炼 3-5 个 takeaway
-# 模型: claude-haiku-4-5 (便宜快, 200 视频 ~$1)
+# 对每个 raw/<slug>/<vid>.en.vtt 调 Gemini API 提炼 3-5 个 takeaway
+# 模型: gemini-2.5-flash (免费, 每天 1500 req, 用不完)
 # 仅依赖 stdlib (urllib),不要 pip install
 #
+# 为什么切 Gemini: Anthropic 新账号必须先充钱才能拿 key ($5 门槛),
+# 而 Gemini 免费层给 1500 RPD / 1M TPM, 我们一天最多 10 个视频,用 <1% 额度。
+# 免费层数据会被 Google 用于训练,但字幕本身是 YouTube 公开内容,不算隐私。
+#
 # 用法:
-#   export ANTHROPIC_API_KEY=sk-ant-...
+#   export GEMINI_API_KEY=AIzaSy...
 #   ./scripts/03_extract_takeaways.py
 # 选项:
-#   --only <slug>        只处理某个博主
-#   --limit N            只处理前 N 个视频 (调试用)
-#   --model haiku|sonnet 模型选择, 默认 haiku
+#   --only <slug>          只处理某个博主
+#   --limit N              只处理前 N 个视频 (调试用)
+#   --model flash|flash-lite  模型选择, 默认 flash
 
 import os
 import sys
@@ -34,8 +38,8 @@ TOPICS = [
 ]
 
 MODEL_MAP = {
-    "haiku":  "claude-haiku-4-5",
-    "sonnet": "claude-sonnet-4-5",
+    "flash":      "gemini-2.5-flash",
+    "flash-lite": "gemini-2.5-flash-lite",
 }
 
 
@@ -126,38 +130,83 @@ USER_PROMPT_TEMPLATE = """视频信息:
 请直接输出 JSON 数组。"""
 
 
-def call_anthropic(api_key: str, model: str, system: str, user: str, max_retries: int = 4) -> str:
-    """stdlib 实现 Anthropic Messages API 调用, 带 exponential backoff."""
+def call_gemini(api_key: str, model: str, system: str, user: str, max_retries: int = 4) -> str:
+    """stdlib 实现 Gemini generateContent 调用, 带 exponential backoff.
+    用 responseMimeType=application/json 强制返回纯 JSON, 省掉剥 ```json``` 的兜底。
+
+    坑记录 (challenger 挑出的):
+    1. Key 走 x-goog-api-key header, 不走 URL query. traceback 打印 URL 时不会泄漏.
+    2. finishReason=MAX_TOKENS 时输出会被截断成半个 JSON, parse 会崩. 明确捕获.
+    3. 429 里含 daily quota 关键字时立刻抛 QuotaExhausted, 不再 backoff (打了也白打).
+    4. camelCase 统一 (systemInstruction / generationConfig / responseMimeType /
+       maxOutputTokens). 老 Gemini SDK 只吃 camel, 别混用。
+    """
     body = json.dumps({
-        "model": model,
-        "max_tokens": 2048,
-        "system": system,
-        "messages": [{"role": "user", "content": user}],
+        "systemInstruction": {"parts": [{"text": system}]},
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
+        "generationConfig": {
+            # 4096 给 3-5 条 takeaway (中英混排 quote) 足够 headroom, 避免 MAX_TOKENS
+            "maxOutputTokens": 4096,
+            "temperature": 0.5,
+            "responseMimeType": "application/json",
+        },
     }).encode("utf-8")
     headers = {
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01",
         "content-type": "application/json",
+        "x-goog-api-key": api_key,  # 走 header, 不走 URL query. URL 出现在 log 里也不泄漏 key.
     }
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     delay = 2
     for attempt in range(max_retries):
-        req = request.Request("https://api.anthropic.com/v1/messages", data=body, headers=headers, method="POST")
+        req = request.Request(url, data=body, headers=headers, method="POST")
         try:
             with request.urlopen(req, timeout=120) as resp:
                 data = json.loads(resp.read())
-                return data["content"][0]["text"]
+                # Gemini 有几种失败姿势不抛 HTTP error, 需要主动判:
+                #   - 空 candidates (safety filter block, 或 API 换 shape)
+                #   - candidates[0] 没有 content/parts
+                #   - finishReason == "SAFETY" / "RECITATION" (被过滤)
+                #   - finishReason == "MAX_TOKENS" (输出被截断, parts 里是半个 JSON)
+                cands = data.get("candidates") or []
+                if not cands:
+                    pf = data.get("promptFeedback", {})
+                    reason = pf.get("blockReason", "no_candidates")
+                    raise RuntimeError(f"gemini returned no candidates ({reason})")
+                cand = cands[0]
+                finish = cand.get("finishReason", "")
+                if finish in ("SAFETY", "RECITATION"):
+                    raise RuntimeError(f"gemini blocked: finishReason={finish}")
+                if finish == "MAX_TOKENS":
+                    # 输出被截断. 别 silent 混进 JSONDecodeError, 明确记原因.
+                    raise RuntimeError("gemini output truncated (MAX_TOKENS) — 视频字幕过长或 prompt 太挤,可考虑分段")
+                parts = (cand.get("content") or {}).get("parts") or []
+                if not parts:
+                    raise RuntimeError(f"gemini empty parts (finishReason={finish})")
+                return parts[0].get("text", "")
         except error.HTTPError as e:
             err_body = e.read().decode("utf-8", errors="ignore")
+            # 只 log body 前 200 字符, 不 log URL (URL 现在没 key, 但保守起见也不打)
             print(f"    ! HTTP {e.code}: {err_body[:200]}", file=sys.stderr)
-            if e.code in (429, 500, 502, 503, 529) and attempt < max_retries - 1:
+            # 429 里如果是 daily quota 打满, retry 完全没用 (要等 Pacific midnight reset).
+            # 直接 raise QuotaExhausted, main 里 catch 后 break 掉外层 loop, 停整个脚本.
+            if e.code == 429 and ("perDay" in err_body or "PerDay" in err_body or "daily" in err_body.lower()):
+                raise QuotaExhausted(f"Gemini 每天 1500 RPD 已用完, 停. 明天 PT 午夜 reset. body: {err_body[:200]}")
+            if e.code in (429, 500, 502, 503) and attempt < max_retries - 1:
                 time.sleep(delay); delay *= 2; continue
             raise
         except (error.URLError, TimeoutError) as e:
+            # URLError.__str__() 可能带 URL, 但 URL 现在不带 key. 安全.
             print(f"    ! Net err: {e}", file=sys.stderr)
             if attempt < max_retries - 1:
                 time.sleep(delay); delay *= 2; continue
             raise
     raise RuntimeError("max_retries exhausted")
+
+
+class QuotaExhausted(Exception):
+    """Gemini 每天 1500 RPD 打满. 抛出后 main 应立即 break, 不要继续调.
+    (继续调也会继续 429, 明天 PT 午夜自动 reset)"""
+    pass
 
 
 def parse_json_response(text: str) -> list:
@@ -255,14 +304,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="只处理某个 slug")
     ap.add_argument("--limit", type=int, default=0, help="每博主最多处理 N 个视频 (调试)")
-    ap.add_argument("--model", choices=list(MODEL_MAP.keys()), default="haiku")
+    ap.add_argument("--model", choices=list(MODEL_MAP.keys()), default="flash")
     args = ap.parse_args()
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("❌ ANTHROPIC_API_KEY 未设置。", file=sys.stderr)
-        print("  → 去 https://console.anthropic.com/settings/keys 创建一个", file=sys.stderr)
-        print("  → export ANTHROPIC_API_KEY=sk-ant-...", file=sys.stderr)
+        print("❌ GEMINI_API_KEY 未设置。", file=sys.stderr)
+        print("  → 去 https://aistudio.google.com/apikey 创建一个 (免费, 不用信用卡)", file=sys.stderr)
+        print("  → export GEMINI_API_KEY=AIzaSy...", file=sys.stderr)
         sys.exit(1)
 
     model = MODEL_MAP[args.model]
@@ -292,8 +341,12 @@ def main():
     fail_log = []
     # id-based dedup (challenger 2a): 防止同一个 (video, idx) 被处理两次导致 topic 双重计数
     known_ids = {t["id"] for t in all_takeaways}
+    # 一旦撞每天配额上限, 内层 catch QuotaExhausted 会 set 这个 flag,
+    # 内外两层 for 都靠它 break, 保留已处理成果 + 明确日志退出。
+    quota_hit = False
 
     for index_file in sorted(META.glob("*/index.json")):
+        if quota_hit: break
         slug = index_file.parent.name
         if args.only and slug != args.only:
             continue
@@ -328,7 +381,7 @@ def main():
 
             print(f"  · {vid} ({v.get('title', '')[:60]})...", end=" ", flush=True)
             try:
-                resp = call_anthropic(api_key, model, SYSTEM_PROMPT, user_msg)
+                resp = call_gemini(api_key, model, SYSTEM_PROMPT, user_msg)
                 items = parse_json_response(resp)
                 if not isinstance(items, list):
                     raise ValueError("response is not a list")
@@ -345,6 +398,12 @@ def main():
                 print(f"✅ {len(normalized)}")
                 # 每处理完一个视频写 tmp (不动 out_path);crash 后至少能从 tmp 恢复,不覆盖旧数据
                 tmp_path.write_text(json.dumps(all_takeaways, ensure_ascii=False, indent=2))
+            except QuotaExhausted as e:
+                # 撞每天上限. 别再打了 (打了继续 429 白掉配额), 保存已有结果退出.
+                print(f"⛔ {e}")
+                fail_log.append({"video_id": vid, "channel_slug": slug, "error": "quota_exhausted"})
+                quota_hit = True
+                break
             except Exception as e:
                 print(f"❌ {e}")
                 fail_log.append({"video_id": vid, "channel_slug": slug, "error": str(e)[:200]})
