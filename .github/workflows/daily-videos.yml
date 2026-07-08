@@ -1,10 +1,13 @@
 name: daily-videos
 
-# 每天 CST 07:00 = UTC 23:00 (前一天) 跑一次 (GitHub scheduled workflow 高峰期可能漂移 ±15 分)
-# 参考: https://crontab.guru/#0_23_*_*_*
+# 【当前状态: 仅手动触发】
+# Grace 暂时没配 ANTHROPIC_API_KEY(不想充钱), 所以关掉了每日自动 cron,
+# 只保留 workflow_dispatch 手动按钮。
+# 想恢复每日自动: 把下面 schedule 那两行的 # 去掉, 并在 repo Secrets 里加 ANTHROPIC_API_KEY。
+# 参考 cron: https://crontab.guru/#0_23_*_*_*  (UTC 23:00 = CST 07:00)
 on:
-  schedule:
-    - cron: "0 23 * * *"
+  # schedule:
+  #   - cron: "0 23 * * *"
   workflow_dispatch: {}  # 手动触发按钮 (repo → Actions → daily-videos → Run)
 
 # 同时只跑一个,避免撞见 in-flight 的 discover
